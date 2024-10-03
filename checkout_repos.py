@@ -21,4 +21,4 @@ except KeyError as e:
 # Debugging: Print each repository URL to check for errors
 for repo in repos:
     print(f"Cloning repository: {repo}")
-    subprocess.run(["git", "clone", repo], check=True)
+    subprocess.run(["git", "clone", repos], check=True)
