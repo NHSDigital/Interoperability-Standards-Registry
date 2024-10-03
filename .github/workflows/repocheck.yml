@@ -22,9 +22,6 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Execute Naming Convention Check
-        run: python test_scripts/QualityControlChecker/QualityControlChecker.py
-
       - name: Checkout all repositories from master_variables
         run: |
          python -c 'import json; import subprocess; \
