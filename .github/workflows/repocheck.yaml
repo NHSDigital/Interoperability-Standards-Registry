@@ -1,5 +1,20 @@
-- name: Checkout all repositories from master_variables
+name: Package Comparison Tool
 
+# Controls when the workflow will run
+on:
+  workflow_dispatch:
+    inputs:
+      fhir-element:
+        description: 'FHIR elements to compare, separated by a comma, e.g. min,max'
+        type: string
+      differential:
+        description: 'Check only the elements within the StructureDefinition.differential'
+        type: boolean
+      ignore-extensions:
+        description: 'Check to ignore any extension elements'
+        type: boolean
+
+jobs:
   build:
     runs-on: ubuntu-latest
     steps:
@@ -18,23 +33,27 @@
         run: |
           python -m pip install --upgrade pip
           pip install -r ./requirements.txt
-  run: |
-    python -c "
-    import json
-    import subprocess
-    with open('master_variables.json') as f:
-        repos = json.load(f)['repo_list']
-    for repo in repos:
-        subprocess.run(['git', 'clone', repo])
-    "
-- name: Run asset scraper
-  run: python asset_scraper.py
 
-- name: Commit and push changes
-  run: |
-    git config --global user.name "GitHub Actions"
-    git config --global user.email "actions@github.com"
-    git add .
-    git diff --quiet || git commit -m "Update asset markdown"
-    git push
+       - name: Checkout all repositories from master_variables
+          run: |
+            python -c "
+            import json
+            import subprocess
+            with open('master_variables.json') as f:
+            repos = json.load(f)['repo_list']
+            for repo in repos:
+            subprocess.run(['git', 'clone', repo])
+            "
+        - name: Run asset scraper
+          run: python asset_scraper.py
 
+        - name: Commit and push changes
+           run: |
+           git config --global user.name "GitHub Actions"
+           git config --global user.email "actions@github.com"
+           git add .
+           git push
+
+
+
+     
