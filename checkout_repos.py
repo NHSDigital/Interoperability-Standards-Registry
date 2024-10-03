@@ -9,4 +9,4 @@ with open("master_variables.json") as f:
 
 # Clone each repository
 for repo in repos:
-    subprocess.run(["git", "clone", repo], check=True)
+    subprocess.run(["git", "clone", repos], check=True)
