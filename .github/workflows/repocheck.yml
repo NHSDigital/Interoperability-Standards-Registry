@@ -1,40 +1,31 @@
-name: Package Comparison Tool
+name: IOPS-AssetScrapper-InteropRegistry
 
 # Controls when the workflow will run
 on:
-  workflow_dispatch:
-    inputs:
-      fhir-element:
-        description: 'FHIR elements to compare, separated by a comma, e.g. min,max'
-        type: string
-      differential:
-        description: 'Check only the elements within the StructureDefinition.differential'
-        type: boolean
-      ignore-extensions:
-        description: 'Check to ignore any extension elements'
-        type: boolean
+  # Triggers the workflow on push or pull request events but only for the master branch
+  workflow_call:
+  #push:
 
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  build:
+  job1:
+    name: AssetScrapper Interoperability Registry
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
-          repository: ${{ github.event.repository.full_name }}
-          ref: ${{ github.event.ref }}
+          submodules: true
 
-      - name: Set up Python
+      - name: Set up python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r ./requirements.txt
+      - name: Execute Naming Convention Check
+        run: python test_scripts/QualityControlChecker/QualityControlChecker.py
 
-       - name: Checkout all repositories from master_variables
+      - name: Checkout all repositories from master_variables
           run: |
             python -c "
             import json
@@ -44,10 +35,10 @@ jobs:
             for repo in repos:
             subprocess.run(['git', 'clone', repo])
             "
-        - name: Run asset scraper
+      - name: Run asset scraper
           run: python asset_scraper.py
 
-        - name: Commit and push changes
+      - name: Commit and push changes
            run: |
            git config --global user.name "GitHub Actions"
            git config --global user.email "actions@github.com"
