@@ -5,7 +5,7 @@ import subprocess
 
 # Load repositories from master_variables.json
 with open("master_variables.json") as f:
-    repos = json.load(f)['repo_list']
+    repos = json.load(f)['repos']
 
 # Clone each repository
 for repo in repos:
