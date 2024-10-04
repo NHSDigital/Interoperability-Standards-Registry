@@ -4,7 +4,7 @@ import os  # Make sure os is imported
 
 # Load repositories from master_variables.json
 try:
-    with open("master_variables.json") as f:
+    with open("main_variables.json") as f:
         data = json.load(f)
         repos = data.get('repos', None)
         if repos is None:
