@@ -2,8 +2,6 @@
 import xml.etree.ElementTree as ET
 import json
 import os
-#import sys
-from master_variables import *
 
 
 def openXMLFile(xml_file,warnings):        
@@ -62,17 +60,12 @@ def list_files(folder):
                 xml_files.append(os.path.join(dirpath, filename))
             elif filename.endswith('.json'):
                 json_files.append(os.path.join(dirpath, filename))
-
     return xml_files, json_files
 
 
 def GlobalUpdates(filename, dict_elements, warnings):
     global_elements.update({filename:dict_elements})
     global_warnings.update({filename:warnings})
-
-
-for repo in repos:
-    xml_files, json_files = list_files(repo)
 
 
 def process_file(file_path, file_type):
@@ -94,24 +87,32 @@ def process_file(file_path, file_type):
             global_ignore.append(filename)
             continue
         dict_elements[element] = value 
-
     GlobalUpdates(filename, dict_elements, warnings)
-
-
-
+        
+def get_variables(file, attribute):
+    warnings = []
+    open_file, warnings = openJSONFile(file, warnings)
+    global_warnings.update({file:warnings})
+    list, warnings = getJSONElement(open_file, attribute, warnings)
+    global_warnings.update({str(file+':'+list,:warnings})
+    return list
+    
 global_warnings = {}
 global_elements = {}
 global_ignore = []
+
+
+repos = get_variables('master_variables.json', 'repos')
+asset_elements = getJSONElement('master_variables.json', 'asset_elements')
+
+for repo in repos:
+    xml_files, json_files = list_files(repo)
 
 for xml_file in xml_files:
     process_file(xml_file, 'xml')
 
 for json_file in json_files:
     process_file(json_file, 'json')
-
-
-global_ignore
-
 
 if os.path.exists("asset.md"):
     os.remove("asset.md")
