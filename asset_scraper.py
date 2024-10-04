@@ -102,8 +102,8 @@ global_elements = {}
 global_ignore = []
 
 
-repos = get_variables('master_variables.json', 'repos')
-asset_elements = getJSONElement('master_variables.json', 'asset_elements')
+repos = get_variables('main_variables.json', 'repos')
+asset_elements = getJSONElement('main_variables.json', 'asset_elements')
 
 for repo in repos:
     xml_files, json_files = list_files(repo)
