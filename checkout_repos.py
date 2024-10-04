@@ -1,5 +1,6 @@
 import json
 import subprocess
+import os  # Make sure os is imported
 
 # Load repositories from master_variables.json
 try:
