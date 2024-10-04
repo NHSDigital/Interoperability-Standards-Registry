@@ -1,0 +1,13 @@
+{
+    "repos": [
+        "NHSEngland-FHIR-Programme-ImplementationGuide"
+    ],
+    "asset_elements": [
+        "url",
+        "id",
+        "version",
+        "status",
+        "type",
+        "purpose"
+    ]
+}
