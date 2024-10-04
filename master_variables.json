@@ -1,5 +1,8 @@
 {
-	"repos": "https://github.com/NHSDigital/NHSEngland-FHIR-Programme-ImplementationGuide","https://github.com/NHSDigital/FHIR-R4-UKCORE-STAGING-MAIN",
+	"repos": [
+		"https://github.com/NHSDigital/NHSEngland-FHIR-Programme-ImplementationGuide",
+		"https://github.com/NHSDigital/FHIR-R4-UKCORE-STAGING-MAIN"
+	],
 	"asset_elements": [
 		"url",
 		"id",
