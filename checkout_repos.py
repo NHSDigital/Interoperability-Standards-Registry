@@ -18,7 +18,25 @@ except KeyError as e:
     print(f"KeyError: {e}")
     exit(1)
 
-# Debugging: Print each repository URL to check for errors
+# Function to clone or pull the repository
+def clone_or_pull_repo(repo_url):
+    repo_name = repo_url.split('/')[-1].replace('.git', '')  # Extract the repo name
+    repo_dir = os.path.join('repos', repo_name)  # Define the directory where the repo will be cloned
+
+    if os.path.isdir(repo_dir):
+        # If the directory exists, pull the latest changes
+        print(f"Directory {repo_dir} exists, pulling latest changes.")
+        subprocess.run(["git", "-C", repo_dir, "pull"], check=True)
+    else:
+        # Otherwise, clone the repository
+        print(f"Cloning repository: {repo_url}")
+        os.makedirs(repo_dir, exist_ok=True)
+        subprocess.run(["git", "clone", repo_url, repo_dir], check=True)
+
+# Iterate through the list of repositories and clone or pull
 for repo in repos:
-    print(f"Cloning repository: {repo}")
-    subprocess.run(["git", "clone", repos], check=True)
+    try:
+        clone_or_pull_repo(repo)
+    except subprocess.CalledProcessError as e:
+        print(f"Error while processing {repo}: {e}")
+
