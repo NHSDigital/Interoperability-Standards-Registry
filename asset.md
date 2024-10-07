@@ -1,8 +1,7 @@
-
-    ## Profiles
-    <br>
-    <table>
-    <tr>
+## Profiles
+<br>
+<table>
+<tr>
     <td>England-Condition-Flag</td><td>https://fhir.nhs.uk/England/StructureDefinition/England-Condition-Flag</td><td>England-Condition-Flag</td><td>0.2.0</td><td>draft</td><td>Condition</td><td>This profile is made available to record an individual condition for a flag in NHS England</td>
 </tr>
 <tr>
@@ -634,11 +633,13 @@ Slots can also be marked as busy without having appointments associated.</td>
 
 Note that there are a variety of processes associated with making and processing orders. Some orders may be handled immediately by automated systems but most require real world actions by one or more humans. Some orders can only be processed when other real world actions happen, such as a patient presenting themselves so that the action to be performed can actually be performed. Often these real world dependencies are only implicit in the order details.</td>
 </tr>
-</table><br><br> ---
-    ## ValueSets
-    <br>
-    <table>
-    <tr>
+</table>
+<br><br>
+---
+## ValueSets
+<br>
+<table>
+<tr>
     <td>ValueSet-England-BodyStructure</td><td>https://fhir.nhs.uk/England/ValueSet/England-BodyStructure</td><td>England-BodyStructure</td><td>0.0.2</td><td>draft</td><td></td><td></td>
 </tr>
 <tr>
@@ -1079,11 +1080,13 @@ Note that there are a variety of processes associated with making and processing
 <tr>
     <td>nhsdigital-message-events</td><td>https://fhir.nhs.uk/ValueSet/NHSDigital-message-events</td><td>nhsdigital-message-events</td><td>1.0.12</td><td>draft</td><td></td><td></td>
 </tr>
-</table><br><br> ---
-    ## CodeSystems
-    <br>
-    <table>
-    <tr>
+</table>
+<br><br>
+---
+## CodeSystems
+<br>
+<table>
+<tr>
     <td>CodeSystem-England-ConditionCategoryRA</td><td>https://fhir.nhs.uk/England/CodeSystem/England-ConditionCategoryRA</td><td>England-ConditionCategoryRA</td><td>0.4.0</td><td>draft</td><td></td><td></td>
 </tr>
 <tr>
@@ -1392,11 +1395,13 @@ Note that there are a variety of processes associated with making and processing
 <tr>
     <td>message-event</td><td>https://fhir.nhs.uk/CodeSystem/message-event</td><td>message-events</td><td>1.0.19</td><td>draft</td><td></td><td></td>
 </tr>
-</table><br><br> ---
-    ## ConceptMaps
-    <br>
-    <table>
-    <tr>
+</table>
+<br><br>
+---
+## ConceptMaps
+<br>
+<table>
+<tr>
     <td>ConceptMap-UKCore-AdministrativeGender</td><td>https://fhir.hl7.org.uk/ConceptMap/ConceptMap-UKCore-AdministrativeGender</td><td>UKCore-AdministrativeGender</td><td>2.0.0</td><td>retired</td><td></td><td></td>
 </tr>
 <tr>
@@ -1405,11 +1410,13 @@ Note that there are a variety of processes associated with making and processing
 <tr>
     <td>ConceptMap-UKCore-MaritalStatus</td><td>https://fhir.hl7.org.uk/ConceptMap/ConceptMap-UKCore-MaritalStatus</td><td>UKCore-MaritalStatus</td><td>2.0.0</td><td>retired</td><td></td><td></td>
 </tr>
-</table><br><br> ---
-    ## CapabilityStatements
-    <br>
-    <table>
-    <tr>
+</table>
+<br><br>
+---
+## CapabilityStatements
+<br>
+<table>
+<tr>
     <td>CapabilityStatement-England</td><td>https://fhir.hl7.org.uk/CapabilityStatement/England-conformance</td><td>apim-conformance</td><td>1.0.0</td><td>active</td><td></td><td></td>
 </tr>
 <tr>
@@ -1430,4 +1437,6 @@ Note that there are a variety of processes associated with making and processing
 <tr>
     <td>CapabilityStatement-UKCore</td><td>https://fhir.hl7.org.uk/CapabilityStatement/ukcore-conformance</td><td>apim-conformance</td><td>3.2.0</td><td>active</td><td></td><td></td>
 </tr>
-</table><br><br> ---
+</table>
+<br><br>
+---
