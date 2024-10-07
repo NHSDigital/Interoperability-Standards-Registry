@@ -65,27 +65,6 @@ def GlobalUpdates(filename, dict_elements, warnings):
     global_elements.update({filename:dict_elements})
     global_warnings.update({filename:warnings})
 
-
-def process_file(file_path, file_type):
-    dict_elements = {}
-    warnings = []
-    
-    if file_type == 'xml':
-        file, warnings = openXMLFile(file_path, warnings)
-        get_element = getXMLElement
-    else:  # Assuming the only other type is JSON
-        file, warnings = openJSONFile(file_path, warnings)
-        get_element = getJSONElement
-
-    filename = file_path.split('\\')[-1].split('.')[0]
-
-    for element in asset_elements:
-        value, warnings = get_element(file, element, warnings)
-        if element == 'url' and not value:
-            global_ignore.append(filename)
-            continue
-        dict_elements[element] = value 
-    GlobalUpdates(filename, dict_elements, warnings)
         
 def get_variables(file, attribute):
     warnings = []
@@ -102,15 +81,30 @@ global_ignore = []
 asset_elements = get_variables('main_variables.json', 'asset_elements')
 
 
-xml_files, json_files = list_files('.')
-print(f"xml files:{xml_files}")
-print(f"json files:{json_files}")
-
 for xml_file in xml_files:
-    process_file(xml_file, 'xml')
+    dict_elements = {}
+    filename = xml_file.split('\\')[-1].split('.')[0]
+    file, warnings = openXMLFile(xml_file, warnings)
+    for element in asset_elements:
+        value, warnings = getXMLElement(file, element, warnings)
+        if element == 'url' and not value:
+            global_ignore.append(filename)
+            pass        
+        dict_elements.update({element:value})
+    GlobalUpdates(filename, dict_elements, warnings)
 
 for json_file in json_files:
-    process_file(json_file, 'json')
+    dict_elements = {}
+    warnings = []
+    filename = json_file.split('\\')[-1].split('.')[0]
+    file, warnings = openJSONFile(json_file, warnings)
+    for element in asset_elements:
+        value, warnings = getJSONElement(file, element, warnings)
+        if element == 'url' and not value:
+            global_ignore.append(filename)
+            pass        
+        dict_elements.update({element:value})
+    GlobalUpdates(filename, dict_elements, warnings)
 
 print(f"global_elements:{global_elements}")
 for key, value in global_warnings.items():
