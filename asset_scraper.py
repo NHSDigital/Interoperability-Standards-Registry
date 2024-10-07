@@ -123,18 +123,38 @@ print("Files ignored:")
 for f in global_ignore:
     print(f"\t{f}")
     
-
-if os.path.exists("asset.md"):
-    os.remove("asset.md")
-md_file = open(f"asset.md","w")
-md_file.write('''
-## TEST
-<br>
-<table>
-''')
-
-
+'''Sort assets into seperate dictionaries'''
+codesystems = {}
+conceptmaps = {}
+capabilitystatements = {}
+valuesets = {}
+profiles = {}
 for asset, elements in global_elements.items():
+    for k,v in elements.items():
+        if k=='url':
+            if 'codesystem' in v.lower():
+                codesystems.update({asset:elements})
+                continue
+            elif 'conceptmap' in v.lower():
+                conceptmaps.update({asset:elements})
+                continue
+            elif 'capabilitystatement' in v.lower():
+                capabilitystatements.update({asset:elements})
+                continue
+            elif 'valueset' in v.lower():
+                valuesets.update({asset:elements})
+                continue
+            else:
+                profiles.update({asset:elements})
+                continue
+codesystems = dict(sorted(codesystems.items()))
+valuesets = dict(sorted(valuesets.items()))
+profiles = dict(sorted(profiles.items()))
+conceptmaps = dict(sorted(conceptmaps.items()))
+capabilitystatements = dict(sorted(capabilitystatements.items()))
+
+''Create markdown file'''
+def code_assets(asset,elements):
     md_file.write('''<tr>
     <td>''')
     md_file.write(str(asset)) 
@@ -144,14 +164,29 @@ for asset, elements in global_elements.items():
         md_file.write(str(value))
         md_file.write('''</td>''')
     md_file.write('''\n</tr>\n''')
+    
+
+def write_section(md_file, title, items):
+    md_file.write(f'''
+    ## {title}
+    <br>
+    <table>
+    ''')
+    for asset, elements in items.items():
+        code_assets(asset, elements)
+    md_file.write('''</table><br><br> ---''')
+
+if os.path.exists("asset.md"):
+    os.remove("asset.md")
+md_file = open(f"asset.md","w")
+
+write_section(md_file, "Profiles", profiles)
+write_section(md_file, "ValueSets", valuesets)
+write_section(md_file, "CodeSystems", codesystems)
+write_section(md_file, "ConceptMaps", conceptmaps)
+write_section(md_file, "CapabilityStatements", capabilitystatements)
+
 md_file.close()
-
-
-for asset, elements in global_elements.items():
-    print(elements)
-    for k,v in elements.items():
-        print(v)
-
 
 
 
