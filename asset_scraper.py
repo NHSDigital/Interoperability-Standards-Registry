@@ -80,6 +80,7 @@ global_ignore = []
 
 xml_files, json_files = list_files('.')
 asset_elements = get_variables('main_variables.json', 'asset_elements')
+print(f"json files:{json_files}")
 
 
 for xml_file in xml_files:
