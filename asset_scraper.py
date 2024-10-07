@@ -40,13 +40,11 @@ def getJSONElement(jsonFile, element, warnings):
     return '',warnings
 
 
-def printWarnings(warnings, file, error):
+def printWarnings(warnings, file):
     if warnings:
-        error=True
         print("\t",file)
         for x in warnings:
             print(x)
-    return error
 
 
 def list_files(folder):
@@ -67,64 +65,96 @@ def GlobalUpdates(filename, dict_elements, warnings):
     global_elements.update({filename:dict_elements})
     global_warnings.update({filename:warnings})
 
-
-def process_file(file_path, file_type):
-    dict_elements = {}
-    warnings = []
-    
-    if file_type == 'xml':
-        file, warnings = openXMLFile(file_path, warnings)
-        get_element = getXMLElement
-    else:  # Assuming the only other type is JSON
-        file, warnings = openJSONFile(file_path, warnings)
-        get_element = getJSONElement
-
-    filename = file_path.split('\\')[-1].split('.')[0]
-
-    for element in asset_elements:
-        value, warnings = get_element(file, element, warnings)
-        if element == 'url' and not value:
-            global_ignore.append(filename)
-            continue
-        dict_elements[element] = value 
-    GlobalUpdates(filename, dict_elements, warnings)
         
 def get_variables(file, attribute):
     warnings = []
     open_file, warnings = openJSONFile(file, warnings)
     global_warnings.update({file:warnings})
     list, warnings = getJSONElement(open_file, attribute, warnings)
-    global_warnings.update({str(file+':'+list,:warnings})
+    global_warnings.update({str(file)+':'+str(list):warnings})
     return list
     
 global_warnings = {}
 global_elements = {}
 global_ignore = []
 
+xml_files, json_files = list_files('.')
+asset_elements = get_variables('main_variables.json', 'asset_elements')
+print(f"json files:{json_files}")
 
-repos = get_variables('main_variables.json', 'repos')
-asset_elements = getJSONElement('main_variables.json', 'asset_elements')
-
-for repo in repos:
-    xml_files, json_files = list_files(repo)
 
 for xml_file in xml_files:
-    process_file(xml_file, 'xml')
+    dict_elements = {}
+    warnings = []
+    not_asset = False
+    filename = xml_file.split('/')[-1].split('.')[0]
+    file, warnings = openXMLFile(xml_file, warnings)
+    for element in asset_elements:
+        value, warnings = getXMLElement(file, element, warnings)
+        if element == 'url' and not value:
+            global_ignore.append(filename)
+            not_asset = True
+            continue        
+        dict_elements.update({element:value})
+    if not not_asset:
+        GlobalUpdates(filename, dict_elements, warnings)
 
 for json_file in json_files:
-    process_file(json_file, 'json')
+    dict_elements = {}
+    warnings = []
+    not_asset = False
+    filename = json_file.split('/')[-1].split('.')[0]
+    file, warnings = openJSONFile(json_file, warnings)
+    for element in asset_elements:
+        value, warnings = getJSONElement(file, element, warnings)
+        if element == 'url' and not value:
+            global_ignore.append(filename)
+            not_asset = True
+            continue       
+        dict_elements.update({element:value})
+    if not not_asset:
+        GlobalUpdates(filename, dict_elements, warnings)
 
-if os.path.exists("asset.md"):
-    os.remove("asset.md")
-md_file = open(f"asset.md","w")
-md_file.write('''
-## TEST
-<br>
-<table>
-''')
+print(f"global_elements:{global_elements}")
+for key, value in global_warnings.items():
+    printWarnings(value, key)
 
-
+print("Files ignored:")
+for f in global_ignore:
+    print(f"\t{f}")
+    
+'''Sort assets into seperate dictionaries'''
+codesystems = {}
+conceptmaps = {}
+capabilitystatements = {}
+valuesets = {}
+profiles = {}
 for asset, elements in global_elements.items():
+    for k,v in elements.items():
+        if k=='url':
+            if 'codesystem' in v.lower():
+                codesystems.update({asset:elements})
+                continue
+            elif 'conceptmap' in v.lower():
+                conceptmaps.update({asset:elements})
+                continue
+            elif 'capabilitystatement' in v.lower():
+                capabilitystatements.update({asset:elements})
+                continue
+            elif 'valueset' in v.lower():
+                valuesets.update({asset:elements})
+                continue
+            else:
+                profiles.update({asset:elements})
+                continue
+codesystems = dict(sorted(codesystems.items()))
+valuesets = dict(sorted(valuesets.items()))
+profiles = dict(sorted(profiles.items()))
+conceptmaps = dict(sorted(conceptmaps.items()))
+capabilitystatements = dict(sorted(capabilitystatements.items()))
+
+'''Create markdown file'''
+def code_assets(asset,elements):
     md_file.write('''<tr>
     <td>''')
     md_file.write(str(asset)) 
@@ -134,14 +164,25 @@ for asset, elements in global_elements.items():
         md_file.write(str(value))
         md_file.write('''</td>''')
     md_file.write('''\n</tr>\n''')
+    
+
+def write_section(md_file, title, items):
+    print(f"## {title}\n<br>\n<table>", file=md_file)
+    for asset, elements in items.items():
+        code_assets(asset, elements)
+    print(f"</table>\n<br><br>\n\n---\n\n",file=md_file)
+
+if os.path.exists("asset.md"):
+    os.remove("asset.md")
+md_file = open(f"asset.md","w")
+
+write_section(md_file, "Profiles", profiles)
+write_section(md_file, "ValueSets", valuesets)
+write_section(md_file, "CodeSystems", codesystems)
+write_section(md_file, "ConceptMaps", conceptmaps)
+write_section(md_file, "CapabilityStatements", capabilitystatements)
+
 md_file.close()
-
-
-for asset, elements in global_elements.items():
-    print(elements)
-    for k,v in elements.items():
-        print(v)
-
 
 
 
