@@ -50,7 +50,7 @@ jobs:
         env:
           SIMPLIFIER_API_TOKEN: ${{ secrets.SIMPLIFIER_API_TOKEN }}
         run: |
-         curl -X POST https://simplifier.net/api/projects/{R4-Sand-Box}/guides \
+         curl -X POST https://simplifier.net/api/projects/R4-Sand-Box/guides \
          -H "Authorization: Bearer $SIMPLIFIER_API_TOKEN" \
          -F "file=@guide.yaml"
 
