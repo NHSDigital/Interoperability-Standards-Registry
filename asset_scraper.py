@@ -172,7 +172,8 @@ def write_section(md_file, title, items):
         code_assets(asset, elements)
     print(f"</table>\n<br><br>\n\n---\n\n",file=md_file)
 
-path = './Guides/Interoperability-Standard-Registry-Guide/About-Interoperability/FHIR-Assets/R4-Assets.page.md'
+path = './guides/Interoperability-Standard-Registry-Guide/About-Interoperability/FHIR-Assets/R4-Assets.page.md'
+
 if os.path.exists(path):
     os.remove(path)
 md_file = open(path,"w")

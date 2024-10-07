@@ -324,12 +324,6 @@
     <td>GPReg-Questionnaire-RegisterGPSurgery-Example</td><td>https://fhir.nhs.uk/England/StructureDefinition/England-Questionnaire-RegisterGPSurgeryv2</td><td>GPReg-Questionnaire-RegisterGPSurgery-Example</td><td></td><td>draft</td><td></td><td>To standardise the questions asked when registering for a GP Surgery within England</td>
 </tr>
 <tr>
-    <td>NHSDigital-Patient</td><td>https://fhir.nhs.uk/StructureDefinition/NHSDigital-Patient</td><td>7c42ccf1-3e8f-446c-8f7f-d703281a07d5</td><td></td><td>draft</td><td>Patient</td><td></td>
-</tr>
-<tr>
-    <td>NHSDigitalServiceRequestPatientCare</td><td>https://fhir.nhs.uk/StructureDefinition/NHSDigital-ServiceRequest-PatientCare</td><td></td><td></td><td>draft</td><td>ServiceRequest</td><td>Profile on NHSDigital-ServiceRequest for NHS App/e-RS PatientCare</td>
-</tr>
-<tr>
     <td>SearchParameter-England-Extension-OrganisationRole-ActiveRoleCode</td><td>https://fhir.nhs.uk/England/SearchParameter/England-Extension-OrganisationRole-ActiveRoleCode</td><td>England-Extension-OrganisationRole-ActiveRoleCode</td><td>0.0.2</td><td>draft</td><td>token</td><td></td>
 </tr>
 <tr>
