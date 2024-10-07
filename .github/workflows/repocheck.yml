@@ -15,6 +15,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          sparse-checkout: .
+          
+      - uses: actions/checkout@v4
+        with:
           repository: NHSDigital/FHIR-R4-UKCORE-STAGING-MAIN
           path: FHIR-R4-UKCORE-STAGING-MAIN
 
@@ -37,7 +41,7 @@ jobs:
         run: |
           echo "$PWD"
           ls -a
-          #python ./asset_scraper.py
+          python asset_scraper.py
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
