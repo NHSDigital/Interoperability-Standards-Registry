@@ -1,0 +1,31 @@
+---
+id: Interoperability Standards Registry
+title: "Interoperability Standards Registry"
+description: >
+  NHS England site for all profiles and resources.
+status: draft
+fhirVersion: 4.0.1
+
+structure:
+  sections:
+    - title: "About Interoperability"
+      source: Index.page.md
+    - title: "FHIR-Guides"
+      subsections:
+        - title: "NHS England Programme Guides"
+          source: NHS-England-Programme-Guides.page.md
+        - title: " UK Core Guides"
+          source: UK-Core-Guides.page.md
+    - title: "FHIR-Assets"
+       subsections:
+         - title: "R4 Assets"
+           source: R4-Assets.page.md
+         - title: "STU3 Assets"
+           source: STU3-Assets.page.md
+    - title: "Interoperability Tools"
+      source: Index.page.md
+
+dependencies:
+  - name: hl7.fhir.r4.core
+    version: 4.0.1
+    uri: http://hl7.org/fhir/4.0.1/package.tgz
