@@ -110,7 +110,7 @@ for xml_file in xml_files:
 for json_file in json_files:
     process_file(json_file, 'json')
 
-for key, value in global_warnings:
+for key, value in global_warnings.items():
     printWarnings(value, key)
 
 if os.path.exists("asset.md"):
