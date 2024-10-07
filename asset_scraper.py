@@ -94,7 +94,7 @@ def get_variables(file, attribute):
     open_file, warnings = openJSONFile(file, warnings)
     global_warnings.update({file:warnings})
     list, warnings = getJSONElement(open_file, attribute, warnings)
-    global_warnings.update({str(file+':'+list,:warnings})
+    global_warnings.update({file+':'+list:warnings})
     return list
     
 global_warnings = {}
