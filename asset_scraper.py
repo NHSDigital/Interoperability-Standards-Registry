@@ -92,7 +92,7 @@ for xml_file in xml_files:
         value, warnings = getXMLElement(file, element, warnings)
         if element == 'url' and not value:
             global_ignore.append(filename)
-            pass        
+            continue        
         dict_elements.update({element:value})
     GlobalUpdates(filename, dict_elements, warnings)
 
@@ -105,7 +105,7 @@ for json_file in json_files:
         value, warnings = getJSONElement(file, element, warnings)
         if element == 'url' and not value:
             global_ignore.append(filename)
-            pass        
+            continue       
         dict_elements.update({element:value})
     GlobalUpdates(filename, dict_elements, warnings)
 
