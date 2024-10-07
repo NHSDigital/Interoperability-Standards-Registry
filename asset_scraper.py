@@ -167,14 +167,10 @@ def code_assets(asset,elements):
     
 
 def write_section(md_file, title, items):
-    md_file.write(f'''
-    ## {title}
-    <br>
-    <table>
-    ''')
+    print(f"## {title}\n<br>\n<table>", file=md_file)
     for asset, elements in items.items():
         code_assets(asset, elements)
-    md_file.write('''</table><br><br> ---''')
+    print(f"</table>\n<br><br>\n---",file=md_file)
 
 if os.path.exists("asset.md"):
     os.remove("asset.md")
