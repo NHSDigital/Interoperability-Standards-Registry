@@ -41,6 +41,19 @@ jobs:
           ls -a
           python asset_scraper.py
 
+      - name: Install dependencies
+        run: |
+         sudo apt-get update
+         sudo apt-get install -y curl
+
+      - name: Publish to Simplifier
+        env:
+          SIMPLIFIER_API_TOKEN: ${{ secrets.SIMPLIFIER_API_TOKEN }}
+        run: |
+         curl -X POST https://simplifier.net/api/projects/{R4-Sand-Box}/guides \
+         -H "Authorization: Bearer $SIMPLIFIER_API_TOKEN" \
+         -F "file=@guide.yaml"
+
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
