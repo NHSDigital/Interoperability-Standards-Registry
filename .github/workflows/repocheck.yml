@@ -31,7 +31,10 @@ jobs:
           python-version: '3.x'
        
       - name: Run asset scraper
-        run: python ./asset_scraper.py
+        run: |
+          echo "$PWD"
+          ls -a
+          #python ./asset_scraper.py
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
