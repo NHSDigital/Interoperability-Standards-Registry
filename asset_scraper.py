@@ -103,6 +103,8 @@ asset_elements = get_variables('main_variables.json', 'asset_elements')
 
 
 xml_files, json_files = list_files('.')
+print(f"xml files:{xml_files}")
+print(f"json files:{json_files}")
 
 for xml_file in xml_files:
     process_file(xml_file, 'xml')
@@ -110,6 +112,7 @@ for xml_file in xml_files:
 for json_file in json_files:
     process_file(json_file, 'json')
 
+print(f"global_elements:{global_elements})
 for key, value in global_warnings.items():
     printWarnings(value, key)
 
