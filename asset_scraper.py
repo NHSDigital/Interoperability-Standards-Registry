@@ -84,6 +84,7 @@ asset_elements = get_variables('main_variables.json', 'asset_elements')
 
 for xml_file in xml_files:
     dict_elements = {}
+    warnings = []
     filename = xml_file.split('\\')[-1].split('.')[0]
     file, warnings = openXMLFile(xml_file, warnings)
     for element in asset_elements:
