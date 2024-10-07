@@ -112,7 +112,7 @@ for xml_file in xml_files:
 for json_file in json_files:
     process_file(json_file, 'json')
 
-print(f"global_elements:{global_elements})
+print(f"global_elements:{global_elements}")
 for key, value in global_warnings.items():
     printWarnings(value, key)
 
