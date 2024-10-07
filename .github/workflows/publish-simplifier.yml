@@ -1,0 +1,27 @@
+name: Publish Implementation Guide to Simplifier
+
+on:
+  push:
+    branches:
+      - main  # Trigger action on push to main branch
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y curl
+
+    - name: Publish to Simplifier
+      env:
+        SIMPLIFIER_API_TOKEN: ${{ secrets.SIMPLIFIER_API_TOKEN }}
+      run: |
+        curl -X POST https://simplifier.net/api/projects/{R4-Sand-Box}/guides \
+        -H "Authorization: Bearer $SIMPLIFIER_API_TOKEN" \
+        -F "file=@guide.yaml"
