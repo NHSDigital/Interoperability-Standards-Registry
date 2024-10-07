@@ -153,7 +153,7 @@ profiles = dict(sorted(profiles.items()))
 conceptmaps = dict(sorted(conceptmaps.items()))
 capabilitystatements = dict(sorted(capabilitystatements.items()))
 
-''Create markdown file'''
+'''Create markdown file'''
 def code_assets(asset,elements):
     md_file.write('''<tr>
     <td>''')
