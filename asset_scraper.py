@@ -78,7 +78,7 @@ global_warnings = {}
 global_elements = {}
 global_ignore = []
 
-xml_file, json_file = list_files('.')
+xml_files, json_files = list_files('.')
 asset_elements = get_variables('main_variables.json', 'asset_elements')
 
 
