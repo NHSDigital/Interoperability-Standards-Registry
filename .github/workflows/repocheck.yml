@@ -29,6 +29,12 @@ jobs:
         with:
           repository: NHSDigital/NHSEngland-FHIR-Programme-ImplementationGuide
           path: NHSEngland-FHIR-Programme-ImplementationGuide
+          
+      - name: Check current directory
+        run: pwd
+
+      - name: List all files in the current directory
+        run: ls -la
 
       - name: Set up python
         uses: actions/setup-python@v5
