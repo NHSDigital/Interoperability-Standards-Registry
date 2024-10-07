@@ -86,28 +86,34 @@ print(f"json files:{json_files}")
 for xml_file in xml_files:
     dict_elements = {}
     warnings = []
+    not_asset = False
     filename = xml_file.split('/')[-1].split('.')[0]
     file, warnings = openXMLFile(xml_file, warnings)
     for element in asset_elements:
         value, warnings = getXMLElement(file, element, warnings)
         if element == 'url' and not value:
             global_ignore.append(filename)
+            not_asset = True
             continue        
         dict_elements.update({element:value})
-    GlobalUpdates(filename, dict_elements, warnings)
+    if not not_asset:
+        GlobalUpdates(filename, dict_elements, warnings)
 
 for json_file in json_files:
     dict_elements = {}
     warnings = []
+    not_asset = False
     filename = json_file.split('/')[-1].split('.')[0]
     file, warnings = openJSONFile(json_file, warnings)
     for element in asset_elements:
         value, warnings = getJSONElement(file, element, warnings)
         if element == 'url' and not value:
             global_ignore.append(filename)
+            not_asset = True
             continue       
         dict_elements.update({element:value})
-    GlobalUpdates(filename, dict_elements, warnings)
+    if not not_asset:
+        GlobalUpdates(filename, dict_elements, warnings)
 
 print(f"global_elements:{global_elements}")
 for key, value in global_warnings.items():
