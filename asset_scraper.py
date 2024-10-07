@@ -40,13 +40,11 @@ def getJSONElement(jsonFile, element, warnings):
     return '',warnings
 
 
-def printWarnings(warnings, file, error):
+def printWarnings(warnings, file):
     if warnings:
-        error=True
         print("\t",file)
         for x in warnings:
             print(x)
-    return error
 
 
 def list_files(folder):
@@ -111,6 +109,9 @@ for xml_file in xml_files:
 
 for json_file in json_files:
     process_file(json_file, 'json')
+
+for key, value in global_warnings:
+    printWarnings(value, key)
 
 if os.path.exists("asset.md"):
     os.remove("asset.md")
