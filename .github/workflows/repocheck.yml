@@ -16,14 +16,17 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: NHSDigital/FHIR-R4-UKCORE-STAGING-MAIN
+          path: FHIR-R4-UKCORE-STAGING-MAIN
 
       - uses: actions/checkout@v4
         with:
           repository: NHSDigital/NHSEngland-FHIR-ImplementationGuide
+          path: NHSEngland-FHIR-ImplementationGuide
 
       - uses: actions/checkout@v4
         with:
           repository: NHSDigital/NHSEngland-FHIR-Programme-ImplementationGuide
+          path: NHSEngland-FHIR-Programme-ImplementationGuide
 
       - name: Set up python
         uses: actions/setup-python@v5
