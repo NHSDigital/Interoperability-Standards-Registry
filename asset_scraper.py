@@ -113,6 +113,11 @@ for json_file in json_files:
 for key, value in global_warnings.items():
     printWarnings(value, key)
 
+print("Files ignored:")
+for f in global_ignore:
+    print(f"\t{f}")
+    
+
 if os.path.exists("asset.md"):
     os.remove("asset.md")
 md_file = open(f"asset.md","w")
