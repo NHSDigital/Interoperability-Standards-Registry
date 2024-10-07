@@ -15,16 +15,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          submodules: true
+          repository: NHSDigital/FHIR-R4-UKCORE-STAGING-MAIN
+
+      - uses: actions/checkout@v4
+        with:
+          repository: NHSDigital/NHSEngland-FHIR-ImplementationGuide
+
+      - uses: actions/checkout@v4
+        with:
+          repository: NHSDigital/NHSEngland-FHIR-Programme-ImplementationGuide
 
       - name: Set up python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-
-      - name: Checkout all repositories from master_variables
-        run: python checkout_repos.py
-        
+       
       - name: Run asset scraper
         run: python asset_scraper.py
 
@@ -33,7 +38,4 @@ jobs:
         with:
           default_author: github_actions
           add: '.'
-
-
-
-     
+    
