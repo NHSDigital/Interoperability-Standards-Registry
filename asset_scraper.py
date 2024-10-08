@@ -80,7 +80,7 @@ global_ignore = []
 
 xml_files, json_files = list_files('.')
 asset_elements = get_variables('main_variables.json', 'asset_elements')
-print(f"json files:{json_files}")
+repo_to_url = getJSONElement(asset_element_file, 'repo_to_url', warnings)
 
 
 for xml_file in xml_files:
@@ -173,6 +173,7 @@ def code_assets(asset,elements):
 
 def write_section(md_file, title, items):
     print(f"## {title}\n<br>\n<table>", file=md_file)
+    print(f"<td><a href="{repo_to_url[repo_name]}/{items[id]}</td>
     for asset, elements in items.items():
         code_assets(asset, elements)
     print(f"</table>\n<br><br>\n\n---\n\n",file=md_file)
