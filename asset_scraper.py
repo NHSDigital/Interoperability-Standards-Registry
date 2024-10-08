@@ -155,15 +155,18 @@ capabilitystatements = dict(sorted(capabilitystatements.items()))
 
 '''Create markdown file'''
 def code_assets(asset,elements):
-    md_file.write('''<tr>
-    <td>''')
-    md_file.write(str(asset)) 
-    md_file.write('''</td>''')
+    print(f"<tr>\n  <td>{str(asset)}</td>\n", file = md_file)
+    #md_file.write('''<tr>
+    #<td>''')
+    #md_file.write(str(asset)) 
+    #md_file.write('''</td>''')
     for element,value in elements.items():
-        md_file.write('''<td>''')
-        md_file.write(str(value))
-        md_file.write('''</td>''')
-    md_file.write('''\n</tr>\n''')
+        print(f"  <td> {str(value)} </td>\n", file = md_file)
+        #md_file.write('''<td>''')
+        #md_file.write(str(value))
+        #md_file.write('''</td>''')
+    print(f"</tr>\n", file = md_file)
+    #md_file.write('''\n</tr>\n''')
     
 
 def write_section(md_file, title, items):
