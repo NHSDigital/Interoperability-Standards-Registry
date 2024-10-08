@@ -97,7 +97,7 @@ for xml_file in xml_files:
             continue        
         dict_elements.update({element:value})
     if is_asset:
-        dict_elements.update({'repo_name': filename.split("/")[1]})
+        dict_elements.update({'repo_name': xml_file.split("/")[1]})
         GlobalUpdates(filename, dict_elements, warnings)
 
 for json_file in json_files:
@@ -114,7 +114,7 @@ for json_file in json_files:
             continue       
         dict_elements.update({element:value})
     if is_asset:
-        dict_elements.update({'repo_name': filename.split("/")[1]})
+        dict_elements.update({'repo_name': xml_file.split("/")[1]})
         GlobalUpdates(filename, dict_elements, warnings)
 
 print(f"global_elements:{global_elements}")
