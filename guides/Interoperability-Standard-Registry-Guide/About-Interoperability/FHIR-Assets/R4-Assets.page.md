@@ -302,7 +302,7 @@
   <td> This profile is made available to assist implementers who are creating and sending FHIR instances to test that the created instances conform to a specific FHIR implementation guide. It may also assist receivers testing that received instances are conformant with the FHIR implementation guide.
  **Use of this profile is on the understanding that it is for testing purposes only. Use of this profile does not provide any form of assurance or accreditation and furthermore does not guarantee system conformance to a given FHIR Implementation guide.** </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
 
 </tr>
 
@@ -2031,7 +2031,7 @@
 
   <td> To standardise the questions asked when registering for a GP Surgery within England </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
 
 </tr>
 
