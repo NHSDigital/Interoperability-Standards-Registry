@@ -175,7 +175,8 @@ def code_assets(asset,elements, title):
     for element,value in elements.items():
         if element == 'status':
             print(f'''  <span class="status {str(value).lower()}">{str(value)}</span>''', file = md_file)
-        print(f"  {str(value)}", file = md_file)
+        else:
+            print(f"  {str(value)}", file = md_file)
     print(f"</li>\n", file = md_file)
     
 
