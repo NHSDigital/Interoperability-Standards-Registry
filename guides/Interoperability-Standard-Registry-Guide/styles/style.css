@@ -806,6 +806,7 @@ color: #0072CE;
     background-color: #E8EDEE;
 }
 
+/* add colour to asset status in a list */
 ul {
     list-style-type: none;
     padding: 0;
