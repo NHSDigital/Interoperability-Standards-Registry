@@ -149,9 +149,10 @@ for asset, elements in global_elements.items():
             else:
                 profiles.update({asset:elements})
 for asset in profiles.keys():
-    if asset['type'] == 'extension':
-        extensions.update(profile[asset])
-        profile.pop(asset)
+    print(asset)
+    #if asset['type'] == 'extension':
+        #extensions.update(profile[asset])
+        #profile.pop(asset)
         
 codesystems = dict(sorted(codesystems.items()))
 valuesets = dict(sorted(valuesets.items()))
