@@ -175,7 +175,10 @@ def code_assets(asset,elements):
 
 def write_section(md_file, title, items):
     print(f"## {title}\n<br>\n<table>", file=md_file)
-    print(f'<td><a href="{items['repo_name']}/{items['id']}"{items['id']}</a></td>\n',file=md_file)
+    try:
+        print(f'<td><a href="{items['repo_name']}/{items['id']}"{items['id']}</a></td>\n',file=md_file)
+    except:
+        print(f"!!!ERROR: {title}-{items}")
     for asset, elements in items.items():
         code_assets(asset, elements)
     print(f"</table>\n<br><br>\n\n---\n\n",file=md_file)
