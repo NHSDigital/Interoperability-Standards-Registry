@@ -3516,7 +3516,7 @@
 ## ConceptMaps
 <br>
 <table>
-<td><a href="https://simplifier.net/hl7fhirukcorer4/ConceptMap-UKCore-AdministrativeGender">UKCore-AdministrativeGender</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AdministrativeGender">UKCore-AdministrativeGender</a></td>
 
   <td> 2.0.0 </td>
 
@@ -3524,7 +3524,7 @@
 
 </tr>
 
-<td><a href="https://simplifier.net/hl7fhirukcorer4/ConceptMap-UKCore-ConditionEpisodicity">UKCore-ConditionEpisodicity</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ConditionEpisodicity">UKCore-ConditionEpisodicity</a></td>
 
   <td> 2.0.0 </td>
 
@@ -3532,7 +3532,7 @@
 
 </tr>
 
-<td><a href="https://simplifier.net/hl7fhirukcorer4/ConceptMap-UKCore-MaritalStatus">UKCore-MaritalStatus</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MaritalStatus">UKCore-MaritalStatus</a></td>
 
   <td> 2.0.0 </td>
 
@@ -3549,7 +3549,7 @@
 ## CapabilityStatements
 <br>
 <table>
-<td><a href="https://simplifier.net/nhs-england-implementation-guide/CapabilityStatement-apim-conformance">apim-conformance</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/apim-conformance">apim-conformance</a></td>
 
   <td> 1.0.0 </td>
 
@@ -3557,7 +3557,7 @@
 
 </tr>
 
-<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/CapabilityStatement-England-FHIRExamples-Conformance">England-FHIRExamples-Conformance</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-FHIRExamples-Conformance">England-FHIRExamples-Conformance</a></td>
 
   <td> 3.2.0 </td>
 
@@ -3565,7 +3565,7 @@
 
 </tr>
 
-<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/CapabilityStatement-England-MCED-Requirements">England-MCED-Requirements</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-MCED-Requirements">England-MCED-Requirements</a></td>
 
   <td> 0.0.1 </td>
 
@@ -3573,7 +3573,7 @@
 
 </tr>
 
-<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/CapabilityStatement-England-ODS-Requirements">England-ODS-Requirements</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-ODS-Requirements">England-ODS-Requirements</a></td>
 
   <td> 0.0.5 </td>
 
@@ -3581,7 +3581,7 @@
 
 </tr>
 
-<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/CapabilityStatement-England-Pathology-Requirements">England-Pathology-Requirements</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Pathology-Requirements">England-Pathology-Requirements</a></td>
 
   <td> 0.0.2 </td>
 
@@ -3589,7 +3589,7 @@
 
 </tr>
 
-<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/CapabilityStatement-England-PatientFlag-Server-Requirements">England-PatientFlag-Server-Requirements</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-PatientFlag-Server-Requirements">England-PatientFlag-Server-Requirements</a></td>
 
   <td> 0.1.0 </td>
 
@@ -3597,7 +3597,7 @@
 
 </tr>
 
-<td><a href="https://simplifier.net/hl7fhirukcorer4/CapabilityStatement-apim-conformance">apim-conformance</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/apim-conformance">apim-conformance</a></td>
 
   <td> 3.2.0 </td>
 
