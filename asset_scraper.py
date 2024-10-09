@@ -158,7 +158,7 @@ capabilitystatements = dict(sorted(capabilitystatements.items()))
 def code_assets(asset,elements):
     print(f"<tr>\n  <td>{str(asset)}</td>\n", file = md_file)
     print(f'''<td><a href="{elements['repo_name']}/{elements['id']}"{elements['id']}</a></td>\n''',file=md_file)
-    print(f"{elements['repo_name']}/{elements['id']})
+    print(f"{elements['repo_name']}/{elements['id']}")
     for element,value in elements.items():
         print(f"  <td> {str(value)} </td>\n", file = md_file)
         #md_file.write('''<td>''')
