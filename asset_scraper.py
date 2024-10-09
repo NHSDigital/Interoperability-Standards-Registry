@@ -81,7 +81,7 @@ global_ignore = []
 xml_files, json_files = list_files('.')
 asset_elements = get_variables('main_variables.json', 'asset_elements')
 repo_to_url = get_variables('main_variables.json', 'repo_to_url')
-
+print(f"repo_to_url:{repo_to_url}")
 
 for xml_file in xml_files:
     dict_elements = {}
