@@ -150,8 +150,8 @@ for asset, elements in global_elements.items():
                 profiles.update({asset:elements})
 for asset in profiles.keys():
     if profiles[asset]['type'].lower() == 'extension':
-        extensions.update(profile[asset])
-        profile.pop(asset)
+        extensions.update(profiles[asset])
+        profiles.pop(asset)
         
 codesystems = dict(sorted(codesystems.items()))
 valuesets = dict(sorted(valuesets.items()))
