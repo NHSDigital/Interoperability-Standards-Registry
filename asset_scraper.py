@@ -80,46 +80,40 @@ global_ignore = []
 
 xml_files, json_files = list_files('.')
 asset_elements = get_variables('main_variables.json', 'asset_elements')
-repo_to_url = get_variables('main_variables.json', 'repo_to_url')
-print(f"repo_to_url:{repo_to_url}")
+print(f"json files:{json_files}")
+
 
 for xml_file in xml_files:
     dict_elements = {}
     warnings = []
-    is_asset = True
     filename = xml_file.split('/')[-1].split('.')[0]
     file, warnings = openXMLFile(xml_file, warnings)
+    try:
+        getXMLElement(file, 'url', warnings) #if no 'url' element then not an asset
+    except:
+        continue
     for element in asset_elements:
-        value, warnings = getXMLElement(file, element, warnings)
-        if element == 'url' and not value:
-            global_ignore.append(filename)
-            is_asset = False
-            continue        
+        value, warnings = getXMLElement(file, element, warnings)      
         dict_elements.update({element:value})
-    if is_asset:
-        repo_name = xml_file.split("/")[1]
-        dict_elements.update({'url_suffix': repo_to_url[repo_name]})
-        #dict_elements.update({'url_suffix': repo_to_url[xml_file.split("/")[1]]})
-        GlobalUpdates(filename, dict_elements, warnings)
+    dict_elements.update({'repo_name': xml_file.split("/")[1]})
+    GlobalUpdates(filename, dict_elements, warnings)
 
 for json_file in json_files:
     dict_elements = {}
     warnings = []
-    is_asset = True
     filename = json_file.split('/')[-1].split('.')[0]
     file, warnings = openJSONFile(json_file, warnings)
+    try:
+        getXMLElement(file, 'url', warnings) #if no 'url' element then not an asset
+    except:
+        continue
     for element in asset_elements:
         value, warnings = getJSONElement(file, element, warnings)
-        if element == 'url' and not value:
-            global_ignore.append(filename)
-            is_asset = False
-            continue       
         dict_elements.update({element:value})
-    if is_asset:
-        repo_name = json_file.split("/")[1]
-        dict_elements.update({'url_suffix': repo_to_url[repo_name]})
-        GlobalUpdates(filename, dict_elements, warnings)
+    dict_elements.update({'repo_name': xml_file.split("/")[1]})
+    GlobalUpdates(filename, dict_elements, warnings)
 
+print(f"global_elements:{global_elements}")
 for key, value in global_warnings.items():
     printWarnings(value, key)
 
@@ -159,10 +153,11 @@ capabilitystatements = dict(sorted(capabilitystatements.items()))
 
 '''Create markdown file'''
 def code_assets(asset,elements):
-    #print(f"<tr>\n  <td>{str(asset)}</td>\n", file = md_file)
-    print(f'''<td><a href="{elements['url_suffix']}/{elements['id']}">{elements['id']}</a></td>\n''',file=md_file)
-    elements.pop('url_suffix', None)
-    elements.pop('id', None)
+    print(f"<tr>\n  <td>{str(asset)}</td>\n", file = md_file)
+    #md_file.write('''<tr>
+    #<td>''')
+    #md_file.write(str(asset)) 
+    #md_file.write('''</td>''')
     for element,value in elements.items():
         print(f"  <td> {str(value)} </td>\n", file = md_file)
         #md_file.write('''<td>''')
