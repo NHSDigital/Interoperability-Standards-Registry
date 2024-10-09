@@ -166,26 +166,24 @@ capabilitystatements = dict(sorted(capabilitystatements.items()))
 def code_assets(asset,elements, title):
     #print(f"<tr>\n  <td>{str(asset)}</td>\n", file = md_file)
     if title == 'ValueSet' or title == 'CodeSystem':
-        print(f'''<td><a href="{elements['repo_name']}/{title}-{elements['id']}">{elements['id']}</a></td>\n''',file=md_file)
+        print(f'''<li><a href="{elements['repo_name']}/{title}-{elements['id']}">{elements['id']}</a>''',file=md_file)
     else:
-        print(f'''<td><a href="{elements['repo_name']}/{elements['id']}">{elements['id']}</a></td>\n''',file=md_file)
+        print(f'''<li><a href="{elements['repo_name']}/{elements['id']}">{elements['id']}</a>''',file=md_file)
     elements.pop('url')
     elements.pop('repo_name')
     elements.pop('id')
     for element,value in elements.items():
-        print(f"  <td> {str(value)} </td>\n", file = md_file)
-        #md_file.write('''<td>''')
-        #md_file.write(str(value))
-        #md_file.write('''</td>''')
-    print(f"</tr>\n", file = md_file)
-    #md_file.write('''\n</tr>\n''')
+        if element == 'status':
+            print(f'''  <span class="status {str(value).lower()}">{str(value)}</span>''', file = md_file)
+        print(f"  {str(value)}", file = md_file)
+    print(f"</li>\n", file = md_file)
     
 
 def write_section(md_file, title, items):
-    print(f"## {title}s\n<br>\n<table>", file=md_file)
+    print(f"## {title}s\n\n<div class="status-container">\n<ul>", file=md_file)
     for asset, elements in items.items():
         code_assets(asset, elements, title)
-    print(f"</table>\n<br><br>\n\n---\n\n",file=md_file)
+    print(f"</ul></div><br><br>\n\n---\n\n",file=md_file)
 
 path = './guides/Interoperability-Standard-Registry-Guide/About-Interoperability/FHIR-Assets/R4-Assets.page.md'
 
