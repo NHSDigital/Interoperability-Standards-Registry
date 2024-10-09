@@ -2,7 +2,8 @@
     "asset_elements": [
         "id",
         "version",
-        "status"
+        "status",
+        "url"
     ],
     "repo_to_url": {
         "FHIR-R4-UKCORE-STAGING-MAIN": "https://simplifier.net/hl7fhirukcorer4",
