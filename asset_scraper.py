@@ -151,10 +151,10 @@ capabilitystatements = dict(sorted(capabilitystatements.items()))
 '''Create markdown file'''
 def code_assets(asset,elements, title):
     #print(f"<tr>\n  <td>{str(asset)}</td>\n", file = md_file)
-    if title == 'Profile':
-        print(f'''<td><a href="{elements['repo_name']}/{elements['id']}">{elements['id']}</a></td>\n''',file=md_file)
-    else:
+    if title == 'ValueSet' or title == 'CodeSystem':
         print(f'''<td><a href="{elements['repo_name']}/{title}-{elements['id']}">{elements['id']}</a></td>\n''',file=md_file)
+    else:
+        print(f'''<td><a href="{elements['repo_name']}/{elements['id']}">{elements['id']}</a></td>\n''',file=md_file)
     elements.pop('url')
     elements.pop('repo_name')
     elements.pop('id')
