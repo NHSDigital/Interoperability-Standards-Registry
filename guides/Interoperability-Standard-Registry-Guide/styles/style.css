@@ -798,3 +798,28 @@ color: #0072CE;
     margin: 5px;
     background-color: #E8EDEE;
 }
+
+/* add colour around status in asset lists */
+.status-container {
+    padding: 0;
+}
+
+.status {
+    display: inline-block;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 20px; /* Rounded corners */
+    color: white; /* Text color */
+}
+
+.active {
+    background-color: #4CAF50; /* Green */
+}
+
+.draft {
+    background-color: #FFC107; /* Yellow */
+}
+
+.retired {
+    background-color: #F44336; /* Red */
+}
