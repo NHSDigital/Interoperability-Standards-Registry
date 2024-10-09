@@ -149,10 +149,12 @@ conceptmaps = dict(sorted(conceptmaps.items()))
 capabilitystatements = dict(sorted(capabilitystatements.items()))
 
 '''Create markdown file'''
-def code_assets(asset,elements):
+def code_assets(asset,elements, title):
     #print(f"<tr>\n  <td>{str(asset)}</td>\n", file = md_file)
-    print(f'''<td><a href="{elements['repo_name']}/{elements['id']}">{elements['id']}</a></td>\n''',file=md_file)
-    #print(f"{elements['repo_name']}/{elements['id']}")
+    if title == 'Profile':
+        print(f'''<td><a href="{elements['repo_name']}/{elements['id']}">{elements['id']}</a></td>\n''',file=md_file)
+    else:
+        print(f'''<td><a href="{elements['repo_name']}/{title}-{elements['id']}">{elements['id']}</a></td>\n''',file=md_file)
     elements.pop('url')
     elements.pop('repo_name')
     elements.pop('id')
@@ -166,9 +168,9 @@ def code_assets(asset,elements):
     
 
 def write_section(md_file, title, items):
-    print(f"## {title}\n<br>\n<table>", file=md_file)
+    print(f"## {title}s\n<br>\n<table>", file=md_file)
     for asset, elements in items.items():
-        code_assets(asset, elements)
+        code_assets(asset, elements, title)
     print(f"</table>\n<br><br>\n\n---\n\n",file=md_file)
 
 path = './guides/Interoperability-Standard-Registry-Guide/About-Interoperability/FHIR-Assets/R4-Assets.page.md'
@@ -177,11 +179,11 @@ if os.path.exists(path):
     os.remove(path)
 md_file = open(path,"w")
 
-write_section(md_file, "Profiles", profiles)
-write_section(md_file, "ValueSets", valuesets)
-write_section(md_file, "CodeSystems", codesystems)
-write_section(md_file, "ConceptMaps", conceptmaps)
-write_section(md_file, "CapabilityStatements", capabilitystatements)
+write_section(md_file, "Profile", profiles)
+write_section(md_file, "ValueSet", valuesets)
+write_section(md_file, "CodeSystem", codesystems)
+write_section(md_file, "ConceptMap", conceptmaps)
+write_section(md_file, "CapabilityStatement", capabilitystatements)
 
 md_file.close()
 
