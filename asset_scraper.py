@@ -98,6 +98,7 @@ for xml_file in xml_files:
         dict_elements.update({element:value})
     if is_asset:
         dict_elements.update({'repo_name': xml_file.split("/")[1]})
+        print(dict_elements['repo_name'])
         GlobalUpdates(filename, dict_elements, warnings)
 
 for json_file in json_files:
@@ -110,11 +111,12 @@ for json_file in json_files:
         value, warnings = getJSONElement(file, element, warnings)
         if element == 'url' and not value:
             global_ignore.append(filename)
-            not_asset = True
+            is_asset = False
             continue       
         dict_elements.update({element:value})
     if is_asset:
-        dict_elements.update({'repo_name': xml_file.split("/")[1]})
+        dict_elements.update({'repo_name': json_file.split("/")[1]})
+        print(dict_elements['repo_name'])
         GlobalUpdates(filename, dict_elements, warnings)
 
 print(f"global_elements:{global_elements}")
@@ -173,7 +175,8 @@ def code_assets(asset,elements):
 
 def write_section(md_file, title, items):
     print(f"## {title}\n<br>\n<table>", file=md_file)
-    print(f'<td><a href="{items['repo_name']}/{items['id']}"{items['id']}</a></td>\n',file=md_file)
+    print(items)
+    #print(f'<td><a href="{items['repo_name']}/{items['id']}"{items['id']}</a></td>\n',file=md_file)
     for asset, elements in items.items():
         code_assets(asset, elements)
     print(f"</table>\n<br><br>\n\n---\n\n",file=md_file)
