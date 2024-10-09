@@ -1,6 +1,5 @@
 {
     "asset_elements": [
-        "url",
         "id",
         "version",
         "status"
