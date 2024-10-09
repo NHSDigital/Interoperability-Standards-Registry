@@ -89,7 +89,7 @@ for xml_file in xml_files:
     filename = xml_file.split('/')[-1].split('.')[0]
     file, warnings = openXMLFile(xml_file, warnings)
     try:
-        getXMLElement(file, 'url', warnings) #if no 'url' element then not an asset
+        value, warnings = getXMLElement(file, 'url', warnings) #if no 'url' element then not an asset
     except:
         continue
     for element in asset_elements:
@@ -104,7 +104,7 @@ for json_file in json_files:
     filename = json_file.split('/')[-1].split('.')[0]
     file, warnings = openJSONFile(json_file, warnings)
     try:
-        getXMLElement(file, 'url', warnings) #if no 'url' element then not an asset
+        value, warnings = getXMLElement(file, 'url', warnings) #if no 'url' element then not an asset
     except:
         continue
     for element in asset_elements:
