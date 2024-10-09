@@ -89,7 +89,7 @@ for xml_file in xml_files:
     filename = xml_file.split('/')[-1].split('.')[0]
     file, warnings = openXMLFile(xml_file, warnings)
     url_value, warnings = getXMLElement(file, 'url', warnings)       
-    if not value:
+    if not url_value:
         continue
     try:
         type_value, warnings = getXMLElement(file, 'type', warnings)  
