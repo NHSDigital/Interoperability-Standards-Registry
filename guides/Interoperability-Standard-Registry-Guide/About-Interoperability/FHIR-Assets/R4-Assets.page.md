@@ -1,7 +1,7 @@
 ## Profiles
 <br>
 <table>
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-Condition-Flag">England-Condition-Flag</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Condition-Flag">England-Condition-Flag</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/England-Condition-Flag </td>
 
@@ -15,11 +15,11 @@
 
   <td> This profile is made available to record an individual condition for a flag in NHS England </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-DiagnosticReport-MCED">England-DiagnosticReport-MCED</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-DiagnosticReport-MCED">England-DiagnosticReport-MCED</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/England-DiagnosticReport-MCED </td>
 
@@ -33,11 +33,11 @@
 
   <td> This profile is made available to assist implementers who are creating and sending DiagnosticReport-Lab FHIR instances to test that the created instances conform to the MCED FHIR implementation guide. It may also assist receivers testing that received instances are conformant with the MCED FHIR implementation guide. </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-Flag-PatientFlag">England-Flag-PatientFlag</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Flag-PatientFlag">England-Flag-PatientFlag</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/England-Flag-PatientFlag </td>
 
@@ -51,11 +51,11 @@
 
   <td> This profile is made available to Record whether a Patient Flags exists . </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-Flag-PatientFlag-Adjustment">England-Flag-PatientFlag-Adjustment</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Flag-PatientFlag-Adjustment">England-Flag-PatientFlag-Adjustment</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/England-Flag-PatientFlag-Adjustment </td>
 
@@ -69,11 +69,11 @@
 
   <td> This profile is made available to record an individual flag for an NHS England programme. </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-MCED-TestReport">England-MCED-TestReport</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-MCED-TestReport">England-MCED-TestReport</a></td>
 
   <td> https://fhir.nhs.uk/England/MessageDefinition/England-MCED-TestReport </td>
 
@@ -87,11 +87,11 @@
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-Observation-MCED">England-Observation-MCED</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Observation-MCED">England-Observation-MCED</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/England-Observation-MCED </td>
 
@@ -105,11 +105,11 @@
 
   <td> This profile is made available to assist implementers who are creating and sending Observation FHIR instances to test that the created instances conform to the MCED FHIR implementation guide. It may also assist receivers testing that received instances are conformant with the MCED FHIR implementation guide. </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-Observation-MCED-Result">England-Observation-MCED-Result</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Observation-MCED-Result">England-Observation-MCED-Result</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/England-Observation-MCED-Result </td>
 
@@ -123,11 +123,11 @@
 
   <td> This profile is made available to assist implementers who are creating and sending Observation FHIR instances to test that the created instances conform to the MCED FHIR implementation guide. It may also assist receivers testing that received instances are conformant with the MCED FHIR implementation guide. </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-Observation-MCED-Screening">England-Observation-MCED-Screening</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Observation-MCED-Screening">England-Observation-MCED-Screening</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/England-Observation-MCED-Screening </td>
 
@@ -141,11 +141,11 @@
 
   <td> This profile is made available to assist implementers who are creating and sending Observation FHIR instances to test that the created instances conform to the MCED FHIR implementation guide. It may also assist receivers testing that received instances are conformant with the MCED FHIR implementation guide. </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-Observation-MCED-Site">England-Observation-MCED-Site</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Observation-MCED-Site">England-Observation-MCED-Site</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/England-Observation-MCED-Site </td>
 
@@ -159,11 +159,11 @@
 
   <td> This profile is made available to assist implementers who are creating and sending Observation FHIR instances to test that the created instances conform to the MCED FHIR implementation guide. It may also assist receivers testing that received instances are conformant with the MCED FHIR implementation guide. </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-Organization-MCED">England-Organization-MCED</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Organization-MCED">England-Organization-MCED</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/England-Organization-MCED </td>
 
@@ -177,11 +177,11 @@
 
   <td> This profile is made available to assist implementers who are creating and sending Organization FHIR instances to test that the created instances conform to the MCED FHIR implementation guide. It may also assist receivers testing that received instances are conformant with the MCED FHIR implementation guide. </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-Organization-ODS">England-Organization-ODS</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Organization-ODS">England-Organization-ODS</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/England-Organization-ODS </td>
 
@@ -195,11 +195,11 @@
 
   <td> This profile is made available to assist implementers who are creating and sending FHIR instances to test that the created instances conform to a specific FHIR implementation guide. It may also assist receivers testing that received instances are conformant with the FHIR implementation guide. **Use of this profile is on the understanding that it is for testing purposes only. Use of this profile does not provide any form of assurance or accreditation and furthermore does not guarantee system conformance to a given FHIR Implementation guide.** </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-OrganizationAffiliation-ODS">England-OrganizationAffiliation-ODS</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-OrganizationAffiliation-ODS">England-OrganizationAffiliation-ODS</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/England-OrganizationAffiliation-ODS </td>
 
@@ -213,11 +213,11 @@
 
   <td> This profile is made available to assist implementers who are creating and sending FHIR instances to test that the created instances conform to a specific FHIR implementation guide. It may also assist receivers testing that received instances are conformant with the FHIR implementation guide. **Use of this profile is on the understanding that it is for testing purposes only. Use of this profile does not provide any form of assurance or accreditation and furthermore does not guarantee system conformance to a given FHIR Implementation guide.** </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-Pathology-Report">England-Pathology-Report</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Pathology-Report">England-Pathology-Report</a></td>
 
   <td> https://fhir.nhs.uk/England/MessageDefinition/England-Pathology-Report </td>
 
@@ -231,11 +231,11 @@
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-Pathology-Request">England-Pathology-Request</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Pathology-Request">England-Pathology-Request</a></td>
 
   <td> https://fhir.nhs.uk/England/MessageDefinition/England-Pathology-Request </td>
 
@@ -249,11 +249,11 @@
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-Patient-MCED">England-Patient-MCED</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Patient-MCED">England-Patient-MCED</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/England-Patient-MCED </td>
 
@@ -267,11 +267,11 @@
 
   <td> This profile is made available to assist implementers who are creating and sending Patient FHIR instances to test that the created instances conform to the MCED FHIR implementation guide. It may also assist receivers testing that received instances are conformant with the MCED FHIR implementation guide. </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-Patient-PDS">England-Patient-PDS</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Patient-PDS">England-Patient-PDS</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/England-Patient-PDS </td>
 
@@ -286,11 +286,11 @@
   <td> This profile is made available to assist implementers who are creating and sending FHIR instances to test that the created instances conform to a specific FHIR implementation guide. It may also assist receivers testing that received instances are conformant with the FHIR implementation guide.
  **Use of this profile is on the understanding that it is for testing purposes only. Use of this profile does not provide any form of assurance or accreditation and furthermore does not guarantee system conformance to a given FHIR Implementation guide.** </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-Provenance-Flag">England-Provenance-Flag</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Provenance-Flag">England-Provenance-Flag</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/England-Provenance-Flag </td>
 
@@ -304,11 +304,11 @@
 
   <td> This profile is made available to Record details of the practitioner recording or removing an individual Flag . </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-ServiceRequestLab-MCED">England-ServiceRequestLab-MCED</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-ServiceRequestLab-MCED">England-ServiceRequestLab-MCED</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/England-ServiceRequestLab-MCED </td>
 
@@ -322,11 +322,11 @@
 
   <td> This profile is made available to assist implementers who are creating and sending ServiceRequestLab FHIR instances to test that the created instances conform to the MCED FHIR implementation guide. It may also assist receivers testing that received instances are conformant with the MCED FHIR implementation guide. </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-Specimen-MCED">England-Specimen-MCED</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Specimen-MCED">England-Specimen-MCED</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/England-Specimen-MCED </td>
 
@@ -340,11 +340,11 @@
 
   <td> This profile is made available to assist implementers who are creating and sending Specimen FHIR instances to test that the created instances conform to the MCED FHIR implementation guide. It may also assist receivers testing that received instances are conformant with the MCED FHIR implementation guide. </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/Extension-England-FlagNotes">Extension-England-FlagNotes</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/Extension-England-FlagNotes">Extension-England-FlagNotes</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/Extension-England-FlagNotes </td>
 
@@ -358,11 +358,11 @@
 
   <td> Additional information required to correctly or effectively interpret an adjustment. </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/Extension-England-FlagRemovalReason">Extension-England-FlagRemovalReason</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/Extension-England-FlagRemovalReason">Extension-England-FlagRemovalReason</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/Extension-England-FlagRemovalReason </td>
 
@@ -376,11 +376,11 @@
 
   <td> The extension extends the Flag resource to support the NHS England requirements for removal of Flags with a stated reason. </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/Extension-England-LocationExtension">Extension-England-LocationExtension</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/Extension-England-LocationExtension">Extension-England-LocationExtension</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/Extension-England-LocationExtension </td>
 
@@ -394,11 +394,11 @@
 
   <td> The Location extension is used to provide clarification, using alternative methods of describing a precise location. </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/Extension-England-OrganisationRole">Extension-England-OrganisationRole</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/Extension-England-OrganisationRole">Extension-England-OrganisationRole</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/Extension-England-OrganisationRole </td>
 
@@ -412,11 +412,11 @@
 
   <td> This extension extends the Organization resource to support the NHS England requirement for additional information about organisational roles. </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/Extension-England-TypedDateTime">Extension-England-TypedDateTime</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/Extension-England-TypedDateTime">Extension-England-TypedDateTime</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/Extension-England-TypedDateTime </td>
 
@@ -430,11 +430,11 @@
 
   <td> This extension extends the Organization and the OrganizationAffiliation resources to support the exchange of information describing the specific business related date and/or time. </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/Extension-England-TypedPeriod">Extension-England-TypedPeriod</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/Extension-England-TypedPeriod">Extension-England-TypedPeriod</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/Extension-England-TypedPeriod </td>
 
@@ -448,11 +448,11 @@
 
   <td> This extension has been created from an ODS use-case in which there is a requirement to hold data for Legal and Operational dates, although it is expected to be broader than ODS and can be used for other scenarios. </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-ActualProblem">Extension-UKCore-ActualProblem</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ActualProblem">Extension-UKCore-ActualProblem</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-ActualProblem </td>
 
@@ -466,11 +466,11 @@
 
   <td> This extension extends the Condition Resource to support the exchange of information referencing a Condition, Observation, FamilyMemberHistory, or AllergyIntolerance that is the actual problem. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-AdditionalContact">Extension-UKCore-AdditionalContact</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-AdditionalContact">Extension-UKCore-AdditionalContact</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-AdditionalContact </td>
 
@@ -484,11 +484,11 @@
 
   <td> This is a Genomics use case to record who should be contacted regarding questions arising from a Genomics Test Order, along with their contact details, which differs from requester and responsibleClinician. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-AddressKey">Extension-UKCore-AddressKey</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-AddressKey">Extension-UKCore-AddressKey</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-AddressKey </td>
 
@@ -502,11 +502,11 @@
 
   <td> This extension extends the Address datatype to support the exchange of the type of address identifier and the address identifier value. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-AdmissionMethod">Extension-UKCore-AdmissionMethod</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-AdmissionMethod">Extension-UKCore-AdmissionMethod</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-AdmissionMethod </td>
 
@@ -520,11 +520,11 @@
 
   <td> This extension extends the Encounter Resource to support the exchange of information representing the method by which a patient was admitted to hospital. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-AllergyIntoleranceEnd">Extension-UKCore-AllergyIntoleranceEnd</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-AllergyIntoleranceEnd">Extension-UKCore-AllergyIntoleranceEnd</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-AllergyIntoleranceEnd </td>
 
@@ -538,11 +538,11 @@
 
   <td> This extension extends the AllergyIntolerance resource to support the exchange of information describing the date when the allergy or intolerance was no longer valid, and/or, the reason why the allergy or intolerance is no longer valid. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-AnaestheticIssues">Extension-UKCore-AnaestheticIssues</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-AnaestheticIssues">Extension-UKCore-AnaestheticIssues</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-AnaestheticIssues </td>
 
@@ -556,11 +556,11 @@
 
   <td> This extension extends the Procedure Resource to support the exchange of information supporting the recording of details of any adverse reaction to any anaesthetic agents (including local anaesthesia and problematic intubation, transfusion reaction, etc.). </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-AssociatedEncounter">Extension-UKCore-AssociatedEncounter</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-AssociatedEncounter">Extension-UKCore-AssociatedEncounter</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-AssociatedEncounter </td>
 
@@ -574,11 +574,11 @@
 
   <td> This is a Genomics use case to record the the associated encounter for which Family Member History was recorded. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-BirthSex">Extension-UKCore-BirthSex</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-BirthSex">Extension-UKCore-BirthSex</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-BirthSex </td>
 
@@ -592,11 +592,11 @@
 
   <td> This extension extends the Patient resource to support the exchange of the patient's phenotypic sex at birth information, as a Codeable Concept. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-BodySiteReference">Extension-UKCore-BodySiteReference</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-BodySiteReference">Extension-UKCore-BodySiteReference</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-BodySiteReference </td>
 
@@ -610,11 +610,11 @@
 
   <td> Allowing the referencing to bodyStructure </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-BookingOrganization">Extension-UKCore-BookingOrganization</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-BookingOrganization">Extension-UKCore-BookingOrganization</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-BookingOrganization </td>
 
@@ -628,11 +628,11 @@
 
   <td> This extension extends the Appointment resource to support the exchange of information describing the organisation booking the appointment. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-CareSettingType">Extension-UKCore-CareSettingType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-CareSettingType">Extension-UKCore-CareSettingType</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-CareSettingType </td>
 
@@ -646,11 +646,11 @@
 
   <td> This extension extends the Composition and List resources to support the exchange of information about the type of care setting associated with the resource being extended. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-ClinicalSetting">Extension-UKCore-ClinicalSetting</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ClinicalSetting">Extension-UKCore-ClinicalSetting</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-ClinicalSetting </td>
 
@@ -664,11 +664,11 @@
 
   <td> This extension has been developed to represent the clinical setting of a List. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-CodingSCTDescDisplay">Extension-UKCore-CodingSCTDescDisplay</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-CodingSCTDescDisplay">Extension-UKCore-CodingSCTDescDisplay</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-CodingSCTDescDisplay </td>
 
@@ -682,11 +682,11 @@
 
   <td> This extension SHALL be used with the HL7 core-defined extension [coding-sctdescid](https://hl7.org/fhir/R4/extension-coding-sctdescid.html) to support the exchange of the selected description display term for a SNOMED CT concept, where the selected display term is different to the preferred term. The description display term associated with the ID within the coding-sctdescid extension is important to enable the representation of the exact term that was entered by the clinician that recorded the data, or the exact term that a legacy code e.g. a Read v2 code has been translated to using an assured mapping table. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-CodingSCTDescId">Extension-UKCore-CodingSCTDescId</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-CodingSCTDescId">Extension-UKCore-CodingSCTDescId</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-CodingSCTDescId </td>
 
@@ -700,11 +700,11 @@
 
   <td> This extension extends the Coding datatype to support the exchange of the selected description ID and display term for a SNOMED CT concept. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-ConditionBodyStructure">Extension-UKCore-ConditionBodyStructure</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ConditionBodyStructure">Extension-UKCore-ConditionBodyStructure</a></td>
 
   <td> http://hl7.org/fhir/6.0/StructureDefinition/extension-Condition.bodyStructure </td>
 
@@ -718,11 +718,11 @@
 
   <td> This is a Genomics use case to support the backporting of R6 functionality to provide reference to the BodyStructure affected by a Condition. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-ConditionEpisode">Extension-UKCore-ConditionEpisode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ConditionEpisode">Extension-UKCore-ConditionEpisode</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-ConditionEpisode </td>
 
@@ -736,11 +736,11 @@
 
   <td> This extension extends the Condition resource to support the exchange of information describing the episodicity status of a condition. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-ContactPreference">Extension-UKCore-ContactPreference</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ContactPreference">Extension-UKCore-ContactPreference</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-ContactPreference </td>
 
@@ -754,11 +754,11 @@
 
   <td> This extension extends the Patient and RelatedPerson resources to support the exchange of their preferred method of contact, contact times and written communication format. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-ContactRank">Extension-UKCore-ContactRank</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ContactRank">Extension-UKCore-ContactRank</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-ContactRank </td>
 
@@ -772,11 +772,11 @@
 
   <td> This extension extends the Patient resource to support the exchange of the preferred ranking or order of contact applied to a contact on a Patient's contact list. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-CopyCorrespondenceIndicator">Extension-UKCore-CopyCorrespondenceIndicator</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-CopyCorrespondenceIndicator">Extension-UKCore-CopyCorrespondenceIndicator</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-CopyCorrespondenceIndicator </td>
 
@@ -790,11 +790,11 @@
 
   <td> This extension extends the Patient and RelatedPerson resources, to support the exchange of information to indicate that a Patient contact or RelatedPerson SHALL be copied in to Patient correspondence.  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-Coverage">Extension-UKCore-Coverage</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-Coverage">Extension-UKCore-Coverage</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-Coverage </td>
 
@@ -808,11 +808,11 @@
 
   <td> This extension is a Genomics use case to record the funding category for a ServiceRequest. It is expected this will be populated with a code indicating whether the service request is part of NHS coverage or private, and will be used for reimbursement purposes by receiving labs. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-CuffSize">Extension-UKCore-CuffSize</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-CuffSize">Extension-UKCore-CuffSize</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-CuffSize </td>
 
@@ -826,11 +826,11 @@
 
   <td> This extension is a clinical observation use case to record the cuff size used on a sphygmomanometer when the blood pressure was measured. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-DeathNotificationStatus">Extension-UKCore-DeathNotificationStatus</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DeathNotificationStatus">Extension-UKCore-DeathNotificationStatus</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-DeathNotificationStatus </td>
 
@@ -844,11 +844,11 @@
 
   <td> This extension extends the Patient resource to support the exchange of the patient's death notification status. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-DeliveryChannel">Extension-UKCore-DeliveryChannel</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DeliveryChannel">Extension-UKCore-DeliveryChannel</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-DeliveryChannel </td>
 
@@ -862,11 +862,11 @@
 
   <td> This extension extends the Appointment and Slot resources to support the exchange of information describing the delivery channel of a scheduled appointment. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-DeviceReference">Extension-UKCore-DeviceReference</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DeviceReference">Extension-UKCore-DeviceReference</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-DeviceReference </td>
 
@@ -880,11 +880,11 @@
 
   <td> This is a use case from Wellbeing Software to allow for imaging studies to be (selectively) sent to a 3rd party AI service for evaluation, with the outcome then being part of the input to the (human) reporter. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-DiagnosticReportComposition">Extension-UKCore-DiagnosticReportComposition</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DiagnosticReportComposition">Extension-UKCore-DiagnosticReportComposition</a></td>
 
   <td> http://hl7.org/fhir/5.0/StructureDefinition/extension-DiagnosticReport.composition </td>
 
@@ -898,11 +898,11 @@
 
   <td> This is a use case from Genomics to backport R5 functionality and align with HL7 EU laboratory IG. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-DiagnosticReportMediaLink">Extension-UKCore-DiagnosticReportMediaLink</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DiagnosticReportMediaLink">Extension-UKCore-DiagnosticReportMediaLink</a></td>
 
   <td> http://hl7.org/fhir/5.0/StructureDefinition/extension-DiagnosticReport.media.link </td>
 
@@ -916,11 +916,11 @@
 
   <td> This is a Genomics use case to support the backporting of R5 functionality to support adding a reference to image or data source(DocumentReference). </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-DiagnosticReportNote">Extension-UKCore-DiagnosticReportNote</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DiagnosticReportNote">Extension-UKCore-DiagnosticReportNote</a></td>
 
   <td> http://hl7.org/fhir/5.0/StructureDefinition/extension-DiagnosticReport.note </td>
 
@@ -934,11 +934,11 @@
 
   <td> This is a Genomics use case to support the backporting of R5 functionality to support adding general statements about the diagnostic report, or statements about significant, unexpected or unreliable results values contained within the diagnostic report, or information about its source when relevant to its interpretation. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-DiagnosticReportSupportingInfo">Extension-UKCore-DiagnosticReportSupportingInfo</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DiagnosticReportSupportingInfo">Extension-UKCore-DiagnosticReportSupportingInfo</a></td>
 
   <td> http://hl7.org/fhir/5.0/StructureDefinition/extension-DiagnosticReport.supportingInfo </td>
 
@@ -952,11 +952,11 @@
 
   <td> This is a Pathology use case to support the backporting of R5 functionality to support adding additional supporting information that was used in the creation of the diagnostic report. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-DischargeMethod">Extension-UKCore-DischargeMethod</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DischargeMethod">Extension-UKCore-DischargeMethod</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-DischargeMethod </td>
 
@@ -970,11 +970,11 @@
 
   <td> This extension extends the Encounter Resource to support the exchange of information representing the method by which a patient was discharged from hospital. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-EffectivePeriod">Extension-UKCore-EffectivePeriod</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-EffectivePeriod">Extension-UKCore-EffectivePeriod</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-EffectivePeriod </td>
 
@@ -988,11 +988,11 @@
 
   <td> This extension extends a resource to record the effective dates. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-EmergencyCareDischargeStatus">Extension-UKCore-EmergencyCareDischargeStatus</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-EmergencyCareDischargeStatus">Extension-UKCore-EmergencyCareDischargeStatus</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-EmergencyCareDischargeStatus </td>
 
@@ -1006,11 +1006,11 @@
 
   <td> This extension extends the Encounter Resource to support the exchange of information representing the status of a patient on discharge from an Emergency Care Department. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-EncounterTransport">Extension-UKCore-EncounterTransport</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-EncounterTransport">Extension-UKCore-EncounterTransport</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-EncounterTransport </td>
 
@@ -1024,11 +1024,11 @@
 
   <td> This extension has been developed to demonstrate the representation of the transport used by the subject for an encounter. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-EthnicCategory">Extension-UKCore-EthnicCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-EthnicCategory">Extension-UKCore-EthnicCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-EthnicCategory </td>
 
@@ -1042,11 +1042,11 @@
 
   <td> This extension extends the Patient resource to support the exchange of ethnic category information, as a Codeable Concept. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-Evidence">Extension-UKCore-Evidence</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-Evidence">Extension-UKCore-Evidence</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-Evidence </td>
 
@@ -1060,11 +1060,11 @@
 
   <td> This extension extends the AllergyIntolerance resource to support the exchange of information describing the reference to results of investigations that confirmed the certainty of the diagnosis. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-FamilyMemberHistoryParticipant">Extension-UKCore-FamilyMemberHistoryParticipant</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-FamilyMemberHistoryParticipant">Extension-UKCore-FamilyMemberHistoryParticipant</a></td>
 
   <td> http://hl7.org/fhir/5.0/StructureDefinition/extension-FamilyMemberHistory.participant </td>
 
@@ -1078,11 +1078,11 @@
 
   <td> This extension is a Genomics use case to replicate the R5 FamilyMemberHistory.participant functionality in R4, and is to be used to indicate who or what participated in the activities related to the family member history and how they were involved. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-LegalStatus">Extension-UKCore-LegalStatus</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-LegalStatus">Extension-UKCore-LegalStatus</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-LegalStatus </td>
 
@@ -1096,11 +1096,11 @@
 
   <td> This extension extends the Encounter Resource to support the exchange of information relating to a patient's legal status on admission or discharge. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-ListWarningCode">Extension-UKCore-ListWarningCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ListWarningCode">Extension-UKCore-ListWarningCode</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-ListWarningCode </td>
 
@@ -1114,11 +1114,11 @@
 
   <td> This extension extends the List Resource to support the exchange of information representing warnings that the list may be incomplete as data has been excluded due to confidentiality or may be missing due to data being in transit. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-MainLocation">Extension-UKCore-MainLocation</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MainLocation">Extension-UKCore-MainLocation</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-MainLocation </td>
 
@@ -1132,11 +1132,11 @@
 
   <td> This extension extends the Organization resource to support the exchange of information on the Organization's main location, as a reference to a Location resource. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-MedicalApplianceSupplier">Extension-UKCore-MedicalApplianceSupplier</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicalApplianceSupplier">Extension-UKCore-MedicalApplianceSupplier</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-MedicalApplianceSupplier </td>
 
@@ -1150,11 +1150,11 @@
 
   <td> This extension extends the Patient resource to support the exchange of the patient's nominated medical appliance supplier information. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-MedicationChangeSummary">Extension-UKCore-MedicationChangeSummary</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationChangeSummary">Extension-UKCore-MedicationChangeSummary</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-MedicationChangeSummary </td>
 
@@ -1168,11 +1168,11 @@
 
   <td> This extension extends the MedicationStatement to support the exchange of the change information of a medication item. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-MedicationDosageLastChanged">Extension-UKCore-MedicationDosageLastChanged</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationDosageLastChanged">Extension-UKCore-MedicationDosageLastChanged</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-MedicationDosageLastChanged </td>
 
@@ -1186,11 +1186,11 @@
 
   <td> This extension extends the MedicationStatement resource to support the exchange of the information about the date and time that the medication dosage instructions were last changed. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-MedicationPrescribingAgency">Extension-UKCore-MedicationPrescribingAgency</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationPrescribingAgency">Extension-UKCore-MedicationPrescribingAgency</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-MedicationPrescribingAgency </td>
 
@@ -1204,11 +1204,11 @@
 
   <td> This extension extends the MedicationStatement to hold the type of organisation or setting responsible for authorising and issuing a medication. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-MedicationPrescribingOrganization">Extension-UKCore-MedicationPrescribingOrganization</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationPrescribingOrganization">Extension-UKCore-MedicationPrescribingOrganization</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-MedicationPrescribingOrganization </td>
 
@@ -1222,11 +1222,11 @@
 
   <td> This extension extends the MedicationStatement resource to hold the type of organisation or setting responsible for authorising and issuing a medication. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-MedicationPrescribingOrganizationType">Extension-UKCore-MedicationPrescribingOrganizationType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationPrescribingOrganizationType">Extension-UKCore-MedicationPrescribingOrganizationType</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-MedicationPrescribingOrganizationType </td>
 
@@ -1240,11 +1240,11 @@
 
   <td> This extension extends the MedicationStatement resource to hold the type of organisation or setting responsible for authorising and issuing a medication. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-MedicationQuantityText">Extension-UKCore-MedicationQuantityText</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationQuantityText">Extension-UKCore-MedicationQuantityText</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-MedicationQuantityText </td>
 
@@ -1258,11 +1258,11 @@
 
   <td> This extension extends the MedicationRequest and the MedicationDispense resources to support the textual representation of a medication structured quantity. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-MedicationRepeatInformation">Extension-UKCore-MedicationRepeatInformation</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationRepeatInformation">Extension-UKCore-MedicationRepeatInformation</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-MedicationRepeatInformation </td>
 
@@ -1276,11 +1276,11 @@
 
   <td> This extension extends the MedicationRequest resource to support the exchange of repeat medication data items. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-MedicationStatementLastIssueDate">Extension-UKCore-MedicationStatementLastIssueDate</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationStatementLastIssueDate">Extension-UKCore-MedicationStatementLastIssueDate</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-MedicationStatementLastIssueDate </td>
 
@@ -1294,11 +1294,11 @@
 
   <td> This extension extends the MedicationStatement resource to support the exchange of the date information when a prescription was last issued. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-MedicationTradeFamily">Extension-UKCore-MedicationTradeFamily</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationTradeFamily">Extension-UKCore-MedicationTradeFamily</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-MedicationTradeFamily </td>
 
@@ -1312,11 +1312,11 @@
 
   <td> This Extension extends the Medication resource to allow the exchange of data to indicate a Trade Family or brand associated with a medication. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-MessageHeaderInstruction">Extension-UKCore-MessageHeaderInstruction</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MessageHeaderInstruction">Extension-UKCore-MessageHeaderInstruction</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-MessageHeaderInstruction </td>
 
@@ -1330,11 +1330,11 @@
 
   <td> This extension extends the Message Header resource to support the exchange of a specific instruction to specify additional receiver behaviour - this could be locally or nationally defined. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-NHSCommunication">Extension-UKCore-NHSCommunication</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-NHSCommunication">Extension-UKCore-NHSCommunication</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-NHSCommunication </td>
 
@@ -1348,11 +1348,11 @@
 
   <td> This extension extends the Patient resource to support the exchange of communication preference information. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-NHSNumberUnavailableReason">Extension-UKCore-NHSNumberUnavailableReason</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-NHSNumberUnavailableReason">Extension-UKCore-NHSNumberUnavailableReason</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-NHSNumberUnavailableReason </td>
 
@@ -1366,11 +1366,11 @@
 
   <td> This extension is a Genomics use case to record why an NHS Number for the patient has not been provided within a test request. This differs from NHS Number trace status as this indicates reason. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-NHSNumberVerificationStatus">Extension-UKCore-NHSNumberVerificationStatus</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-NHSNumberVerificationStatus">Extension-UKCore-NHSNumberVerificationStatus</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-NHSNumberVerificationStatus </td>
 
@@ -1384,11 +1384,11 @@
 
   <td> This extension extends the identifier element of the Patient resource to support the exchange of information on the verification of a Patient's NHS number.  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-NominatedPharmacy">Extension-UKCore-NominatedPharmacy</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-NominatedPharmacy">Extension-UKCore-NominatedPharmacy</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-NominatedPharmacy </td>
 
@@ -1402,11 +1402,11 @@
 
   <td> This extension extends the Patient resource to hold the individual's nominated pharmacy. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-ObservationBodyStructure">Extension-UKCore-ObservationBodyStructure</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ObservationBodyStructure">Extension-UKCore-ObservationBodyStructure</a></td>
 
   <td> http://hl7.org/fhir/5.0/StructureDefinition/extension-Observation.bodyStructure </td>
 
@@ -1420,11 +1420,11 @@
 
   <td> This is a Pathology use case to support the backporting of R5 functionality to support adding a BodyStructure to an Observation. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-ObservationTriggeredBy">Extension-UKCore-ObservationTriggeredBy</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ObservationTriggeredBy">Extension-UKCore-ObservationTriggeredBy</a></td>
 
   <td> http://hl7.org/fhir/5.0/StructureDefinition/extension-Observation.triggeredBy </td>
 
@@ -1438,11 +1438,11 @@
 
   <td> This is a Pathology use case to backport R5 functionality to identify the observation(s) that triggered the performance of this observation. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-OtherContactSystem">Extension-UKCore-OtherContactSystem</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-OtherContactSystem">Extension-UKCore-OtherContactSystem</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-OtherContactSystem </td>
 
@@ -1456,11 +1456,11 @@
 
   <td> This extension extends the ContactPoint datatype to support the exchange of other contact system information. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-OutcomeOfAttendance">Extension-UKCore-OutcomeOfAttendance</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-OutcomeOfAttendance">Extension-UKCore-OutcomeOfAttendance</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-OutcomeOfAttendance </td>
 
@@ -1474,11 +1474,11 @@
 
   <td> This extension extends the Encounter Resource to support the exchange of information representing the outcome of an Outpatient attendance. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-OverseasVisitorChargingCategory">Extension-UKCore-OverseasVisitorChargingCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-OverseasVisitorChargingCategory">Extension-UKCore-OverseasVisitorChargingCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-OverseasVisitorChargingCategory </td>
 
@@ -1492,11 +1492,11 @@
 
   <td> This extension extends the Patient resource to support the exchange of information about a patient's charging category. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-ParentPresent">Extension-UKCore-ParentPresent</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ParentPresent">Extension-UKCore-ParentPresent</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-ParentPresent </td>
 
@@ -1510,11 +1510,11 @@
 
   <td> This extension extends the Immunization resource to support the exchange of data to indicate whether the child's parent was present at the time of the immunisation. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-PatientFetalStatus">Extension-UKCore-PatientFetalStatus</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-PatientFetalStatus">Extension-UKCore-PatientFetalStatus</a></td>
 
   <td> http://hl7.org/fhir/6.0/StructureDefinition/extension-Patient.fetalStatus </td>
 
@@ -1528,11 +1528,11 @@
 
   <td> This is a Genomics use case to support the backporting of R5 functionality to record the born status of fetus (Patient) </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-PharmacistVerifiedIndicator">Extension-UKCore-PharmacistVerifiedIndicator</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-PharmacistVerifiedIndicator">Extension-UKCore-PharmacistVerifiedIndicator</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-PharmacistVerifiedIndicator </td>
 
@@ -1546,11 +1546,11 @@
 
   <td> This Extension extends the MedicationStatement resource to allow the exchange of data to indicate whether a pharmacist verified the medication specified within or referenced by the medication statement. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-PreferredDispenserOrganization">Extension-UKCore-PreferredDispenserOrganization</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-PreferredDispenserOrganization">Extension-UKCore-PreferredDispenserOrganization</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-PreferredDispenserOrganization </td>
 
@@ -1564,11 +1564,11 @@
 
   <td> This extension extends the Patient resource to support the exchange of preferred dispenser organisation information. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-PrescriptionType">Extension-UKCore-PrescriptionType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-PrescriptionType">Extension-UKCore-PrescriptionType</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-PrescriptionType </td>
 
@@ -1582,11 +1582,11 @@
 
   <td> This extension extends the MedicationRequest resource to support the recording of the prescription type. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-PriorityReason">Extension-UKCore-PriorityReason</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-PriorityReason">Extension-UKCore-PriorityReason</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-PriorityReason </td>
 
@@ -1600,11 +1600,11 @@
 
   <td> This is a Genomics use case to record the reason why an urgent test has been requested. This differs from supportingInfo in that it does not necessarily indicate why the test is being requested. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-ProblemSignificance">Extension-UKCore-ProblemSignificance</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ProblemSignificance">Extension-UKCore-ProblemSignificance</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-ProblemSignificance </td>
 
@@ -1618,11 +1618,11 @@
 
   <td> This extension extends the Condition Resource to support the exchange of information describing the significance of the problem header condition. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-Recorder">Extension-UKCore-Recorder</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-Recorder">Extension-UKCore-Recorder</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-Recorder </td>
 
@@ -1636,11 +1636,11 @@
 
   <td> This extension is used to specify who recorded an event. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-RecordingSetting">Extension-UKCore-RecordingSetting</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-RecordingSetting">Extension-UKCore-RecordingSetting</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-RecordingSetting </td>
 
@@ -1654,11 +1654,11 @@
 
   <td> This extension is a clinical observation use case to record the care setting in which an observation was recorded in. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-RelatedClinicalContent">Extension-UKCore-RelatedClinicalContent</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-RelatedClinicalContent">Extension-UKCore-RelatedClinicalContent</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-RelatedClinicalContent </td>
 
@@ -1672,11 +1672,11 @@
 
   <td> This extension extends the Condition Resource to support the exchange of information supporting a reference to any resource that provides related clinical content to the Condition. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-RelatedProblemHeader">Extension-UKCore-RelatedProblemHeader</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-RelatedProblemHeader">Extension-UKCore-RelatedProblemHeader</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-RelatedProblemHeader </td>
 
@@ -1690,11 +1690,11 @@
 
   <td> This extension extends the Condition or List Resource to support a reference to another related problem header condition (target) whose relationship is defined by the relationship type code. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-ReligiousAffiliation">Extension-UKCore-ReligiousAffiliation</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ReligiousAffiliation">Extension-UKCore-ReligiousAffiliation</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-ReligiousAffiliation </td>
 
@@ -1708,11 +1708,11 @@
 
   <td> This extension extends the Patient resource to support the exchange of information about a patient's religious affiliation. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-ResidentialStatus">Extension-UKCore-ResidentialStatus</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ResidentialStatus">Extension-UKCore-ResidentialStatus</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-ResidentialStatus </td>
 
@@ -1726,11 +1726,11 @@
 
   <td> This extension extends the Patient resource to support the exchange of information about a patient's residential status. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-SampleCategory">Extension-UKCore-SampleCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-SampleCategory">Extension-UKCore-SampleCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-SampleCategory </td>
 
@@ -1744,11 +1744,11 @@
 
   <td> This extension is a Genomics use case to categorise the genome sequencing sample type, whether it is a tumour or germline Sample. This is different to Specimen.type which, for genomics, records the tissue of origin. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-ServiceRequestMethod">Extension-UKCore-ServiceRequestMethod</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ServiceRequestMethod">Extension-UKCore-ServiceRequestMethod</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-ServiceRequestMethod </td>
 
@@ -1762,11 +1762,11 @@
 
   <td> This extension extends the Service Request Resource to support the exchange of information describing the method used to send or receive a Service Request. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-SourceOfServiceRequest">Extension-UKCore-SourceOfServiceRequest</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-SourceOfServiceRequest">Extension-UKCore-SourceOfServiceRequest</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-SourceOfServiceRequest </td>
 
@@ -1780,11 +1780,11 @@
 
   <td> This extension extends the Service Request Resource to support the exchange of information describing the source of the Service Request. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-SpecimenCollectionCollector">Extension-UKCore-SpecimenCollectionCollector</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-SpecimenCollectionCollector">Extension-UKCore-SpecimenCollectionCollector</a></td>
 
   <td> http://hl7.org/fhir/5.0/StructureDefinition/extension-Specimen.collection.collector </td>
 
@@ -1798,11 +1798,11 @@
 
   <td> This is a use case from Genomics to backport R5 functionality extending the referencing of Specimen.collection.collector to include Patient and RelatedPerson </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-SpecimenContainerDevice">Extension-UKCore-SpecimenContainerDevice</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-SpecimenContainerDevice">Extension-UKCore-SpecimenContainerDevice</a></td>
 
   <td> http://hl7.org/fhir/5.0/StructureDefinition/extension-Specimen.container.device </td>
 
@@ -1816,11 +1816,11 @@
 
   <td> This is a use case from Genomics to backport R5 functionality extending the referencing of Specimen.container to include a Device reference </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-SpecimenContainerLocation">Extension-UKCore-SpecimenContainerLocation</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-SpecimenContainerLocation">Extension-UKCore-SpecimenContainerLocation</a></td>
 
   <td> http://hl7.org/fhir/5.0/StructureDefinition/extension-Specimen.container.location </td>
 
@@ -1834,11 +1834,11 @@
 
   <td> This is a use case from Genomics to backport R5 functionality extending the referencing of Specimen.container to include a Location reference </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-TreatmentCategory">Extension-UKCore-TreatmentCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-TreatmentCategory">Extension-UKCore-TreatmentCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-TreatmentCategory </td>
 
@@ -1852,11 +1852,11 @@
 
   <td> This extension extends the Patient resource to support the exchange of treatment category information, as a Codeable Concept. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-TypedDateTime">Extension-UKCore-TypedDateTime</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-TypedDateTime">Extension-UKCore-TypedDateTime</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-TypedDateTime </td>
 
@@ -1870,11 +1870,11 @@
 
   <td> This extension extends the Encounter and the Communication resources to support the exchange of information describing the specific business related date and/or time. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-TypedPeriod">Extension-UKCore-TypedPeriod</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-TypedPeriod">Extension-UKCore-TypedPeriod</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-TypedPeriod </td>
 
@@ -1888,11 +1888,11 @@
 
   <td> This extension has been created from an ODS use-case in which there is a requirement to hold data for Legal and Operational dates, although it is expected to be broader than ODS and can be used for other scenarios. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/Extension-UKCore-VaccinationProcedure">Extension-UKCore-VaccinationProcedure</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-VaccinationProcedure">Extension-UKCore-VaccinationProcedure</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/Extension-UKCore-VaccinationProcedure </td>
 
@@ -1906,11 +1906,11 @@
 
   <td> This extension extends the Immunization resource to support the exchange of an immunization procedure code. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/GPReg-Questionnaire-RegisterGPSurgery-Example">GPReg-Questionnaire-RegisterGPSurgery-Example</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/GPReg-Questionnaire-RegisterGPSurgery-Example">GPReg-Questionnaire-RegisterGPSurgery-Example</a></td>
 
   <td> https://fhir.nhs.uk/England/StructureDefinition/England-Questionnaire-RegisterGPSurgeryv2 </td>
 
@@ -1924,11 +1924,11 @@
 
   <td> To standardise the questions asked when registering for a GP Surgery within England </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-Extension-OrganisationRole-ActiveRoleCode">England-Extension-OrganisationRole-ActiveRoleCode</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Extension-OrganisationRole-ActiveRoleCode">England-Extension-OrganisationRole-ActiveRoleCode</a></td>
 
   <td> https://fhir.nhs.uk/England/SearchParameter/England-Extension-OrganisationRole-ActiveRoleCode </td>
 
@@ -1942,11 +1942,11 @@
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-Extension-OrganisationRole-RoleCode">England-Extension-OrganisationRole-RoleCode</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Extension-OrganisationRole-RoleCode">England-Extension-OrganisationRole-RoleCode</a></td>
 
   <td> https://fhir.nhs.uk/England/SearchParameter/England-Extension-OrganisationRole-RoleCode </td>
 
@@ -1960,11 +1960,11 @@
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-Extension-TypedDateTime-LastChangeDate">England-Extension-TypedDateTime-LastChangeDate</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Extension-TypedDateTime-LastChangeDate">England-Extension-TypedDateTime-LastChangeDate</a></td>
 
   <td> https://fhir.nhs.uk/England/SearchParameter/England-Extension-TypedDateTime-LastChangeDate </td>
 
@@ -1978,11 +1978,11 @@
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-FlagCategory">England-FlagCategory</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-FlagCategory">England-FlagCategory</a></td>
 
   <td> https://fhir.nhs.uk/England/SearchParameter/England-FlagCategory </td>
 
@@ -1996,11 +1996,11 @@
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-FlagCode">England-FlagCode</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-FlagCode">England-FlagCode</a></td>
 
   <td> https://fhir.nhs.uk/England/SearchParameter/England-FlagCode </td>
 
@@ -2014,11 +2014,11 @@
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-FlagDetail">England-FlagDetail</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-FlagDetail">England-FlagDetail</a></td>
 
   <td> https://fhir.nhs.uk/England/SearchParameter/England-FlagDetail </td>
 
@@ -2032,11 +2032,11 @@
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-AllergyIntolerance">UKCore-AllergyIntolerance</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AllergyIntolerance">UKCore-AllergyIntolerance</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-AllergyIntolerance </td>
 
@@ -2056,11 +2056,11 @@ Substances include but are not limited to a therapeutic substance administered c
 
 This resource is used to record physical conditions. It SHALL NOT be used to record preferences for or against types of treatment, for example on religious grounds. For such use cases consider the use of the FHIR [Consent](https://hl7.org/fhir/R4/consent.html) resource. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Appointment">UKCore-Appointment</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Appointment">UKCore-Appointment</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Appointment </td>
 
@@ -2076,11 +2076,11 @@ This resource is used to record physical conditions. It SHALL NOT be used to rec
 
  Examples include a scheduled surgery, a follow-up for a clinical visit, a scheduled conference call between clinicians to discuss a case, the reservation of a piece of diagnostic equipment for a particular use, etc. The visit scheduled by an appointment may be in person or remote (by phone, video conference, etc.) All that matters is that the time and usage of one or more individuals, locations and/or pieces of equipment is being fully or partially reserved for a designated period of time. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-AuditEvent">UKCore-AuditEvent</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AuditEvent">UKCore-AuditEvent</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-AuditEvent </td>
 
@@ -2094,11 +2094,11 @@ This resource is used to record physical conditions. It SHALL NOT be used to rec
 
   <td> The purpose of this profile is to hold information about an event made to maintain a security log. Typical uses include detection of intrusion attempts and monitoring for inappropriate usage. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-BodyStructure">UKCore-BodyStructure</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BodyStructure">UKCore-BodyStructure</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-BodyStructure </td>
 
@@ -2112,11 +2112,11 @@ This resource is used to record physical conditions. It SHALL NOT be used to rec
 
   <td> This profile allows exchange of information of body structure details, such as site, laterality, location. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Bundle">UKCore-Bundle</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Bundle">UKCore-Bundle</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Bundle </td>
 
@@ -2130,11 +2130,11 @@ This resource is used to record physical conditions. It SHALL NOT be used to rec
 
   <td> This profile allows a collection of resources to be exchanged as one bundle. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-CarePlan">UKCore-CarePlan</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-CarePlan">UKCore-CarePlan</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-CarePlan </td>
 
@@ -2148,11 +2148,11 @@ This resource is used to record physical conditions. It SHALL NOT be used to rec
 
   <td> This profile allows recording of care plans which are used in many areas of healthcare with a variety of scopes. They can be as simple as a general practitioner keeping track of when an individual is next due for a tetanus immunisation through to a detailed plan for an oncology patient covering diet, chemotherapy, radiation, lab work and counselling with detailed timing relationships, pre-conditions and goals. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-CareTeam">UKCore-CareTeam</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-CareTeam">UKCore-CareTeam</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-CareTeam </td>
 
@@ -2166,11 +2166,11 @@ This resource is used to record physical conditions. It SHALL NOT be used to rec
 
   <td> This profile allows recording of the care team which includes all the people and organisations who plan to participate in the coordination and delivery of care for an individual. This is not limited to practitioners, but may include other caregivers such as family members, guardians, the individual themselves, or others. The care team, depending on where used, may include care team members specific to a particular care plan, an episode, an encounter, or may reflect all known team members across these perspectives. An individual's care team can be dynamic over time, such that there can be transience of team members, such as a rehabilitation team. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Communication">UKCore-Communication</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Communication">UKCore-Communication</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Communication </td>
 
@@ -2193,11 +2193,11 @@ This resource is used to record physical conditions. It SHALL NOT be used to rec
 
 - Unable to deliver laboratory results to the appropriate care practitioners </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Composition">UKCore-Composition</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Composition">UKCore-Composition</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Composition </td>
 
@@ -2213,11 +2213,11 @@ This resource is used to record physical conditions. It SHALL NOT be used to rec
 
 A Composition defines the structure and narrative content necessary for a document. However, a Composition alone does not constitute a document. Rather, the Composition SHALL be the first entry in a Bundle where `Bundle.type=document`, and any other resources referenced from Composition SHALL be included as subsequent entries in the Bundle, for example Patient, Practitioner, Encounter, etc. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Condition">UKCore-Condition</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Condition">UKCore-Condition</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Condition </td>
 
@@ -2235,11 +2235,11 @@ The condition could be a point in time diagnosis in the context of an encounter,
 
 It can be used to record information about a disease/illness identified from the application of clinical reasoning over the pathologic and pathophysiologic findings (diagnosis), or identification of health issues/situations that a practitioner considers harmful, potentially harmful and may be investigated and managed (problem), or other health issue/situation that may require ongoing monitoring and/or management (health issue/concern). </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Consent">UKCore-Consent</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Consent">UKCore-Consent</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Consent </td>
 
@@ -2257,11 +2257,11 @@ It can be used to record information about a disease/illness identified from the
 - **Research Consent Directive**: Consent to participate in research protocol and information sharing required. 
 - **Advance Care Directives**: Consent to instructions for potentially needed medical treatment (e.g. DNR). </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Device">UKCore-Device</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Device">UKCore-Device</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Device </td>
 
@@ -2275,11 +2275,11 @@ It can be used to record information about a disease/illness identified from the
 
   <td> The purpose of this profile is to hold information about a type of a manufactured item that is used in the provision of healthcare without being substantially changed through that activity. The device may be a medical or non-medical device. It is referenced by other resources for recording which device performed an action such as a procedure or an observation, referenced when prescribing and dispensing devices for patient use or for ordering supplies, and used to record and transmit Unique Device Identifier (UDI) information about a device such as a patient's implant. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Device-BloodPressure">UKCore-Device-BloodPressure</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Device-BloodPressure">UKCore-Device-BloodPressure</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Device-BloodPressure </td>
 
@@ -2293,11 +2293,11 @@ It can be used to record information about a disease/illness identified from the
 
   <td> The purpose of this profile is to hold information about a device used to measure blood pressure, such as the type or sphygmomanometer, and cuff size used. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-DiagnosticReport">UKCore-DiagnosticReport</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DiagnosticReport">UKCore-DiagnosticReport</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-DiagnosticReport </td>
 
@@ -2313,11 +2313,11 @@ It can be used to record information about a disease/illness identified from the
 
 Note: this profile SHALL NOT be used where a more specific UK Core profile exists. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-DiagnosticReport-Lab">UKCore-DiagnosticReport-Lab</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DiagnosticReport-Lab">UKCore-DiagnosticReport-Lab</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-DiagnosticReport-Lab </td>
 
@@ -2331,11 +2331,11 @@ Note: this profile SHALL NOT be used where a more specific UK Core profile exist
 
   <td> To provide implementers with additional support when implementing test result data and to provide a consistent structure to how the data is presented. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-DocumentReference">UKCore-DocumentReference</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DocumentReference">UKCore-DocumentReference</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-DocumentReference </td>
 
@@ -2349,11 +2349,11 @@ Note: this profile SHALL NOT be used where a more specific UK Core profile exist
 
   <td> This profile supports a reference to a document of any kind for any purpose. Provides metadata about the document so that the document can be discovered and managed. The scope of a document is any serialised object with a mime-type, so includes formal patient centric documents (CDA), clinical notes, scanned paper, and non-patient specific documents like policy text. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Encounter">UKCore-Encounter</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Encounter">UKCore-Encounter</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Encounter </td>
 
@@ -2367,11 +2367,11 @@ Note: this profile SHALL NOT be used where a more specific UK Core profile exist
 
   <td> This profile allows exchange of information about an interaction between an individual and healthcare providers for the purpose of providing healthcare services or assessing the health status of an individual. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-EpisodeOfCare">UKCore-EpisodeOfCare</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EpisodeOfCare">UKCore-EpisodeOfCare</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-EpisodeOfCare </td>
 
@@ -2390,11 +2390,11 @@ Note: this profile SHALL NOT be used where a more specific UK Core profile exist
 - **EpisodeOfCare:** Case, Program, Problem, Episode 
 - **Encounter:** Visit, Contact. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-FamilyMemberHistory">UKCore-FamilyMemberHistory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-FamilyMemberHistory">UKCore-FamilyMemberHistory</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-FamilyMemberHistory </td>
 
@@ -2408,11 +2408,11 @@ Note: this profile SHALL NOT be used where a more specific UK Core profile exist
 
   <td> This profile allows exchange of information about health events and conditions for a person related to the patient relevant in the context of care. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Flag">UKCore-Flag</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Flag">UKCore-Flag</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Flag </td>
 
@@ -2435,11 +2435,11 @@ This subject can be of different types, as described in the examples below:
 - Special guidance or caveats to be aware of when following a protocol (`subject = PlanDefinition`)   
 - Warnings about using a drug in a formulary requires special approval (`subject = Medication`) </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-HealthcareService">UKCore-HealthcareService</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-HealthcareService">UKCore-HealthcareService</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-HealthcareService </td>
 
@@ -2453,11 +2453,11 @@ This subject can be of different types, as described in the examples below:
 
   <td> This profile is used to describe a single healthcare service or category of services that are provided by an organisation at a location, including a virtual location. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ImagingStudy">UKCore-ImagingStudy</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ImagingStudy">UKCore-ImagingStudy</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-ImagingStudy </td>
 
@@ -2471,11 +2471,11 @@ This subject can be of different types, as described in the examples below:
 
   <td> This profile allows exchange of the content produced in a DICOM imaging study. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Immunization">UKCore-Immunization</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Immunization">UKCore-Immunization</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Immunization </td>
 
@@ -2491,11 +2491,11 @@ This subject can be of different types, as described in the examples below:
 
 This profile does not support the administration of non-vaccine agents, even those that may have or claim to have immunological effects. While the terms "immunisation" and "vaccination" are not clinically identical, for the purposes of the FHIR profile, the terms are used synonymously. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-List">UKCore-List</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-List">UKCore-List</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-List </td>
 
@@ -2513,11 +2513,11 @@ The list profile can be used in many places, including allergies, medications, a
 
 The list profile supports lists that are homogeneous – consisting of only one type of resource (e.g. Allergy lists) as well as heterogeneous – containing a variety of resources (e.g. a problem list including Condition, AllergyIntolerance, Procedure, etc.). </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Location">UKCore-Location</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Location">UKCore-Location</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Location </td>
 
@@ -2533,11 +2533,11 @@ The list profile supports lists that are homogeneous – consisting of only one 
 
 A location includes both incidental locations (a place which is used for healthcare without prior designation or authorisation) and dedicated, formally appointed locations. Locations may be private, public, mobile or fixed and scale from small freezers to full hospital buildings or parking garages. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Medication">UKCore-Medication</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Medication">UKCore-Medication</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Medication </td>
 
@@ -2551,11 +2551,11 @@ A location includes both incidental locations (a place which is used for healthc
 
   <td> This profile is primarily used for the identification and definition of a medication for the purposes of prescribing, dispensing, and administering a medication as well as for making statements about medication use. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationAdministration">UKCore-MedicationAdministration</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationAdministration">UKCore-MedicationAdministration</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-MedicationAdministration </td>
 
@@ -2571,11 +2571,11 @@ A location includes both incidental locations (a place which is used for healthc
 
 Related resources tie this event to the authorizing prescription, and the specific encounter between patient and health care practitioner. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationDispense">UKCore-MedicationDispense</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationDispense">UKCore-MedicationDispense</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-MedicationDispense </td>
 
@@ -2589,11 +2589,11 @@ Related resources tie this event to the authorizing prescription, and the specif
 
   <td> This profile covers the supply of medications to a patient. Examples include dispensing and pick-up from an outpatient or community pharmacy, dispensing patient-specific medications from inpatient pharmacy to ward, as well as issuing a single dose from ward stock to a patient for consumption. The medication dispense is the result of a pharmacy system responding to a medication order. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationRequest">UKCore-MedicationRequest</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationRequest">UKCore-MedicationRequest</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-MedicationRequest </td>
 
@@ -2611,11 +2611,11 @@ This profile covers inpatient medication orders as well as community orders (whe
 
 It is not intended for use in prescribing particular diets, or for ordering non-medication-related items (eyeglasses, supplies, etc). </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationStatement">UKCore-MedicationStatement</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationStatement">UKCore-MedicationStatement</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-MedicationStatement </td>
 
@@ -2631,11 +2631,11 @@ It is not intended for use in prescribing particular diets, or for ordering non-
 
 A MedicationStatement may indicate that the individual may be taking the medication now or has taken the medication in the past or will be taking the medication in the future. The source of this information can be the individual, significant other (such as a family member or spouse), or a clinician. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MessageHeader">UKCore-MessageHeader</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MessageHeader">UKCore-MessageHeader</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-MessageHeader </td>
 
@@ -2649,11 +2649,11 @@ A MedicationStatement may indicate that the individual may be taking the medicat
 
   <td> This profile carries the header data for a message exchange that is either requesting or responding to an action. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Observation">UKCore-Observation</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation">UKCore-Observation</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Observation </td>
 
@@ -2669,11 +2669,11 @@ A MedicationStatement may indicate that the individual may be taking the medicat
 
 Note: this profile SHALL NOT be used where a more specific UK Core profile exists. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Observation-ACVPU">UKCore-Observation-ACVPU</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-ACVPU">UKCore-Observation-ACVPU</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Observation-ACVPU </td>
 
@@ -2687,11 +2687,11 @@ Note: this profile SHALL NOT be used where a more specific UK Core profile exist
 
   <td> To provide implementers with additional support when implementing gathering of a patients ACVPU (level of consciousness) status, and to provide a consistent structure to how the data is presented. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Observation-AlcoholConsumption">UKCore-Observation-AlcoholConsumption</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-AlcoholConsumption">UKCore-Observation-AlcoholConsumption</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Observation-AlcoholConsumption </td>
 
@@ -2705,11 +2705,11 @@ Note: this profile SHALL NOT be used where a more specific UK Core profile exist
 
   <td> To provide implementers with additional support when implementing gathering and recording the patient's alcohol consumption per day / week </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Observation-AverageBloodPressure">UKCore-Observation-AverageBloodPressure</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-AverageBloodPressure">UKCore-Observation-AverageBloodPressure</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Observation-AverageBloodPressure </td>
 
@@ -2723,11 +2723,11 @@ Note: this profile SHALL NOT be used where a more specific UK Core profile exist
 
   <td> To provide implementers with additional support when implementing average blood pressure monitoring over a specific time period and to provide a consistent structure to how the data is presented. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Observation-BloodGlucose">UKCore-Observation-BloodGlucose</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-BloodGlucose">UKCore-Observation-BloodGlucose</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Observation-BloodGlucose </td>
 
@@ -2741,11 +2741,11 @@ Note: this profile SHALL NOT be used where a more specific UK Core profile exist
 
   <td> To provide implementers with additional support when implementing recording of a patient's blood glucose levels. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Observation-EarlyWarningTotalScore">UKCore-Observation-EarlyWarningTotalScore</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-EarlyWarningTotalScore">UKCore-Observation-EarlyWarningTotalScore</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Observation-EarlyWarningTotalScore </td>
 
@@ -2759,11 +2759,11 @@ Note: this profile SHALL NOT be used where a more specific UK Core profile exist
 
   <td> To provide implementers with additional support when implementing an Early Warning Score system such as NEWS2 or NPEWS and to provide a consistent structure to how the data is presented. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Observation-Group-Lab">UKCore-Observation-Group-Lab</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-Group-Lab">UKCore-Observation-Group-Lab</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Observation-Group-Lab </td>
 
@@ -2777,11 +2777,11 @@ Note: this profile SHALL NOT be used where a more specific UK Core profile exist
 
   <td> This profile allows the creation of a report for results borne from a single request panel, or profile, e.g. Full Blood Count, Lipid Profile, etc. allowing the results to be logically ordered according to the given profile and/or best practice guidelines. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Observation-InspiredOxygen">UKCore-Observation-InspiredOxygen</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-InspiredOxygen">UKCore-Observation-InspiredOxygen</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Observation-InspiredOxygen </td>
 
@@ -2797,11 +2797,11 @@ Note: this profile SHALL NOT be used where a more specific UK Core profile exist
 
 The clinical observations within scope of this profile include all patient respiration: Unaided, Oxygen Concentrators, Nasal Cannula, CPAP Devices, Endotracheal Tube, and Mechanical Ventilator. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Observation-Lab">UKCore-Observation-Lab</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-Lab">UKCore-Observation-Lab</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Observation-Lab </td>
 
@@ -2815,11 +2815,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> To provide the minimum expectations for each individual laboratory test. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Observation-TobaccoConsumption">UKCore-Observation-TobaccoConsumption</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-TobaccoConsumption">UKCore-Observation-TobaccoConsumption</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Observation-TobaccoConsumption </td>
 
@@ -2833,11 +2833,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> To provide implementers with additional support when implementing gathering and recording the patient's tobacco consumption per day / week. This profile should not be used to record the vaping habits of a patient. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Observation-VitalSigns">UKCore-Observation-VitalSigns</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns">UKCore-Observation-VitalSigns</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Observation-VitalSigns </td>
 
@@ -2851,11 +2851,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> This profile allows exchange of internationally FHIR compliant vital signs information based on measurements and simple assertions made about an individual. Where a more constrained derived profile exists, it should be used instead of this profile. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Observation-VitalSigns-BMI">UKCore-Observation-VitalSigns-BMI</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-BMI">UKCore-Observation-VitalSigns-BMI</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Observation-VitalSigns-BMI </td>
 
@@ -2869,11 +2869,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> To provide implementers with additional support when implementing measuring and recording body mass index and to provide a consistent structure to how the data is presented. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Observation-VitalSigns-BloodPressure">UKCore-Observation-VitalSigns-BloodPressure</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-BloodPressure">UKCore-Observation-VitalSigns-BloodPressure</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Observation-VitalSigns-BloodPressure </td>
 
@@ -2887,11 +2887,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> To provide implementers with additional support when implementing blood pressure monitoring and to provide a consistent structure to how the data is presented. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Observation-VitalSigns-BodyHeight">UKCore-Observation-VitalSigns-BodyHeight</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-BodyHeight">UKCore-Observation-VitalSigns-BodyHeight</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Observation-VitalSigns-BodyHeight </td>
 
@@ -2905,11 +2905,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> To provide implementers with additional support when implementing length / height measuring and to provide a consistent structure to how the data is presented. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Observation-VitalSigns-BodyTemperature">UKCore-Observation-VitalSigns-BodyTemperature</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-BodyTemperature">UKCore-Observation-VitalSigns-BodyTemperature</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Observation-VitalSigns-BodyTemperature </td>
 
@@ -2923,11 +2923,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> To provide implementers with additional support when implementing measuring body temperature and to provide a consistent structure to how the data is presented. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Observation-VitalSigns-BodyWeight">UKCore-Observation-VitalSigns-BodyWeight</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-BodyWeight">UKCore-Observation-VitalSigns-BodyWeight</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Observation-VitalSigns-BodyWeight </td>
 
@@ -2941,11 +2941,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> To provide implementers with additional support when implementing weight measuring and to provide a consistent structure to how the data is presented. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Observation-VitalSigns-HeadCircumference">UKCore-Observation-VitalSigns-HeadCircumference</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-HeadCircumference">UKCore-Observation-VitalSigns-HeadCircumference</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Observation-VitalSigns-HeadCircumference </td>
 
@@ -2959,11 +2959,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> To provide implementers with additional support when implementing measuring of head circumference and to provide a consistent structure to how the data is presented. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Observation-VitalSigns-HeartRate">UKCore-Observation-VitalSigns-HeartRate</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-HeartRate">UKCore-Observation-VitalSigns-HeartRate</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Observation-VitalSigns-HeartRate </td>
 
@@ -2977,11 +2977,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> To provide implementers with additional support when implementing heart rate monitoring and to provide a consistent structure to how the data is presented. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Observation-VitalSigns-OxygenSaturation">UKCore-Observation-VitalSigns-OxygenSaturation</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-OxygenSaturation">UKCore-Observation-VitalSigns-OxygenSaturation</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Observation-VitalSigns-OxygenSaturation </td>
 
@@ -2995,11 +2995,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> To provide implementers with additional support when implementing blood oxygen saturation monitoring and to provide a consistent structure to how the data is presented. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Observation-VitalSigns-RespirationRate">UKCore-Observation-VitalSigns-RespirationRate</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-RespirationRate">UKCore-Observation-VitalSigns-RespirationRate</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Observation-VitalSigns-RespirationRate </td>
 
@@ -3015,11 +3015,11 @@ The clinical observations within scope of this profile include all patient respi
 
 The clinical observations within scope of this profile include all patient respiration: Unaided, Oxygen Concentrators, Nasal Cannula, CPAP Devices, Endotracheal Tube, and Mechanical Ventilator. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-OperationOutcome">UKCore-OperationOutcome</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-OperationOutcome">UKCore-OperationOutcome</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-OperationOutcome </td>
 
@@ -3033,11 +3033,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> The purpose of this profile is to provide detailed information about the outcome of an attempted system operation. Operation outcomes are sets of error, warning and information messages provided as a direct system response, or part of one, and provide information about the outcome of the operation. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Organization">UKCore-Organization</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Organization">UKCore-Organization</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Organization </td>
 
@@ -3051,11 +3051,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> This profile allows exchange of a formally or informally recognised grouping of people or organisations formed for the purpose of achieving some form of collective action. Includes companies, institutions, corporations, departments, community groups, healthcare practice groups, etc. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-OrganizationAffiliation">UKCore-OrganizationAffiliation</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-OrganizationAffiliation">UKCore-OrganizationAffiliation</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-OrganizationAffiliation </td>
 
@@ -3069,11 +3069,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> The purpose of this profile is to hold information about relationships between different organizations. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Patient">UKCore-Patient</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Patient">UKCore-Patient</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Patient </td>
 
@@ -3087,11 +3087,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> This profile allows exchange of demographics and other administrative information about an individual receiving care or other health-related services. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Practitioner">UKCore-Practitioner</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Practitioner">UKCore-Practitioner</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Practitioner </td>
 
@@ -3105,11 +3105,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> This profile allows exchange of information about all individuals who are engaged in the healthcare process and healthcare-related services as part of their formal responsibilities, is used for attribution of activities and responsibilities to these individuals. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PractitionerRole">UKCore-PractitionerRole</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PractitionerRole">UKCore-PractitionerRole</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-PractitionerRole </td>
 
@@ -3123,11 +3123,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> This profile allows exchange of a specific set of roles, specialties and services that a practitioner may perform at an organisation for a period of time. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Procedure">UKCore-Procedure</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Procedure">UKCore-Procedure</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Procedure </td>
 
@@ -3141,11 +3141,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> This profile allows exchange of details of current and historical procedures performed on or for an individual. A procedure is an activity that is performed on, with, or for an individual as part of the provision of care. Examples include surgical procedures, diagnostic procedures, endoscopic procedures, biopsies, counselling, physiotherapy, personal support services, adult day care services, non-emergency transportation, home modification, exercise, etc. Procedures may be performed by a healthcare professional, a service provider, a friend or relative or in some cases by themselves. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Provenance">UKCore-Provenance</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Provenance">UKCore-Provenance</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Provenance </td>
 
@@ -3159,11 +3159,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> The Provenance resource tracks information about the activity that created, revised, deleted, or signed a version of a resource, describing the entities and agents involved. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Questionnaire">UKCore-Questionnaire</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Questionnaire">UKCore-Questionnaire</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Questionnaire </td>
 
@@ -3177,11 +3177,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> This profile is used to organise a collection of questions intended to solicit information from patients, providers or other individuals involved in the healthcare domain. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Questionnaire-EOLPlan-Example">UKCore-Questionnaire-EOLPlan-Example</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Questionnaire-EOLPlan-Example">UKCore-Questionnaire-EOLPlan-Example</a></td>
 
   <td> https://example.com/base/Questionnaire/UKCore-Questionnaire-EOLPlan-Example </td>
 
@@ -3195,11 +3195,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Questionnaire-FitnessForWork-Example">UKCore-Questionnaire-FitnessForWork-Example</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Questionnaire-FitnessForWork-Example">UKCore-Questionnaire-FitnessForWork-Example</a></td>
 
   <td> https://example.com/base/Questionnaire/UKCore-Questionnaire-FitnessForWork-Example </td>
 
@@ -3213,11 +3213,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Questionnaire-InpatientSurvey-Example">UKCore-Questionnaire-InpatientSurvey-Example</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Questionnaire-InpatientSurvey-Example">UKCore-Questionnaire-InpatientSurvey-Example</a></td>
 
   <td> https://example.com/base/Questionnaire/UKCore-Questionnaire-InpatientSurvey-Example </td>
 
@@ -3231,11 +3231,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> A questionnaire used as part of a survey of new patient admissions to Acute Medicine. Purely for demonstration purposes. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-QuestionnaireResponse">UKCore-QuestionnaireResponse</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-QuestionnaireResponse">UKCore-QuestionnaireResponse</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-QuestionnaireResponse </td>
 
@@ -3249,11 +3249,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> This profile describes a structured set of questions and their answers. The questions are ordered and grouped into coherent subsets, corresponding to the structure of the grouping of the questionnaire being responded to. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-RelatedPerson">UKCore-RelatedPerson</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-RelatedPerson">UKCore-RelatedPerson</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-RelatedPerson </td>
 
@@ -3267,11 +3267,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> This profile allows exchange of information about a person that is involved in the care for an individual, but who is not the target of healthcare, nor has a formal responsibility in the care process. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-RequestGroup">UKCore-RequestGroup</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-RequestGroup">UKCore-RequestGroup</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-RequestGroup </td>
 
@@ -3285,11 +3285,11 @@ The clinical observations within scope of this profile include all patient respi
 
   <td> This profile is a record of a group of medication related requests, with a specific set of conditions on how they must be actioned. It is for use in hospital prescribing, where multiple routes of administration are possible. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Schedule">UKCore-Schedule</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Schedule">UKCore-Schedule</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Schedule </td>
 
@@ -3305,11 +3305,11 @@ The clinical observations within scope of this profile include all patient respi
 
 The schedule does not provide any information about actual appointments. This separation greatly assists where access to the appointments would not be permitted for security or privacy reasons, while still being able to determine if an appointment might be available. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ServiceRequest">UKCore-ServiceRequest</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ServiceRequest">UKCore-ServiceRequest</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-ServiceRequest </td>
 
@@ -3323,11 +3323,11 @@ The schedule does not provide any information about actual appointments. This se
 
   <td> This profile is a record of a request for a procedure or diagnostic or other service to be planned, proposed, or performed, as distinguished by the ServiceRequest.intent field value, with or on a patient. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ServiceRequest-Lab">UKCore-ServiceRequest-Lab</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ServiceRequest-Lab">UKCore-ServiceRequest-Lab</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-ServiceRequest-Lab </td>
 
@@ -3341,11 +3341,11 @@ The schedule does not provide any information about actual appointments. This se
 
   <td> To provide implementers additional support for requesting a procedure or diagnostic or other service to be planned, proposed, or performed, with regards to a laboratory observation or a laboratory diagnostic report. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Slot">UKCore-Slot</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Slot">UKCore-Slot</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Slot </td>
 
@@ -3360,11 +3360,11 @@ The schedule does not provide any information about actual appointments. This se
   <td> Slot resources are used to provide time-slots that can be booked using an appointment. They do not provide any information about appointments that are available, just the time, and optionally what the time can be used for. These are effectively spaces of free/busy time.
 Slots can also be marked as busy without having appointments associated. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Specimen">UKCore-Specimen</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Specimen">UKCore-Specimen</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Specimen </td>
 
@@ -3378,11 +3378,11 @@ Slots can also be marked as busy without having appointments associated. </td>
 
   <td> This profile allows the exchange of information about a sample to be used for analysis. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-Task">UKCore-Task</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Task">UKCore-Task</a></td>
 
   <td> https://fhir.hl7.org.uk/StructureDefinition/UKCore-Task </td>
 
@@ -3398,7 +3398,7 @@ Slots can also be marked as busy without having appointments associated. </td>
 
 Note that there are a variety of processes associated with making and processing orders. Some orders may be handled immediately by automated systems but most require real world actions by one or more humans. Some orders can only be processed when other real world actions happen, such as a patient presenting themselves so that the action to be performed can actually be performed. Often these real world dependencies are only implicit in the order details. </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3411,7 +3411,7 @@ Note that there are a variety of processes associated with making and processing
 ## ValueSets
 <br>
 <table>
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-BodyStructure">England-BodyStructure</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-BodyStructure">England-BodyStructure</a></td>
 
   <td> https://fhir.nhs.uk/England/ValueSet/England-BodyStructure </td>
 
@@ -3425,11 +3425,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/England-ChildProtectionPlan">England-ChildProtectionPlan</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/England-ChildProtectionPlan">England-ChildProtectionPlan</a></td>
 
   <td> https://fhir.nhs.uk/England/ValueSet/England-ChildProtectionPlan </td>
 
@@ -3443,11 +3443,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-FlagCategoryPatient">England-FlagCategoryPatient</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-FlagCategoryPatient">England-FlagCategoryPatient</a></td>
 
   <td> https://fhir.nhs.uk/England/ValueSet/England-FlagCategoryPatient </td>
 
@@ -3461,11 +3461,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-FlagCategoryProgramme">England-FlagCategoryProgramme</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-FlagCategoryProgramme">England-FlagCategoryProgramme</a></td>
 
   <td> https://fhir.nhs.uk/England/ValueSet/England-FlagCategoryProgramme </td>
 
@@ -3479,11 +3479,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-FlagCodeProgramme">England-FlagCodeProgramme</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-FlagCodeProgramme">England-FlagCodeProgramme</a></td>
 
   <td> https://fhir.nhs.uk/England/ValueSet/England-FlagCodeProgramme </td>
 
@@ -3497,11 +3497,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-FlagCodeRA">England-FlagCodeRA</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-FlagCodeRA">England-FlagCodeRA</a></td>
 
   <td> https://fhir.nhs.uk/England/ValueSet/England-FlagCodeRA </td>
 
@@ -3515,11 +3515,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-FlagConditionCategory">England-FlagConditionCategory</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-FlagConditionCategory">England-FlagConditionCategory</a></td>
 
   <td> https://fhir.nhs.uk/England/ValueSet/England-FlagConditionCategory </td>
 
@@ -3533,11 +3533,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-FlagConditionCode">England-FlagConditionCode</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-FlagConditionCode">England-FlagConditionCode</a></td>
 
   <td> https://fhir.nhs.uk/England/ValueSet/England-FlagConditionCode </td>
 
@@ -3551,11 +3551,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-FlagProvenanceRole">England-FlagProvenanceRole</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-FlagProvenanceRole">England-FlagProvenanceRole</a></td>
 
   <td> https://fhir.nhs.uk/England/ValueSet/England-FlagProvenanceRole </td>
 
@@ -3569,11 +3569,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/England-FlagRemovalReason">England-FlagRemovalReason</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/England-FlagRemovalReason">England-FlagRemovalReason</a></td>
 
   <td> https://fhir.nhs.uk/England/ValueSet/England-FlagRemovalReason </td>
 
@@ -3587,11 +3587,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-MCEDSignalResult">England-MCEDSignalResult</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-MCEDSignalResult">England-MCEDSignalResult</a></td>
 
   <td> https://fhir.nhs.uk/England/ValueSet/England-MCEDSignalResult </td>
 
@@ -3605,11 +3605,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/England-OrganisationRole">England-OrganisationRole</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/England-OrganisationRole">England-OrganisationRole</a></td>
 
   <td> https://fhir.nhs.uk/England/ValueSet/England-OrganisationRole </td>
 
@@ -3623,11 +3623,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/England-PeriodType">England-PeriodType</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/England-PeriodType">England-PeriodType</a></td>
 
   <td> https://fhir.nhs.uk/England/ValueSet/England-PeriodType </td>
 
@@ -3641,11 +3641,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/England-TypedDateTime">England-TypedDateTime</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/England-TypedDateTime">England-TypedDateTime</a></td>
 
   <td> https://fhir.nhs.uk/England/ValueSet/England-TypedDateTime </td>
 
@@ -3659,11 +3659,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ACVPU">UKCore-ACVPU</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ACVPU">UKCore-ACVPU</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ACVPU </td>
 
@@ -3677,11 +3677,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-AddressKeyType">UKCore-AddressKeyType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AddressKeyType">UKCore-AddressKeyType</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-AddressKeyType </td>
 
@@ -3695,11 +3695,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-AdmissionMethod">UKCore-AdmissionMethod</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AdmissionMethod">UKCore-AdmissionMethod</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-AdmissionMethod </td>
 
@@ -3713,11 +3713,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-AlcoholConsumption">UKCore-AlcoholConsumption</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AlcoholConsumption">UKCore-AlcoholConsumption</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-AlcoholConsumption </td>
 
@@ -3731,11 +3731,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-AllergyCode">UKCore-AllergyCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AllergyCode">UKCore-AllergyCode</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-AllergyCode </td>
 
@@ -3749,11 +3749,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-AllergyExposureRoute">UKCore-AllergyExposureRoute</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AllergyExposureRoute">UKCore-AllergyExposureRoute</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-AllergyExposureRoute </td>
 
@@ -3767,11 +3767,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-AllergyManifestation">UKCore-AllergyManifestation</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AllergyManifestation">UKCore-AllergyManifestation</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-AllergyManifestation </td>
 
@@ -3785,11 +3785,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-AllergySubstance">UKCore-AllergySubstance</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AllergySubstance">UKCore-AllergySubstance</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-AllergySubstance </td>
 
@@ -3803,11 +3803,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-AppointmentReasonCode">UKCore-AppointmentReasonCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AppointmentReasonCode">UKCore-AppointmentReasonCode</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-AppointmentReasonCode </td>
 
@@ -3821,11 +3821,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-BMI">UKCore-BMI</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BMI">UKCore-BMI</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-BMI </td>
 
@@ -3839,11 +3839,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-BiopsyState">UKCore-BiopsyState</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BiopsyState">UKCore-BiopsyState</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-BiopsyState </td>
 
@@ -3857,11 +3857,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-BirthSex">UKCore-BirthSex</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BirthSex">UKCore-BirthSex</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-BirthSex </td>
 
@@ -3875,11 +3875,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-BloodGlucose">UKCore-BloodGlucose</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BloodGlucose">UKCore-BloodGlucose</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-BloodGlucose </td>
 
@@ -3893,11 +3893,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-BloodPressure">UKCore-BloodPressure</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BloodPressure">UKCore-BloodPressure</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-BloodPressure </td>
 
@@ -3911,11 +3911,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-BloodPressure-Average">UKCore-BloodPressure-Average</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BloodPressure-Average">UKCore-BloodPressure-Average</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-BloodPressure-Average </td>
 
@@ -3929,11 +3929,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-BloodPressure-AverageDiastolic">UKCore-BloodPressure-AverageDiastolic</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BloodPressure-AverageDiastolic">UKCore-BloodPressure-AverageDiastolic</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-BloodPressure-AverageDiastolic </td>
 
@@ -3947,11 +3947,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-BloodPressure-AverageSystolic">UKCore-BloodPressure-AverageSystolic</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BloodPressure-AverageSystolic">UKCore-BloodPressure-AverageSystolic</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-BloodPressure-AverageSystolic </td>
 
@@ -3965,11 +3965,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-BloodPressure-CuffSize">UKCore-BloodPressure-CuffSize</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BloodPressure-CuffSize">UKCore-BloodPressure-CuffSize</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-BloodPressure-CuffSize </td>
 
@@ -3983,11 +3983,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-BloodPressure-DeviceType">UKCore-BloodPressure-DeviceType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BloodPressure-DeviceType">UKCore-BloodPressure-DeviceType</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-BloodPressure-DeviceType </td>
 
@@ -4001,11 +4001,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-BloodPressure-Diastolic">UKCore-BloodPressure-Diastolic</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BloodPressure-Diastolic">UKCore-BloodPressure-Diastolic</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-BloodPressure-Diastolic </td>
 
@@ -4019,11 +4019,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-BloodPressure-MeasurementMethod">UKCore-BloodPressure-MeasurementMethod</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BloodPressure-MeasurementMethod">UKCore-BloodPressure-MeasurementMethod</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-BloodPressure-MeasurementMethod </td>
 
@@ -4037,11 +4037,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-BloodPressure-Systolic">UKCore-BloodPressure-Systolic</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BloodPressure-Systolic">UKCore-BloodPressure-Systolic</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-BloodPressure-Systolic </td>
 
@@ -4055,11 +4055,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-BodyHeightMeasurements">UKCore-BodyHeightMeasurements</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BodyHeightMeasurements">UKCore-BodyHeightMeasurements</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-BodyHeightMeasurements </td>
 
@@ -4073,11 +4073,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-BodyPosition">UKCore-BodyPosition</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BodyPosition">UKCore-BodyPosition</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-BodyPosition </td>
 
@@ -4091,11 +4091,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-BodySite">UKCore-BodySite</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BodySite">UKCore-BodySite</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-BodySite </td>
 
@@ -4109,11 +4109,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-BodyTemperature">UKCore-BodyTemperature</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BodyTemperature">UKCore-BodyTemperature</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-BodyTemperature </td>
 
@@ -4127,11 +4127,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-BodyWeightMeasurements">UKCore-BodyWeightMeasurements</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BodyWeightMeasurements">UKCore-BodyWeightMeasurements</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-BodyWeightMeasurements </td>
 
@@ -4145,11 +4145,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-CareSettingType">UKCore-CareSettingType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-CareSettingType">UKCore-CareSettingType</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-CareSettingType </td>
 
@@ -4163,11 +4163,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-CompositionCategory">UKCore-CompositionCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-CompositionCategory">UKCore-CompositionCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-CompositionCategory </td>
 
@@ -4181,11 +4181,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-CompositionSectionCode">UKCore-CompositionSectionCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-CompositionSectionCode">UKCore-CompositionSectionCode</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-CompositionSectionCode </td>
 
@@ -4199,11 +4199,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ConditionCategory">UKCore-ConditionCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ConditionCategory">UKCore-ConditionCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ConditionCategory </td>
 
@@ -4217,11 +4217,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ConditionCode">UKCore-ConditionCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ConditionCode">UKCore-ConditionCode</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ConditionCode </td>
 
@@ -4235,11 +4235,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ConditionEpisode">UKCore-ConditionEpisode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ConditionEpisode">UKCore-ConditionEpisode</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ConditionEpisode </td>
 
@@ -4253,11 +4253,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ConditionEpisodicity">UKCore-ConditionEpisodicity</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ConditionEpisodicity">UKCore-ConditionEpisodicity</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ConditionEpisodicity </td>
 
@@ -4271,11 +4271,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ConditionRelationship">UKCore-ConditionRelationship</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ConditionRelationship">UKCore-ConditionRelationship</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ConditionRelationship </td>
 
@@ -4289,11 +4289,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ConsentException">UKCore-ConsentException</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ConsentException">UKCore-ConsentException</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ConsentException </td>
 
@@ -4307,11 +4307,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-DateTimeType">UKCore-DateTimeType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DateTimeType">UKCore-DateTimeType</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-DateTimeType </td>
 
@@ -4325,11 +4325,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-DeathNotificationStatus">UKCore-DeathNotificationStatus</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DeathNotificationStatus">UKCore-DeathNotificationStatus</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-DeathNotificationStatus </td>
 
@@ -4343,11 +4343,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-DeliveryChannel">UKCore-DeliveryChannel</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DeliveryChannel">UKCore-DeliveryChannel</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-DeliveryChannel </td>
 
@@ -4361,11 +4361,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-DeviceType">UKCore-DeviceType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DeviceType">UKCore-DeviceType</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-DeviceType </td>
 
@@ -4379,11 +4379,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-DischargeDestination">UKCore-DischargeDestination</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DischargeDestination">UKCore-DischargeDestination</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-DischargeDestination </td>
 
@@ -4397,11 +4397,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-DischargeMethod">UKCore-DischargeMethod</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DischargeMethod">UKCore-DischargeMethod</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-DischargeMethod </td>
 
@@ -4415,11 +4415,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-DocumentType">UKCore-DocumentType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DocumentType">UKCore-DocumentType</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-DocumentType </td>
 
@@ -4433,11 +4433,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-EarlyWarningSubScore">UKCore-EarlyWarningSubScore</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EarlyWarningSubScore">UKCore-EarlyWarningSubScore</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-EarlyWarningSubScore </td>
 
@@ -4451,11 +4451,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-EarlyWarningTotalScore">UKCore-EarlyWarningTotalScore</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EarlyWarningTotalScore">UKCore-EarlyWarningTotalScore</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-EarlyWarningTotalScore </td>
 
@@ -4469,11 +4469,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-EmergencyCareDischargeStatus">UKCore-EmergencyCareDischargeStatus</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EmergencyCareDischargeStatus">UKCore-EmergencyCareDischargeStatus</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-EmergencyCareDischargeStatus </td>
 
@@ -4487,11 +4487,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-EncounterLocationType">UKCore-EncounterLocationType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EncounterLocationType">UKCore-EncounterLocationType</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-EncounterLocationType </td>
 
@@ -4505,11 +4505,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-EncounterType">UKCore-EncounterType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EncounterType">UKCore-EncounterType</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-EncounterType </td>
 
@@ -4523,11 +4523,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-EthnicCategory">UKCore-EthnicCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EthnicCategory">UKCore-EthnicCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-EthnicCategory </td>
 
@@ -4541,11 +4541,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-FindingCode">UKCore-FindingCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-FindingCode">UKCore-FindingCode</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-FindingCode </td>
 
@@ -4559,11 +4559,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-FundingCategory">UKCore-FundingCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-FundingCategory">UKCore-FundingCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-FundingCategory </td>
 
@@ -4577,11 +4577,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-GenomeSequencingCategory">UKCore-GenomeSequencingCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-GenomeSequencingCategory">UKCore-GenomeSequencingCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-GenomeSequencingCategory </td>
 
@@ -4595,11 +4595,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-HeadCircumferenceMeasurements">UKCore-HeadCircumferenceMeasurements</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-HeadCircumferenceMeasurements">UKCore-HeadCircumferenceMeasurements</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-HeadCircumferenceMeasurements </td>
 
@@ -4613,11 +4613,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-HeartRate">UKCore-HeartRate</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-HeartRate">UKCore-HeartRate</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-HeartRate </td>
 
@@ -4631,11 +4631,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-HumanLanguage">UKCore-HumanLanguage</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-HumanLanguage">UKCore-HumanLanguage</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-HumanLanguage </td>
 
@@ -4649,11 +4649,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ImmunizationAdministrationBodySite">UKCore-ImmunizationAdministrationBodySite</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ImmunizationAdministrationBodySite">UKCore-ImmunizationAdministrationBodySite</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ImmunizationAdministrationBodySite </td>
 
@@ -4667,11 +4667,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ImmunizationExplanationReason">UKCore-ImmunizationExplanationReason</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ImmunizationExplanationReason">UKCore-ImmunizationExplanationReason</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ImmunizationExplanationReason </td>
 
@@ -4685,11 +4685,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-InspiredOxygen">UKCore-InspiredOxygen</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-InspiredOxygen">UKCore-InspiredOxygen</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-InspiredOxygen </td>
 
@@ -4703,11 +4703,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-LanguageAbilityMode">UKCore-LanguageAbilityMode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-LanguageAbilityMode">UKCore-LanguageAbilityMode</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-LanguageAbilityMode </td>
 
@@ -4721,11 +4721,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-LanguageAbilityProficiency">UKCore-LanguageAbilityProficiency</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-LanguageAbilityProficiency">UKCore-LanguageAbilityProficiency</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-LanguageAbilityProficiency </td>
 
@@ -4739,11 +4739,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-LegalStatusClassification">UKCore-LegalStatusClassification</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-LegalStatusClassification">UKCore-LegalStatusClassification</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-LegalStatusClassification </td>
 
@@ -4757,11 +4757,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-LegalStatusContext">UKCore-LegalStatusContext</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-LegalStatusContext">UKCore-LegalStatusContext</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-LegalStatusContext </td>
 
@@ -4775,11 +4775,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ListCode">UKCore-ListCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ListCode">UKCore-ListCode</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ListCode </td>
 
@@ -4793,11 +4793,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ListEmptyReasonCode">UKCore-ListEmptyReasonCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ListEmptyReasonCode">UKCore-ListEmptyReasonCode</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ListEmptyReasonCode </td>
 
@@ -4811,11 +4811,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ListWarningCode">UKCore-ListWarningCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ListWarningCode">UKCore-ListWarningCode</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ListWarningCode </td>
 
@@ -4829,11 +4829,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationAdministrationCategory">UKCore-MedicationAdministrationCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationAdministrationCategory">UKCore-MedicationAdministrationCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-MedicationAdministrationCategory </td>
 
@@ -4847,11 +4847,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationChangeStatus">UKCore-MedicationChangeStatus</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationChangeStatus">UKCore-MedicationChangeStatus</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-MedicationChangeStatus </td>
 
@@ -4865,11 +4865,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationCode">UKCore-MedicationCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationCode">UKCore-MedicationCode</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-MedicationCode </td>
 
@@ -4883,11 +4883,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationDosageMethod">UKCore-MedicationDosageMethod</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationDosageMethod">UKCore-MedicationDosageMethod</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-MedicationDosageMethod </td>
 
@@ -4901,11 +4901,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationDosageRoute">UKCore-MedicationDosageRoute</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationDosageRoute">UKCore-MedicationDosageRoute</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-MedicationDosageRoute </td>
 
@@ -4919,11 +4919,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationForm">UKCore-MedicationForm</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationForm">UKCore-MedicationForm</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-MedicationForm </td>
 
@@ -4937,11 +4937,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationPrecondition">UKCore-MedicationPrecondition</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationPrecondition">UKCore-MedicationPrecondition</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-MedicationPrecondition </td>
 
@@ -4955,11 +4955,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationPrescribingAgency">UKCore-MedicationPrescribingAgency</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationPrescribingAgency">UKCore-MedicationPrescribingAgency</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-MedicationPrescribingAgency </td>
 
@@ -4973,11 +4973,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationPrescribingOrganization">UKCore-MedicationPrescribingOrganization</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationPrescribingOrganization">UKCore-MedicationPrescribingOrganization</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-MedicationPrescribingOrganization </td>
 
@@ -4991,11 +4991,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationPrescribingOrganizationType">UKCore-MedicationPrescribingOrganizationType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationPrescribingOrganizationType">UKCore-MedicationPrescribingOrganizationType</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-MedicationPrescribingOrganizationType </td>
 
@@ -5009,11 +5009,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationRequestCategory">UKCore-MedicationRequestCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationRequestCategory">UKCore-MedicationRequestCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-MedicationRequestCategory </td>
 
@@ -5027,11 +5027,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationRequestCourseOfTherapy">UKCore-MedicationRequestCourseOfTherapy</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationRequestCourseOfTherapy">UKCore-MedicationRequestCourseOfTherapy</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-MedicationRequestCourseOfTherapy </td>
 
@@ -5045,11 +5045,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationStatementCategory">UKCore-MedicationStatementCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationStatementCategory">UKCore-MedicationStatementCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-MedicationStatementCategory </td>
 
@@ -5063,11 +5063,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationSupplyType">UKCore-MedicationSupplyType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationSupplyType">UKCore-MedicationSupplyType</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-MedicationSupplyType </td>
 
@@ -5081,11 +5081,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationTradeFamily">UKCore-MedicationTradeFamily</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationTradeFamily">UKCore-MedicationTradeFamily</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-MedicationTradeFamily </td>
 
@@ -5099,11 +5099,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MessageEvent">UKCore-MessageEvent</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MessageEvent">UKCore-MessageEvent</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-MessageEvent </td>
 
@@ -5117,11 +5117,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MessageHeaderInstruction">UKCore-MessageHeaderInstruction</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MessageHeaderInstruction">UKCore-MessageHeaderInstruction</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-MessageHeaderInstruction </td>
 
@@ -5135,11 +5135,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-NHSNumberUnavailableReason">UKCore-NHSNumberUnavailableReason</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-NHSNumberUnavailableReason">UKCore-NHSNumberUnavailableReason</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-NHSNumberUnavailableReason </td>
 
@@ -5153,11 +5153,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-NHSNumberVerificationStatus">UKCore-NHSNumberVerificationStatus</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-NHSNumberVerificationStatus">UKCore-NHSNumberVerificationStatus</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-NHSNumberVerificationStatus </td>
 
@@ -5171,11 +5171,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ObservationMethod">UKCore-ObservationMethod</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ObservationMethod">UKCore-ObservationMethod</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ObservationMethod </td>
 
@@ -5189,11 +5189,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ObservationType">UKCore-ObservationType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ObservationType">UKCore-ObservationType</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ObservationType </td>
 
@@ -5207,11 +5207,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ObservationVitalSignsType">UKCore-ObservationVitalSignsType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ObservationVitalSignsType">UKCore-ObservationVitalSignsType</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ObservationVitalSignsType </td>
 
@@ -5225,11 +5225,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ObservationVitalSignsValue">UKCore-ObservationVitalSignsValue</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ObservationVitalSignsValue">UKCore-ObservationVitalSignsValue</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ObservationVitalSignsValue </td>
 
@@ -5243,11 +5243,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-OperationOutcomeIssueDetails">UKCore-OperationOutcomeIssueDetails</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-OperationOutcomeIssueDetails">UKCore-OperationOutcomeIssueDetails</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-OperationOutcomeIssueDetails </td>
 
@@ -5261,11 +5261,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-OrganizationType">UKCore-OrganizationType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-OrganizationType">UKCore-OrganizationType</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-OrganizationType </td>
 
@@ -5279,11 +5279,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-OtherContactSystem">UKCore-OtherContactSystem</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-OtherContactSystem">UKCore-OtherContactSystem</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-OtherContactSystem </td>
 
@@ -5297,11 +5297,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-OutcomeOfAttendance">UKCore-OutcomeOfAttendance</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-OutcomeOfAttendance">UKCore-OutcomeOfAttendance</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-OutcomeOfAttendance </td>
 
@@ -5315,11 +5315,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-OverseasVisitorChargingCategory">UKCore-OverseasVisitorChargingCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-OverseasVisitorChargingCategory">UKCore-OverseasVisitorChargingCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-OverseasVisitorChargingCategory </td>
 
@@ -5333,11 +5333,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-OxygenSaturation">UKCore-OxygenSaturation</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-OxygenSaturation">UKCore-OxygenSaturation</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-OxygenSaturation </td>
 
@@ -5351,11 +5351,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PathologyAndLaboratoryMedicineObservables">UKCore-PathologyAndLaboratoryMedicineObservables</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PathologyAndLaboratoryMedicineObservables">UKCore-PathologyAndLaboratoryMedicineObservables</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-PathologyAndLaboratoryMedicineObservables </td>
 
@@ -5369,11 +5369,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PathologyAndLaboratoryMedicineProcedures">UKCore-PathologyAndLaboratoryMedicineProcedures</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PathologyAndLaboratoryMedicineProcedures">UKCore-PathologyAndLaboratoryMedicineProcedures</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-PathologyAndLaboratoryMedicineProcedures </td>
 
@@ -5387,11 +5387,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PeriodType">UKCore-PeriodType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PeriodType">UKCore-PeriodType</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-PeriodType </td>
 
@@ -5405,11 +5405,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PersonMaritalStatusCode">UKCore-PersonMaritalStatusCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PersonMaritalStatusCode">UKCore-PersonMaritalStatusCode</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-PersonMaritalStatusCode </td>
 
@@ -5423,11 +5423,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PersonRelationshipType">UKCore-PersonRelationshipType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PersonRelationshipType">UKCore-PersonRelationshipType</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-PersonRelationshipType </td>
 
@@ -5441,11 +5441,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PersonStatedGenderCode">UKCore-PersonStatedGenderCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PersonStatedGenderCode">UKCore-PersonStatedGenderCode</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-PersonStatedGenderCode </td>
 
@@ -5459,11 +5459,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PracticeSettingCode">UKCore-PracticeSettingCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PracticeSettingCode">UKCore-PracticeSettingCode</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-PracticeSettingCode </td>
 
@@ -5477,11 +5477,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PractitionerRoleCode">UKCore-PractitionerRoleCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PractitionerRoleCode">UKCore-PractitionerRoleCode</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-PractitionerRoleCode </td>
 
@@ -5495,11 +5495,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PreferredContactMethod">UKCore-PreferredContactMethod</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PreferredContactMethod">UKCore-PreferredContactMethod</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-PreferredContactMethod </td>
 
@@ -5513,11 +5513,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PreferredWrittenCommunicationFormat">UKCore-PreferredWrittenCommunicationFormat</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PreferredWrittenCommunicationFormat">UKCore-PreferredWrittenCommunicationFormat</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-PreferredWrittenCommunicationFormat </td>
 
@@ -5531,11 +5531,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PrescriptionType">UKCore-PrescriptionType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PrescriptionType">UKCore-PrescriptionType</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-PrescriptionType </td>
 
@@ -5549,11 +5549,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ProblemSignificance">UKCore-ProblemSignificance</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ProblemSignificance">UKCore-ProblemSignificance</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ProblemSignificance </td>
 
@@ -5567,11 +5567,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ProcedureCode">UKCore-ProcedureCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ProcedureCode">UKCore-ProcedureCode</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ProcedureCode </td>
 
@@ -5585,11 +5585,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-QuestionnaireQuestionCodes">UKCore-QuestionnaireQuestionCodes</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-QuestionnaireQuestionCodes">UKCore-QuestionnaireQuestionCodes</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-QuestionnaireQuestionCodes </td>
 
@@ -5603,11 +5603,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ReasonImmunizationNotAdministered">UKCore-ReasonImmunizationNotAdministered</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ReasonImmunizationNotAdministered">UKCore-ReasonImmunizationNotAdministered</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ReasonImmunizationNotAdministered </td>
 
@@ -5621,11 +5621,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-RecordingSetting">UKCore-RecordingSetting</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-RecordingSetting">UKCore-RecordingSetting</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-RecordingSetting </td>
 
@@ -5639,11 +5639,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ReligiousAffiliation">UKCore-ReligiousAffiliation</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ReligiousAffiliation">UKCore-ReligiousAffiliation</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ReligiousAffiliation </td>
 
@@ -5657,11 +5657,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ReportCode">UKCore-ReportCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ReportCode">UKCore-ReportCode</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ReportCode </td>
 
@@ -5675,11 +5675,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ReportCodeSnCT">UKCore-ReportCodeSnCT</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ReportCodeSnCT">UKCore-ReportCodeSnCT</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ReportCodeSnCT </td>
 
@@ -5693,11 +5693,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ResidentialStatus">UKCore-ResidentialStatus</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ResidentialStatus">UKCore-ResidentialStatus</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ResidentialStatus </td>
 
@@ -5711,11 +5711,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-RespirationRate">UKCore-RespirationRate</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-RespirationRate">UKCore-RespirationRate</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-RespirationRate </td>
 
@@ -5729,11 +5729,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-SDSJobRoleName">UKCore-SDSJobRoleName</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-SDSJobRoleName">UKCore-SDSJobRoleName</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-SDSJobRoleName </td>
 
@@ -5747,11 +5747,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-SampleCategory">UKCore-SampleCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-SampleCategory">UKCore-SampleCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-SampleCategory </td>
 
@@ -5765,11 +5765,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ServiceRequestMethod">UKCore-ServiceRequestMethod</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ServiceRequestMethod">UKCore-ServiceRequestMethod</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ServiceRequestMethod </td>
 
@@ -5783,11 +5783,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ServiceRequestReasonCode">UKCore-ServiceRequestReasonCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ServiceRequestReasonCode">UKCore-ServiceRequestReasonCode</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-ServiceRequestReasonCode </td>
 
@@ -5801,11 +5801,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-SourceOfAdmission">UKCore-SourceOfAdmission</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-SourceOfAdmission">UKCore-SourceOfAdmission</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-SourceOfAdmission </td>
 
@@ -5819,11 +5819,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-SourceOfServiceRequest">UKCore-SourceOfServiceRequest</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-SourceOfServiceRequest">UKCore-SourceOfServiceRequest</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-SourceOfServiceRequest </td>
 
@@ -5837,11 +5837,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-SpecimenBodySite">UKCore-SpecimenBodySite</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-SpecimenBodySite">UKCore-SpecimenBodySite</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-SpecimenBodySite </td>
 
@@ -5855,11 +5855,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-SpecimenType">UKCore-SpecimenType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-SpecimenType">UKCore-SpecimenType</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-SpecimenType </td>
 
@@ -5873,11 +5873,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-SubstanceOrProductAdministrationRoute">UKCore-SubstanceOrProductAdministrationRoute</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-SubstanceOrProductAdministrationRoute">UKCore-SubstanceOrProductAdministrationRoute</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-SubstanceOrProductAdministrationRoute </td>
 
@@ -5891,11 +5891,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-TobaccoConsumption">UKCore-TobaccoConsumption</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-TobaccoConsumption">UKCore-TobaccoConsumption</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-TobaccoConsumption </td>
 
@@ -5909,11 +5909,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-TreatmentCategory">UKCore-TreatmentCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-TreatmentCategory">UKCore-TreatmentCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-TreatmentCategory </td>
 
@@ -5927,11 +5927,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-UnifiedTestList">UKCore-UnifiedTestList</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-UnifiedTestList">UKCore-UnifiedTestList</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-UnifiedTestList </td>
 
@@ -5945,11 +5945,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-VaccinationProcedure">UKCore-VaccinationProcedure</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-VaccinationProcedure">UKCore-VaccinationProcedure</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-VaccinationProcedure </td>
 
@@ -5963,11 +5963,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-VaccinationProcedureSupplementary">UKCore-VaccinationProcedureSupplementary</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-VaccinationProcedureSupplementary">UKCore-VaccinationProcedureSupplementary</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-VaccinationProcedureSupplementary </td>
 
@@ -5981,11 +5981,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-VaccineCode">UKCore-VaccineCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-VaccineCode">UKCore-VaccineCode</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-VaccineCode </td>
 
@@ -5999,11 +5999,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-VitalSignsObservationType">UKCore-VitalSignsObservationType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-VitalSignsObservationType">UKCore-VitalSignsObservationType</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-VitalSignsObservationType </td>
 
@@ -6017,11 +6017,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-VitalSignsObservationValue">UKCore-VitalSignsObservationValue</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-VitalSignsObservationValue">UKCore-VitalSignsObservationValue</a></td>
 
   <td> https://fhir.hl7.org.uk/ValueSet/UKCore-VitalSignsObservationValue </td>
 
@@ -6035,11 +6035,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/nhsdigital-message-events">nhsdigital-message-events</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/nhsdigital-message-events">nhsdigital-message-events</a></td>
 
   <td> https://fhir.nhs.uk/ValueSet/NHSDigital-message-events </td>
 
@@ -6053,7 +6053,7 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
@@ -6066,7 +6066,7 @@ Note that there are a variety of processes associated with making and processing
 ## CodeSystems
 <br>
 <table>
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-ConditionCategoryRA">England-ConditionCategoryRA</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-ConditionCategoryRA">England-ConditionCategoryRA</a></td>
 
   <td> https://fhir.nhs.uk/England/CodeSystem/England-ConditionCategoryRA </td>
 
@@ -6080,11 +6080,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-ConditionCodeRA">England-ConditionCodeRA</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-ConditionCodeRA">England-ConditionCodeRA</a></td>
 
   <td> https://fhir.nhs.uk/England/CodeSystem/England-ConditionCodeRA </td>
 
@@ -6098,11 +6098,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/England-FGMRemovalReason">England-FGMRemovalReason</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/England-FGMRemovalReason">England-FGMRemovalReason</a></td>
 
   <td> https://fhir.nhs.uk/England/CodeSystem/England-FGMRemovalReason </td>
 
@@ -6116,11 +6116,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-FlagCategoryPatient">England-FlagCategoryPatient</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-FlagCategoryPatient">England-FlagCategoryPatient</a></td>
 
   <td> https://fhir.nhs.uk/England/CodeSystem/England-FlagCategoryPatient </td>
 
@@ -6134,11 +6134,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-FlagCategoryRA">England-FlagCategoryRA</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-FlagCategoryRA">England-FlagCategoryRA</a></td>
 
   <td> https://fhir.nhs.uk/England/CodeSystem/England-FlagCategoryRA </td>
 
@@ -6152,11 +6152,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/England-HTTPErrorCodes">England-HTTPErrorCodes</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/England-HTTPErrorCodes">England-HTTPErrorCodes</a></td>
 
   <td> https://fhir.nhs.uk/CodeSystem/http-error-codes </td>
 
@@ -6170,11 +6170,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/England-MessageEventsBARS">England-MessageEventsBARS</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/England-MessageEventsBARS">England-MessageEventsBARS</a></td>
 
   <td> https://fhir.nhs.uk/CodeSystem/message-events-bars </td>
 
@@ -6188,11 +6188,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/England-MessageReasonBARS">England-MessageReasonBARS</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/England-MessageReasonBARS">England-MessageReasonBARS</a></td>
 
   <td> https://fhir.nhs.uk/CodeSystem/message-reason-bars </td>
 
@@ -6206,11 +6206,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/England-ODSDateTime">England-ODSDateTime</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/England-ODSDateTime">England-ODSDateTime</a></td>
 
   <td> https://fhir.nhs.uk/England/CodeSystem/England-ODSDateTime </td>
 
@@ -6224,11 +6224,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/England-ODSOrganisationRole">England-ODSOrganisationRole</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/England-ODSOrganisationRole">England-ODSOrganisationRole</a></td>
 
   <td> https://digital.nhs.uk/services/organisation-data-service/CodeSystem/ODSOrganisationRole </td>
 
@@ -6242,11 +6242,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/England-ODSRecordClass">England-ODSRecordClass</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/England-ODSRecordClass">England-ODSRecordClass</a></td>
 
   <td> https://digital.nhs.uk/services/organisation-data-service/CodeSystem/ODSRecordClass </td>
 
@@ -6260,11 +6260,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/England-ODSRecordUseType">England-ODSRecordUseType</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/England-ODSRecordUseType">England-ODSRecordUseType</a></td>
 
   <td> https://fhir.nhs.uk/England/CodeSystem/England-ODSRecordUseType </td>
 
@@ -6278,11 +6278,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/England-ODSRelationship">England-ODSRelationship</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/England-ODSRelationship">England-ODSRelationship</a></td>
 
   <td> https://digital.nhs.uk/services/organisation-data-service/CodeSystem/ODSRelationship </td>
 
@@ -6296,11 +6296,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/England-PFSPrescriptionOrderingParameter">England-PFSPrescriptionOrderingParameter</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/England-PFSPrescriptionOrderingParameter">England-PFSPrescriptionOrderingParameter</a></td>
 
   <td> https://fhir.nhs.uk/England/CodeSystem/England-PFSPrescriptionOrderingParameter </td>
 
@@ -6314,11 +6314,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/England-PeriodType">England-PeriodType</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/England-PeriodType">England-PeriodType</a></td>
 
   <td> https://fhir.nhs.uk/England/CodeSystem/England-PeriodType </td>
 
@@ -6332,11 +6332,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-SDSJobRoleName">England-SDSJobRoleName</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-SDSJobRoleName">England-SDSJobRoleName</a></td>
 
   <td> https://fhir.nhs.uk/England/CodeSystem/England-SDSJobRoleName </td>
 
@@ -6350,11 +6350,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/NHSDataModelAndDictionary-AdmissionMethod">NHSDataModelAndDictionary-AdmissionMethod</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/NHSDataModelAndDictionary-AdmissionMethod">NHSDataModelAndDictionary-AdmissionMethod</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/NHSDataModelAndDictionary-AdmissionMethod </td>
 
@@ -6368,11 +6368,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/NHSDataModelAndDictionary-DischargeDestination">NHSDataModelAndDictionary-DischargeDestination</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/NHSDataModelAndDictionary-DischargeDestination">NHSDataModelAndDictionary-DischargeDestination</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/NHSDataModelAndDictionary-DischargeDestination </td>
 
@@ -6386,11 +6386,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/NHSDataModelAndDictionary-DischargeMethod">NHSDataModelAndDictionary-DischargeMethod</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/NHSDataModelAndDictionary-DischargeMethod">NHSDataModelAndDictionary-DischargeMethod</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/NHSDataModelAndDictionary-DischargeMethod </td>
 
@@ -6404,11 +6404,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/NHSDataModelAndDictionary-OutcomeOfAttendance">NHSDataModelAndDictionary-OutcomeOfAttendance</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/NHSDataModelAndDictionary-OutcomeOfAttendance">NHSDataModelAndDictionary-OutcomeOfAttendance</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/NHSDataModelAndDictionary-OutcomeOfAttendance </td>
 
@@ -6422,11 +6422,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/NHSDataModelAndDictionary-PersonMaritalStatusCode">NHSDataModelAndDictionary-PersonMaritalStatusCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/NHSDataModelAndDictionary-PersonMaritalStatusCode">NHSDataModelAndDictionary-PersonMaritalStatusCode</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/NHSDataModelAndDictionary-PersonMaritalStatusCode </td>
 
@@ -6440,11 +6440,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/NHSDataModelAndDictionary-PersonStatedGenderCode">NHSDataModelAndDictionary-PersonStatedGenderCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/NHSDataModelAndDictionary-PersonStatedGenderCode">NHSDataModelAndDictionary-PersonStatedGenderCode</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/NHSDataModelAndDictionary-PersonStatedGenderCode </td>
 
@@ -6458,11 +6458,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/NHSDataModelAndDictionary-SourceOfAdmission">NHSDataModelAndDictionary-SourceOfAdmission</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/NHSDataModelAndDictionary-SourceOfAdmission">NHSDataModelAndDictionary-SourceOfAdmission</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/NHSDataModelAndDictionary-SourceOfAdmission </td>
 
@@ -6476,11 +6476,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-AdditionalPersonRelationshipRole">UKCore-AdditionalPersonRelationshipRole</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AdditionalPersonRelationshipRole">UKCore-AdditionalPersonRelationshipRole</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-AdditionalPersonRelationshipRole </td>
 
@@ -6494,11 +6494,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-AddressKeyType">UKCore-AddressKeyType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AddressKeyType">UKCore-AddressKeyType</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-AddressKeyType </td>
 
@@ -6512,11 +6512,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-AdmissionMethodEngland">UKCore-AdmissionMethodEngland</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AdmissionMethodEngland">UKCore-AdmissionMethodEngland</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-AdmissionMethodEngland </td>
 
@@ -6530,11 +6530,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-AdmissionMethodWales">UKCore-AdmissionMethodWales</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AdmissionMethodWales">UKCore-AdmissionMethodWales</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-AdmissionMethodWales </td>
 
@@ -6548,11 +6548,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-AppointmentReasonCode">UKCore-AppointmentReasonCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AppointmentReasonCode">UKCore-AppointmentReasonCode</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-AppointmentReasonCode </td>
 
@@ -6566,11 +6566,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-BiopsyState">UKCore-BiopsyState</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BiopsyState">UKCore-BiopsyState</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-BiopsyState </td>
 
@@ -6584,11 +6584,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ConditionCategory">UKCore-ConditionCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ConditionCategory">UKCore-ConditionCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-ConditionCategory </td>
 
@@ -6602,11 +6602,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ConditionEpisodicity">UKCore-ConditionEpisodicity</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ConditionEpisodicity">UKCore-ConditionEpisodicity</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-ConditionEpisodicity </td>
 
@@ -6620,11 +6620,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ConditionRelationship">UKCore-ConditionRelationship</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ConditionRelationship">UKCore-ConditionRelationship</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-ConditionRelationship </td>
 
@@ -6638,11 +6638,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ConsentUpdateMode">UKCore-ConsentUpdateMode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ConsentUpdateMode">UKCore-ConsentUpdateMode</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-ConsentUpdateMode </td>
 
@@ -6656,11 +6656,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-DateTimeType">UKCore-DateTimeType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DateTimeType">UKCore-DateTimeType</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-DateTimeType </td>
 
@@ -6674,11 +6674,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-DeathNotificationStatus">UKCore-DeathNotificationStatus</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DeathNotificationStatus">UKCore-DeathNotificationStatus</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-DeathNotificationStatus </td>
 
@@ -6692,11 +6692,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-DeliveryChannel">UKCore-DeliveryChannel</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DeliveryChannel">UKCore-DeliveryChannel</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-DeliveryChannel </td>
 
@@ -6710,11 +6710,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-DischargeDestinationEngland">UKCore-DischargeDestinationEngland</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DischargeDestinationEngland">UKCore-DischargeDestinationEngland</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-DischargeDestinationEngland </td>
 
@@ -6728,11 +6728,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-DischargeDestinationWales">UKCore-DischargeDestinationWales</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DischargeDestinationWales">UKCore-DischargeDestinationWales</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-DischargeDestinationWales </td>
 
@@ -6746,11 +6746,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-DischargeMethodEngland">UKCore-DischargeMethodEngland</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DischargeMethodEngland">UKCore-DischargeMethodEngland</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-DischargeMethodEngland </td>
 
@@ -6764,11 +6764,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-DischargeMethodWales">UKCore-DischargeMethodWales</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DischargeMethodWales">UKCore-DischargeMethodWales</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-DischargeMethodWales </td>
 
@@ -6782,11 +6782,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-EPSIssueCode">UKCore-EPSIssueCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EPSIssueCode">UKCore-EPSIssueCode</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-EPSIssueCode </td>
 
@@ -6800,11 +6800,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-EmergencyCareOutcomeOfAttendanceWales">UKCore-EmergencyCareOutcomeOfAttendanceWales</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EmergencyCareOutcomeOfAttendanceWales">UKCore-EmergencyCareOutcomeOfAttendanceWales</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-EmergencyCareOutcomeOfAttendanceWales </td>
 
@@ -6818,11 +6818,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-EncounterLocationTypeEngland">UKCore-EncounterLocationTypeEngland</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EncounterLocationTypeEngland">UKCore-EncounterLocationTypeEngland</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-EncounterLocationTypeEngland </td>
 
@@ -6836,11 +6836,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-EncounterLocationTypeWales">UKCore-EncounterLocationTypeWales</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EncounterLocationTypeWales">UKCore-EncounterLocationTypeWales</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-EncounterLocationTypeWales </td>
 
@@ -6854,11 +6854,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-EthnicCategory">UKCore-EthnicCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EthnicCategory">UKCore-EthnicCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-EthnicCategory </td>
 
@@ -6872,11 +6872,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-EthnicCategoryEngland">UKCore-EthnicCategoryEngland</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EthnicCategoryEngland">UKCore-EthnicCategoryEngland</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-EthnicCategoryEngland </td>
 
@@ -6890,11 +6890,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-EthnicCategoryScotland">UKCore-EthnicCategoryScotland</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EthnicCategoryScotland">UKCore-EthnicCategoryScotland</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-EthnicCategoryScotland </td>
 
@@ -6908,11 +6908,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-EthnicCategoryWales">UKCore-EthnicCategoryWales</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EthnicCategoryWales">UKCore-EthnicCategoryWales</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-EthnicCategoryWales </td>
 
@@ -6926,11 +6926,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-FundingCategory">UKCore-FundingCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-FundingCategory">UKCore-FundingCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-FundingCategory </td>
 
@@ -6944,11 +6944,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-GenomeSequencingCategory">UKCore-GenomeSequencingCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-GenomeSequencingCategory">UKCore-GenomeSequencingCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-GenomeSequencingCategory </td>
 
@@ -6962,11 +6962,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-HumanLanguage">UKCore-HumanLanguage</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-HumanLanguage">UKCore-HumanLanguage</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-HumanLanguage </td>
 
@@ -6980,11 +6980,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ITKResponseCode">UKCore-ITKResponseCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ITKResponseCode">UKCore-ITKResponseCode</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-ITKResponseCode </td>
 
@@ -6998,11 +6998,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-LanguageAbilityMode">UKCore-LanguageAbilityMode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-LanguageAbilityMode">UKCore-LanguageAbilityMode</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-LanguageAbilityMode </td>
 
@@ -7016,11 +7016,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-LanguageAbilityProficiency">UKCore-LanguageAbilityProficiency</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-LanguageAbilityProficiency">UKCore-LanguageAbilityProficiency</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-LanguageAbilityProficiency </td>
 
@@ -7034,11 +7034,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-LegalStatusClassificationEngland">UKCore-LegalStatusClassificationEngland</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-LegalStatusClassificationEngland">UKCore-LegalStatusClassificationEngland</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-LegalStatusClassificationEngland </td>
 
@@ -7052,11 +7052,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-LegalStatusClassificationWales">UKCore-LegalStatusClassificationWales</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-LegalStatusClassificationWales">UKCore-LegalStatusClassificationWales</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-LegalStatusClassificationWales </td>
 
@@ -7070,11 +7070,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-LegalStatusContext">UKCore-LegalStatusContext</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-LegalStatusContext">UKCore-LegalStatusContext</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-LegalStatusContext </td>
 
@@ -7088,11 +7088,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ListEmptyReasonCode">UKCore-ListEmptyReasonCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ListEmptyReasonCode">UKCore-ListEmptyReasonCode</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-ListEmptyReasonCode </td>
 
@@ -7106,11 +7106,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ListWarningCode">UKCore-ListWarningCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ListWarningCode">UKCore-ListWarningCode</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-ListWarningCode </td>
 
@@ -7124,11 +7124,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationAdministrationCategory">UKCore-MedicationAdministrationCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationAdministrationCategory">UKCore-MedicationAdministrationCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-MedicationAdministrationCategory </td>
 
@@ -7142,11 +7142,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationChangeStatus">UKCore-MedicationChangeStatus</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationChangeStatus">UKCore-MedicationChangeStatus</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-MedicationChangeStatus </td>
 
@@ -7160,11 +7160,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationPrescribingAgency">UKCore-MedicationPrescribingAgency</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationPrescribingAgency">UKCore-MedicationPrescribingAgency</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-MedicationPrescribingAgency </td>
 
@@ -7178,11 +7178,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationPrescribingOrganization">UKCore-MedicationPrescribingOrganization</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationPrescribingOrganization">UKCore-MedicationPrescribingOrganization</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-MedicationPrescribingOrganization </td>
 
@@ -7196,11 +7196,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationPrescribingOrganizationType">UKCore-MedicationPrescribingOrganizationType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationPrescribingOrganizationType">UKCore-MedicationPrescribingOrganizationType</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-MedicationPrescribingOrganizationType </td>
 
@@ -7214,11 +7214,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationRequestCategory">UKCore-MedicationRequestCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationRequestCategory">UKCore-MedicationRequestCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-MedicationRequestCategory </td>
 
@@ -7232,11 +7232,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationRequestCourseOfTherapy">UKCore-MedicationRequestCourseOfTherapy</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationRequestCourseOfTherapy">UKCore-MedicationRequestCourseOfTherapy</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-MedicationRequestCourseOfTherapy </td>
 
@@ -7250,11 +7250,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationStatementCategory">UKCore-MedicationStatementCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationStatementCategory">UKCore-MedicationStatementCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-MedicationStatementCategory </td>
 
@@ -7268,11 +7268,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MedicationSupplyType">UKCore-MedicationSupplyType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationSupplyType">UKCore-MedicationSupplyType</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-MedicationSupplyType </td>
 
@@ -7286,11 +7286,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MessageEvent">UKCore-MessageEvent</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MessageEvent">UKCore-MessageEvent</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-MessageEvent </td>
 
@@ -7304,11 +7304,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MessageHeaderInstruction">UKCore-MessageHeaderInstruction</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MessageHeaderInstruction">UKCore-MessageHeaderInstruction</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-MessageHeaderInstruction </td>
 
@@ -7322,11 +7322,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-NHSNumberUnavailableReason">UKCore-NHSNumberUnavailableReason</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-NHSNumberUnavailableReason">UKCore-NHSNumberUnavailableReason</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-NHSNumberUnavailableReason </td>
 
@@ -7340,11 +7340,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-NHSNumberVerificationStatus">UKCore-NHSNumberVerificationStatus</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-NHSNumberVerificationStatus">UKCore-NHSNumberVerificationStatus</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-NHSNumberVerificationStatus </td>
 
@@ -7358,11 +7358,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-NHSNumberVerificationStatusEngland">UKCore-NHSNumberVerificationStatusEngland</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-NHSNumberVerificationStatusEngland">UKCore-NHSNumberVerificationStatusEngland</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-NHSNumberVerificationStatusEngland </td>
 
@@ -7376,11 +7376,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-NHSNumberVerificationStatusWales">UKCore-NHSNumberVerificationStatusWales</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-NHSNumberVerificationStatusWales">UKCore-NHSNumberVerificationStatusWales</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-NHSNumberVerificationStatusWales </td>
 
@@ -7394,11 +7394,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-OrganizationTypeGenomics">UKCore-OrganizationTypeGenomics</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-OrganizationTypeGenomics">UKCore-OrganizationTypeGenomics</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-OrganizationTypeGenomics </td>
 
@@ -7412,11 +7412,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-OtherContactSystem">UKCore-OtherContactSystem</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-OtherContactSystem">UKCore-OtherContactSystem</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-OtherContactSystem </td>
 
@@ -7430,11 +7430,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-OutcomeOfAttendanceEngland">UKCore-OutcomeOfAttendanceEngland</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-OutcomeOfAttendanceEngland">UKCore-OutcomeOfAttendanceEngland</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-OutcomeOfAttendanceEngland </td>
 
@@ -7448,11 +7448,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-OutcomeOfAttendanceWales">UKCore-OutcomeOfAttendanceWales</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-OutcomeOfAttendanceWales">UKCore-OutcomeOfAttendanceWales</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-OutcomeOfAttendanceWales </td>
 
@@ -7466,11 +7466,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-OverseasVisitorChargingCategory">UKCore-OverseasVisitorChargingCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-OverseasVisitorChargingCategory">UKCore-OverseasVisitorChargingCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-OverseasVisitorChargingCategory </td>
 
@@ -7484,11 +7484,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PeriodType">UKCore-PeriodType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PeriodType">UKCore-PeriodType</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-PeriodType </td>
 
@@ -7502,11 +7502,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PersonMaritalStatus">UKCore-PersonMaritalStatus</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PersonMaritalStatus">UKCore-PersonMaritalStatus</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-PersonMaritalStatus </td>
 
@@ -7520,11 +7520,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PersonMaritalStatusEngland">UKCore-PersonMaritalStatusEngland</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PersonMaritalStatusEngland">UKCore-PersonMaritalStatusEngland</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-PersonMaritalStatusEngland </td>
 
@@ -7538,11 +7538,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PersonMaritalStatusScotland">UKCore-PersonMaritalStatusScotland</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PersonMaritalStatusScotland">UKCore-PersonMaritalStatusScotland</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-PersonMaritalStatusScotland </td>
 
@@ -7556,11 +7556,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PersonMaritalStatusWales">UKCore-PersonMaritalStatusWales</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PersonMaritalStatusWales">UKCore-PersonMaritalStatusWales</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-PersonMaritalStatusWales </td>
 
@@ -7574,11 +7574,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PracticeSettingCode">UKCore-PracticeSettingCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PracticeSettingCode">UKCore-PracticeSettingCode</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-PracticeSettingCode </td>
 
@@ -7592,11 +7592,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PracticeSettingCodeEngland">UKCore-PracticeSettingCodeEngland</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PracticeSettingCodeEngland">UKCore-PracticeSettingCodeEngland</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-PracticeSettingCodeEngland </td>
 
@@ -7610,11 +7610,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PracticeSettingCodeScotland">UKCore-PracticeSettingCodeScotland</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PracticeSettingCodeScotland">UKCore-PracticeSettingCodeScotland</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-PracticeSettingCodeScotland </td>
 
@@ -7628,11 +7628,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PracticeSettingCodeWales">UKCore-PracticeSettingCodeWales</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PracticeSettingCodeWales">UKCore-PracticeSettingCodeWales</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-PracticeSettingCodeWales </td>
 
@@ -7646,11 +7646,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PreferredContactMethod">UKCore-PreferredContactMethod</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PreferredContactMethod">UKCore-PreferredContactMethod</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-PreferredContactMethod </td>
 
@@ -7664,11 +7664,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PreferredWrittenCommunicationFormat">UKCore-PreferredWrittenCommunicationFormat</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PreferredWrittenCommunicationFormat">UKCore-PreferredWrittenCommunicationFormat</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-PreferredWrittenCommunicationFormat </td>
 
@@ -7682,11 +7682,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-PrescriptionType">UKCore-PrescriptionType</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PrescriptionType">UKCore-PrescriptionType</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-PrescriptionType </td>
 
@@ -7700,11 +7700,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ProblemSignificance">UKCore-ProblemSignificance</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ProblemSignificance">UKCore-ProblemSignificance</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-ProblemSignificance </td>
 
@@ -7718,11 +7718,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-RecordStandardHeadings">UKCore-RecordStandardHeadings</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-RecordStandardHeadings">UKCore-RecordStandardHeadings</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-RecordStandardHeadings </td>
 
@@ -7736,11 +7736,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-RecordingSetting">UKCore-RecordingSetting</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-RecordingSetting">UKCore-RecordingSetting</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-RecordingSetting </td>
 
@@ -7754,11 +7754,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ResidentialStatus">UKCore-ResidentialStatus</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ResidentialStatus">UKCore-ResidentialStatus</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-ResidentialStatus </td>
 
@@ -7772,11 +7772,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-SDSJobRoleName">UKCore-SDSJobRoleName</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-SDSJobRoleName">UKCore-SDSJobRoleName</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-SDSJobRoleName </td>
 
@@ -7790,11 +7790,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-SampleCategory">UKCore-SampleCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-SampleCategory">UKCore-SampleCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-SampleCategory </td>
 
@@ -7808,11 +7808,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ServiceRequestMethod">UKCore-ServiceRequestMethod</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ServiceRequestMethod">UKCore-ServiceRequestMethod</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-ServiceRequestMethod </td>
 
@@ -7826,11 +7826,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-SourceOfAdmissionEngland">UKCore-SourceOfAdmissionEngland</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-SourceOfAdmissionEngland">UKCore-SourceOfAdmissionEngland</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-SourceOfAdmissionEngland </td>
 
@@ -7844,11 +7844,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-SourceOfAdmissionWales">UKCore-SourceOfAdmissionWales</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-SourceOfAdmissionWales">UKCore-SourceOfAdmissionWales</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-SourceOfAdmissionWales </td>
 
@@ -7862,11 +7862,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-SpineErrorOrWarningCode">UKCore-SpineErrorOrWarningCode</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-SpineErrorOrWarningCode">UKCore-SpineErrorOrWarningCode</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-SpineErrorOrWarningCode </td>
 
@@ -7880,11 +7880,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-TreatmentCategory">UKCore-TreatmentCategory</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-TreatmentCategory">UKCore-TreatmentCategory</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-TreatmentCategory </td>
 
@@ -7898,11 +7898,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-WithheldIdentityReason">UKCore-WithheldIdentityReason</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-WithheldIdentityReason">UKCore-WithheldIdentityReason</a></td>
 
   <td> https://fhir.hl7.org.uk/CodeSystem/UKCore-WithheldIdentityReason </td>
 
@@ -7916,11 +7916,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/message-events">message-events</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/message-events">message-events</a></td>
 
   <td> https://fhir.nhs.uk/CodeSystem/message-event </td>
 
@@ -7934,7 +7934,7 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
@@ -7947,7 +7947,7 @@ Note that there are a variety of processes associated with making and processing
 ## ConceptMaps
 <br>
 <table>
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-AdministrativeGender">UKCore-AdministrativeGender</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AdministrativeGender">UKCore-AdministrativeGender</a></td>
 
   <td> https://fhir.hl7.org.uk/ConceptMap/ConceptMap-UKCore-AdministrativeGender </td>
 
@@ -7961,11 +7961,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-ConditionEpisodicity">UKCore-ConditionEpisodicity</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ConditionEpisodicity">UKCore-ConditionEpisodicity</a></td>
 
   <td> https://fhir.hl7.org.uk/ConceptMap/ConceptMap-UKCore-ConditionEpisodicity </td>
 
@@ -7979,11 +7979,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/UKCore-MaritalStatus">UKCore-MaritalStatus</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MaritalStatus">UKCore-MaritalStatus</a></td>
 
   <td> https://fhir.hl7.org.uk/ConceptMap/ConceptMap-UKCore-MaritalStatus </td>
 
@@ -7997,7 +7997,7 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -8010,7 +8010,7 @@ Note that there are a variety of processes associated with making and processing
 ## CapabilityStatements
 <br>
 <table>
-<td><a href="https://simplifier.net/NHSEngland-FHIR-ImplementationGuide/apim-conformance">apim-conformance</a></td>
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/apim-conformance">apim-conformance</a></td>
 
   <td> https://fhir.hl7.org.uk/CapabilityStatement/England-conformance </td>
 
@@ -8024,11 +8024,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-FHIRExamples-Conformance">England-FHIRExamples-Conformance</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-FHIRExamples-Conformance">England-FHIRExamples-Conformance</a></td>
 
   <td> https://fhir.nhs.uk/England/CapabilityStatement/England-FHIRExamples-Conformance </td>
 
@@ -8042,11 +8042,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-MCED-Requirements">England-MCED-Requirements</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-MCED-Requirements">England-MCED-Requirements</a></td>
 
   <td> https://fhir.nhs.uk/England/CapabilityStatement/England-MCED-Requirements </td>
 
@@ -8060,11 +8060,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-ODS-Requirements">England-ODS-Requirements</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-ODS-Requirements">England-ODS-Requirements</a></td>
 
   <td> https://fhir.nhs.uk/England/CapabilityStatement/England-ODS-Requirements </td>
 
@@ -8078,11 +8078,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td> Requirements for NHS England ODS FHIR API Implementation Guide, to specify the RESTFul interactions, supported profiles, and expected minimum SearchParamneters. </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-Pathology-Requirements">England-Pathology-Requirements</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Pathology-Requirements">England-Pathology-Requirements</a></td>
 
   <td> https://fhir.hl7.org.uk/England/CapabilityStatement/England-Pathology-Requirements </td>
 
@@ -8096,11 +8096,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/NHSEngland-FHIR-Programme-ImplementationGuide/England-PatientFlag-Server-Requirements">England-PatientFlag-Server-Requirements</a></td>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-PatientFlag-Server-Requirements">England-PatientFlag-Server-Requirements</a></td>
 
   <td> https://fhir.nhs.uk/England/CapabilityStatement/England-PatientFlag-Server-Requirements </td>
 
@@ -8114,11 +8114,11 @@ Note that there are a variety of processes associated with making and processing
 
   <td> Requirements for NHS England PatientFlag FHIR API Implementation Guide, to specify the RESTFul interactions, supported profiles, and expected minimum SearchParamneters. </td>
 
-  <td> NHSEngland-FHIR-Programme-ImplementationGuide </td>
+  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
-<td><a href="https://simplifier.net/FHIR-R4-UKCORE-STAGING-MAIN/apim-conformance">apim-conformance</a></td>
+<td><a href="https://simplifier.net/hl7fhirukcorer4/apim-conformance">apim-conformance</a></td>
 
   <td> https://fhir.hl7.org.uk/CapabilityStatement/ukcore-conformance </td>
 
@@ -8132,7 +8132,7 @@ Note that there are a variety of processes associated with making and processing
 
   <td>  </td>
 
-  <td> FHIR-R4-UKCORE-STAGING-MAIN </td>
+  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
