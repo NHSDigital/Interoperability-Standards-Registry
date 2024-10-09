@@ -154,6 +154,7 @@ def code_assets(asset,elements):
     print(f'''<td><a href="{elements['repo_name']}/{elements['id']}">{elements['id']}</a></td>\n''',file=md_file)
     #print(f"{elements['repo_name']}/{elements['id']}")
     elements.pop('url')
+    elements.pop('repo_name')
     elements.pop('id')
     for element,value in elements.items():
         print(f"  <td> {str(value)} </td>\n", file = md_file)
