@@ -148,8 +148,9 @@ for asset, elements in global_elements.items():
                 valuesets.update({asset:elements})
             else:
                 profiles.update({asset:elements})
-for asset in profiles.keys():
-    if profiles[asset]['type'].lower() == 'extension':
+profiles_temp = profile.copy()
+for asset in profiles_temp.keys():
+    if profiles_temp[asset]['type'].lower() == 'extension':
         extensions.update(profiles[asset])
         profiles.pop(asset)
         
