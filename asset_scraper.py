@@ -88,9 +88,14 @@ for xml_file in xml_files:
     warnings = []
     filename = xml_file.split('/')[-1].split('.')[0]
     file, warnings = openXMLFile(xml_file, warnings)
-    value, warnings = getXMLElement(file, 'url', warnings)
+    url_value, warnings = getXMLElement(file, 'url', warnings)       
     if not value:
         continue
+    try:
+        type_value, warnings = getXMLElement(file, 'type', warnings)  
+        dict_elements.update({'type':type_value})
+    except:
+        pass
     for element in asset_elements:
         value, warnings = getXMLElement(file, element, warnings)
         dict_elements.update({element:value})
@@ -102,9 +107,14 @@ for json_file in json_files:
     warnings = []
     filename = json_file.split('/')[-1].split('.')[0]
     file, warnings = openJSONFile(json_file, warnings)
-    value, warnings = getJSONElement(file, 'url', warnings)
-    if not value:
+    url_value, warnings = getJSONElement(file, 'url', warnings)
+    if not url_value:
         continue
+    try:
+        type_value, warnings = getJSONElement(file, 'type', warnings)  
+        dict_elements.update({'type':type_value})
+    except:
+        pass
     for element in asset_elements:
         value, warnings = getJSONElement(file, element, warnings) 
         dict_elements.update({element:value})
@@ -124,24 +134,25 @@ conceptmaps = {}
 capabilitystatements = {}
 valuesets = {}
 profiles = {}
+extensions = {}
 for asset, elements in global_elements.items():
     for k,v in elements.items():
         if k=='url':
             if 'codesystem' in v.lower():
                 codesystems.update({asset:elements})
-                continue
             elif 'conceptmap' in v.lower():
                 conceptmaps.update({asset:elements})
-                continue
             elif 'capabilitystatement' in v.lower():
                 capabilitystatements.update({asset:elements})
-                continue
             elif 'valueset' in v.lower():
                 valuesets.update({asset:elements})
-                continue
             else:
                 profiles.update({asset:elements})
-                continue
+for asset in profiles.keys():
+    if asset['type'] == 'extension':
+        extensions.update(profile[asset])
+        profile.pop(asset)
+        
 codesystems = dict(sorted(codesystems.items()))
 valuesets = dict(sorted(valuesets.items()))
 profiles = dict(sorted(profiles.items()))
@@ -180,6 +191,7 @@ if os.path.exists(path):
 md_file = open(path,"w")
 
 write_section(md_file, "Profile", profiles)
+write_section(md_file, "Extension", extensions)
 write_section(md_file, "ValueSet", valuesets)
 write_section(md_file, "CodeSystem", codesystems)
 write_section(md_file, "ConceptMap", conceptmaps)
