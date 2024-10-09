@@ -800,14 +800,19 @@ color: #0072CE;
 }
 
 /* add colour around status in asset lists */
-.status-container {
+ul {
+    list-style-type: none;
     padding: 0;
+}
+
+li {
+    margin: 5px 0;
 }
 
 .status {
     display: inline-block;
-    padding: 10px 15px;
-    margin: 5px;
+    padding: 5px 10px;
+    margin-left: 10px;
     border-radius: 20px; /* Rounded corners */
     color: white; /* Text color */
 }
@@ -818,6 +823,10 @@ color: #0072CE;
 
 .draft {
     background-color: #FFC107; /* Yellow */
+}
+
+.retired {
+    background-color: #F44336; /* Red */
 }
 
 .retired {
