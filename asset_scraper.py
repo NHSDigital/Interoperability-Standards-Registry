@@ -99,7 +99,7 @@ for xml_file in xml_files:
     if is_asset:
         repo_name = xml_file.split("/")[1]
         dict_elements.update({'url_suffix': repo_to_url[repo_name]})
-        dict_elements.update({'url_suffix': repo_to_url[xml_file.split("/")[1]]})
+        #dict_elements.update({'url_suffix': repo_to_url[xml_file.split("/")[1]]})
         GlobalUpdates(filename, dict_elements, warnings)
 
 for json_file in json_files:
