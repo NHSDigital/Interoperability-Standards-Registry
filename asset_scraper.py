@@ -153,6 +153,8 @@ for asset in profiles_temp.keys():
     if profiles_temp[asset]['type'].lower() == 'extension':
         extensions.update(profiles[asset])
         profiles.pop(asset)
+print(F"PROFILES: {profiles}")
+print(F"EXTENSIONS: {extensions}")
         
 codesystems = dict(sorted(codesystems.items()))
 valuesets = dict(sorted(valuesets.items()))
