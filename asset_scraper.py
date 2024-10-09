@@ -173,6 +173,8 @@ def code_assets(asset,elements, title):
     elements.pop('repo_name')
     elements.pop('id')
     for element,value in elements.items():
+        if not value:
+            continue
         if element == 'status':
             print(f'''  <span class="status {str(value).lower()}">{str(value)}</span>''', file = md_file)
         else:
