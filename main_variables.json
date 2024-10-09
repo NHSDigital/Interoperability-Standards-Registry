@@ -3,7 +3,7 @@
         "url",
         "id",
         "version",
-        "status",
+        "status"
     ],
     "repo_to_url": {
         "FHIR-R4-UKCORE-STAGING-MAIN": "https://simplifier.net/hl7fhirukcorer4",
