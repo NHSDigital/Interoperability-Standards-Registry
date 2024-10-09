@@ -97,7 +97,9 @@ for xml_file in xml_files:
             continue        
         dict_elements.update({element:value})
     if is_asset:
-        dict_elements.update({'repo_name': repo_to_url[xml_file.split("/")[1]]})
+        repo_name = xml_file.split("/")[1]
+        dict_elements.update({'url_suffix': repo_to_url[repo_name]})
+        dict_elements.update({'url_suffix': repo_to_url[xml_file.split("/")[1]]})
         GlobalUpdates(filename, dict_elements, warnings)
 
 for json_file in json_files:
@@ -114,7 +116,8 @@ for json_file in json_files:
             continue       
         dict_elements.update({element:value})
     if is_asset:
-        dict_elements.update({'repo_name': repo_to_url[json_file.split("/")[1]]})
+        repo_name = json_file.split("/")[1]
+        dict_elements.update({'url_suffix': repo_to_url[repo_name]})
         GlobalUpdates(filename, dict_elements, warnings)
 
 for key, value in global_warnings.items():
@@ -157,8 +160,8 @@ capabilitystatements = dict(sorted(capabilitystatements.items()))
 '''Create markdown file'''
 def code_assets(asset,elements):
     #print(f"<tr>\n  <td>{str(asset)}</td>\n", file = md_file)
-    print(f'''<td><a href="{elements['repo_name']}/{elements['id']}">{elements['id']}</a></td>\n''',file=md_file)
-    print(f"{elements['repo_name']}/{elements['id']}")
+    print(f'''<td><a href="{elements['url_suffix']}/{elements['id']}">{elements['id']}</a></td>\n''',file=md_file)
+    print(f"{elements['url_suffix']}/{elements['id']}")
     for element,value in elements.items():
         print(f"  <td> {str(value)} </td>\n", file = md_file)
         #md_file.write('''<td>''')
