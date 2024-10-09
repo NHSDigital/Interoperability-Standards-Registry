@@ -191,876 +191,6 @@
 
 </tr>
 
-<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/Extension-England-FlagNotes">Extension-England-FlagNotes</a></td>
-
-  <td> Extension </td>
-
-  <td> 0.1.0 </td>
-
-  <td> draft </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/nhs-england-implementation-guide/Extension-England-FlagRemovalReason">Extension-England-FlagRemovalReason</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.0.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/nhs-england-implementation-guide/Extension-England-LocationExtension">Extension-England-LocationExtension</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.0.0 </td>
-
-  <td> draft </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/nhs-england-implementation-guide/Extension-England-OrganisationRole">Extension-England-OrganisationRole</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.0.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/nhs-england-implementation-guide/Extension-England-TypedDateTime">Extension-England-TypedDateTime</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.0.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/nhs-england-implementation-guide/Extension-England-TypedPeriod">Extension-England-TypedPeriod</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.0.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ActualProblem">Extension-UKCore-ActualProblem</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.3.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-AdditionalContact">Extension-UKCore-AdditionalContact</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.1.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-AddressKey">Extension-UKCore-AddressKey</a></td>
-
-  <td> Extension </td>
-
-  <td> 3.0.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-AdmissionMethod">Extension-UKCore-AdmissionMethod</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.3.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-AllergyIntoleranceEnd">Extension-UKCore-AllergyIntoleranceEnd</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.3.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-AnaestheticIssues">Extension-UKCore-AnaestheticIssues</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.3.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-AssociatedEncounter">Extension-UKCore-AssociatedEncounter</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.1.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-BirthSex">Extension-UKCore-BirthSex</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.1.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-BodySiteReference">Extension-UKCore-BodySiteReference</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.0.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-BookingOrganization">Extension-UKCore-BookingOrganization</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.3.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-CareSettingType">Extension-UKCore-CareSettingType</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.2.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ClinicalSetting">Extension-UKCore-ClinicalSetting</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.0.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-CodingSCTDescDisplay">Extension-UKCore-CodingSCTDescDisplay</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.2.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-CodingSCTDescId">Extension-UKCore-CodingSCTDescId</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.2.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ConditionBodyStructure">Extension-UKCore-ConditionBodyStructure</a></td>
-
-  <td> Extension </td>
-
-  <td> 0.0.1 </td>
-
-  <td> draft </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ConditionEpisode">Extension-UKCore-ConditionEpisode</a></td>
-
-  <td> Extension </td>
-
-  <td> 3.1.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ContactPreference">Extension-UKCore-ContactPreference</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.3.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ContactRank">Extension-UKCore-ContactRank</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.2.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-CopyCorrespondenceIndicator">Extension-UKCore-CopyCorrespondenceIndicator</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.2.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-Coverage">Extension-UKCore-Coverage</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.0.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-CuffSize">Extension-UKCore-CuffSize</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.0.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DeathNotificationStatus">Extension-UKCore-DeathNotificationStatus</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.2.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DeliveryChannel">Extension-UKCore-DeliveryChannel</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.1.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DeviceReference">Extension-UKCore-DeviceReference</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.1.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DiagnosticReportComposition">Extension-UKCore-DiagnosticReportComposition</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.1.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DiagnosticReportMediaLink">Extension-UKCore-DiagnosticReportMediaLink</a></td>
-
-  <td> Extension </td>
-
-  <td> 0.0.1 </td>
-
-  <td> draft </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DiagnosticReportNote">Extension-UKCore-DiagnosticReportNote</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.1.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DiagnosticReportSupportingInfo">Extension-UKCore-DiagnosticReportSupportingInfo</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.0.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DischargeMethod">Extension-UKCore-DischargeMethod</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.2.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-EffectivePeriod">Extension-UKCore-EffectivePeriod</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.1.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-EmergencyCareDischargeStatus">Extension-UKCore-EmergencyCareDischargeStatus</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.1.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-EncounterTransport">Extension-UKCore-EncounterTransport</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.1.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-EthnicCategory">Extension-UKCore-EthnicCategory</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.3.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-Evidence">Extension-UKCore-Evidence</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.2.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-FamilyMemberHistoryParticipant">Extension-UKCore-FamilyMemberHistoryParticipant</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.1.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-LegalStatus">Extension-UKCore-LegalStatus</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.2.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ListWarningCode">Extension-UKCore-ListWarningCode</a></td>
-
-  <td> Extension </td>
-
-  <td> 3.1.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MainLocation">Extension-UKCore-MainLocation</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.1.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicalApplianceSupplier">Extension-UKCore-MedicalApplianceSupplier</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.1.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationChangeSummary">Extension-UKCore-MedicationChangeSummary</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.1.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationDosageLastChanged">Extension-UKCore-MedicationDosageLastChanged</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.1.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationPrescribingAgency">Extension-UKCore-MedicationPrescribingAgency</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.0.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationPrescribingOrganization">Extension-UKCore-MedicationPrescribingOrganization</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.0.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationPrescribingOrganizationType">Extension-UKCore-MedicationPrescribingOrganizationType</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.1.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationQuantityText">Extension-UKCore-MedicationQuantityText</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.1.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationRepeatInformation">Extension-UKCore-MedicationRepeatInformation</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.3.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationStatementLastIssueDate">Extension-UKCore-MedicationStatementLastIssueDate</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.1.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationTradeFamily">Extension-UKCore-MedicationTradeFamily</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.1.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MessageHeaderInstruction">Extension-UKCore-MessageHeaderInstruction</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.0.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-NHSCommunication">Extension-UKCore-NHSCommunication</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.0.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-NHSNumberUnavailableReason">Extension-UKCore-NHSNumberUnavailableReason</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.0.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-NHSNumberVerificationStatus">Extension-UKCore-NHSNumberVerificationStatus</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.1.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-NominatedPharmacy">Extension-UKCore-NominatedPharmacy</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.1.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ObservationBodyStructure">Extension-UKCore-ObservationBodyStructure</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.0.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ObservationTriggeredBy">Extension-UKCore-ObservationTriggeredBy</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.1.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-OtherContactSystem">Extension-UKCore-OtherContactSystem</a></td>
-
-  <td> Extension </td>
-
-  <td> 3.0.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-OutcomeOfAttendance">Extension-UKCore-OutcomeOfAttendance</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.2.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-OverseasVisitorChargingCategory">Extension-UKCore-OverseasVisitorChargingCategory</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.0.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ParentPresent">Extension-UKCore-ParentPresent</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.2.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-PatientFetalStatus">Extension-UKCore-PatientFetalStatus</a></td>
-
-  <td> Extension </td>
-
-  <td> 0.0.1 </td>
-
-  <td> draft </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-PharmacistVerifiedIndicator">Extension-UKCore-PharmacistVerifiedIndicator</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.0.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-PreferredDispenserOrganization">Extension-UKCore-PreferredDispenserOrganization</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.1.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-PrescriptionType">Extension-UKCore-PrescriptionType</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.1.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-PriorityReason">Extension-UKCore-PriorityReason</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.0.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ProblemSignificance">Extension-UKCore-ProblemSignificance</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.1.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-Recorder">Extension-UKCore-Recorder</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.1.0 </td>
-
-  <td> draft </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-RecordingSetting">Extension-UKCore-RecordingSetting</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.1.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-RelatedClinicalContent">Extension-UKCore-RelatedClinicalContent</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.3.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-RelatedProblemHeader">Extension-UKCore-RelatedProblemHeader</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.3.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ReligiousAffiliation">Extension-UKCore-ReligiousAffiliation</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.0.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ResidentialStatus">Extension-UKCore-ResidentialStatus</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.1.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-SampleCategory">Extension-UKCore-SampleCategory</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.1.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ServiceRequestMethod">Extension-UKCore-ServiceRequestMethod</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.0.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-SourceOfServiceRequest">Extension-UKCore-SourceOfServiceRequest</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.2.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-SpecimenCollectionCollector">Extension-UKCore-SpecimenCollectionCollector</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.1.0 </td>
-
-  <td> active </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-SpecimenContainerDevice">Extension-UKCore-SpecimenContainerDevice</a></td>
-
-  <td> Extension </td>
-
-  <td> 0.0.1 </td>
-
-  <td> draft </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-SpecimenContainerLocation">Extension-UKCore-SpecimenContainerLocation</a></td>
-
-  <td> Extension </td>
-
-  <td> 0.0.1 </td>
-
-  <td> draft </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-TreatmentCategory">Extension-UKCore-TreatmentCategory</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.0.0 </td>
-
-  <td> retired </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-TypedDateTime">Extension-UKCore-TypedDateTime</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.2.0 </td>
-
-  <td> draft </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-TypedPeriod">Extension-UKCore-TypedPeriod</a></td>
-
-  <td> Extension </td>
-
-  <td> 1.0.0 </td>
-
-  <td> draft </td>
-
-</tr>
-
-<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-VaccinationProcedure">Extension-UKCore-VaccinationProcedure</a></td>
-
-  <td> Extension </td>
-
-  <td> 2.2.0 </td>
-
-  <td> active </td>
-
-</tr>
-
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/GPReg-Questionnaire-RegisterGPSurgery-Example">GPReg-Questionnaire-RegisterGPSurgery-Example</a></td>
 
   <td>  </td>
@@ -1860,6 +990,876 @@
 ## Extensions
 <br>
 <table>
+<td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/Extension-England-FlagNotes">Extension-England-FlagNotes</a></td>
+
+  <td> Extension </td>
+
+  <td> 0.1.0 </td>
+
+  <td> draft </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/Extension-England-LocationExtension">Extension-England-LocationExtension</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.0.0 </td>
+
+  <td> draft </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/Extension-England-TypedPeriod">Extension-England-TypedPeriod</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.0.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/Extension-England-TypedDateTime">Extension-England-TypedDateTime</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.0.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/Extension-England-OrganisationRole">Extension-England-OrganisationRole</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.0.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/nhs-england-implementation-guide/Extension-England-FlagRemovalReason">Extension-England-FlagRemovalReason</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.0.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-BookingOrganization">Extension-UKCore-BookingOrganization</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.3.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-OtherContactSystem">Extension-UKCore-OtherContactSystem</a></td>
+
+  <td> Extension </td>
+
+  <td> 3.0.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ProblemSignificance">Extension-UKCore-ProblemSignificance</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.1.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ActualProblem">Extension-UKCore-ActualProblem</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.3.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ResidentialStatus">Extension-UKCore-ResidentialStatus</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.1.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-PharmacistVerifiedIndicator">Extension-UKCore-PharmacistVerifiedIndicator</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.0.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-CareSettingType">Extension-UKCore-CareSettingType</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.2.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-Evidence">Extension-UKCore-Evidence</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.2.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-BodySiteReference">Extension-UKCore-BodySiteReference</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.0.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DiagnosticReportSupportingInfo">Extension-UKCore-DiagnosticReportSupportingInfo</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.0.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-BirthSex">Extension-UKCore-BirthSex</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.1.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-CuffSize">Extension-UKCore-CuffSize</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.0.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-AllergyIntoleranceEnd">Extension-UKCore-AllergyIntoleranceEnd</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.3.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-AdditionalContact">Extension-UKCore-AdditionalContact</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.1.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-LegalStatus">Extension-UKCore-LegalStatus</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.2.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ListWarningCode">Extension-UKCore-ListWarningCode</a></td>
+
+  <td> Extension </td>
+
+  <td> 3.1.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ParentPresent">Extension-UKCore-ParentPresent</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.2.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-SourceOfServiceRequest">Extension-UKCore-SourceOfServiceRequest</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.2.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-Recorder">Extension-UKCore-Recorder</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.1.0 </td>
+
+  <td> draft </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationChangeSummary">Extension-UKCore-MedicationChangeSummary</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.1.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ConditionBodyStructure">Extension-UKCore-ConditionBodyStructure</a></td>
+
+  <td> Extension </td>
+
+  <td> 0.0.1 </td>
+
+  <td> draft </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-EthnicCategory">Extension-UKCore-EthnicCategory</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.3.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DiagnosticReportNote">Extension-UKCore-DiagnosticReportNote</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.1.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationPrescribingOrganization">Extension-UKCore-MedicationPrescribingOrganization</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.0.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DiagnosticReportComposition">Extension-UKCore-DiagnosticReportComposition</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.1.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ContactRank">Extension-UKCore-ContactRank</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.2.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-PreferredDispenserOrganization">Extension-UKCore-PreferredDispenserOrganization</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.1.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-EmergencyCareDischargeStatus">Extension-UKCore-EmergencyCareDischargeStatus</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.1.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-AddressKey">Extension-UKCore-AddressKey</a></td>
+
+  <td> Extension </td>
+
+  <td> 3.0.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationDosageLastChanged">Extension-UKCore-MedicationDosageLastChanged</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.1.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-TreatmentCategory">Extension-UKCore-TreatmentCategory</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.0.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationPrescribingOrganizationType">Extension-UKCore-MedicationPrescribingOrganizationType</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.1.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-OutcomeOfAttendance">Extension-UKCore-OutcomeOfAttendance</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.2.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-CodingSCTDescDisplay">Extension-UKCore-CodingSCTDescDisplay</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.2.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicalApplianceSupplier">Extension-UKCore-MedicalApplianceSupplier</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.1.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DischargeMethod">Extension-UKCore-DischargeMethod</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.2.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-Coverage">Extension-UKCore-Coverage</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.0.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DeviceReference">Extension-UKCore-DeviceReference</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.1.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-TypedPeriod">Extension-UKCore-TypedPeriod</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.0.0 </td>
+
+  <td> draft </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-NominatedPharmacy">Extension-UKCore-NominatedPharmacy</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.1.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ConditionEpisode">Extension-UKCore-ConditionEpisode</a></td>
+
+  <td> Extension </td>
+
+  <td> 3.1.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DiagnosticReportMediaLink">Extension-UKCore-DiagnosticReportMediaLink</a></td>
+
+  <td> Extension </td>
+
+  <td> 0.0.1 </td>
+
+  <td> draft </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-SampleCategory">Extension-UKCore-SampleCategory</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.1.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationQuantityText">Extension-UKCore-MedicationQuantityText</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.1.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-VaccinationProcedure">Extension-UKCore-VaccinationProcedure</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.2.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-SpecimenCollectionCollector">Extension-UKCore-SpecimenCollectionCollector</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.1.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-AdmissionMethod">Extension-UKCore-AdmissionMethod</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.3.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ContactPreference">Extension-UKCore-ContactPreference</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.3.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ObservationBodyStructure">Extension-UKCore-ObservationBodyStructure</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.0.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ServiceRequestMethod">Extension-UKCore-ServiceRequestMethod</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.0.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-AssociatedEncounter">Extension-UKCore-AssociatedEncounter</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.1.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-NHSNumberVerificationStatus">Extension-UKCore-NHSNumberVerificationStatus</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.1.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ClinicalSetting">Extension-UKCore-ClinicalSetting</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.0.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ReligiousAffiliation">Extension-UKCore-ReligiousAffiliation</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.0.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-CopyCorrespondenceIndicator">Extension-UKCore-CopyCorrespondenceIndicator</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.2.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-TypedDateTime">Extension-UKCore-TypedDateTime</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.2.0 </td>
+
+  <td> draft </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-PriorityReason">Extension-UKCore-PriorityReason</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.0.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-SpecimenContainerDevice">Extension-UKCore-SpecimenContainerDevice</a></td>
+
+  <td> Extension </td>
+
+  <td> 0.0.1 </td>
+
+  <td> draft </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationPrescribingAgency">Extension-UKCore-MedicationPrescribingAgency</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.0.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-PatientFetalStatus">Extension-UKCore-PatientFetalStatus</a></td>
+
+  <td> Extension </td>
+
+  <td> 0.0.1 </td>
+
+  <td> draft </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-EffectivePeriod">Extension-UKCore-EffectivePeriod</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.1.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-NHSNumberUnavailableReason">Extension-UKCore-NHSNumberUnavailableReason</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.0.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-RelatedProblemHeader">Extension-UKCore-RelatedProblemHeader</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.3.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-OverseasVisitorChargingCategory">Extension-UKCore-OverseasVisitorChargingCategory</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.0.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-RecordingSetting">Extension-UKCore-RecordingSetting</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.1.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ObservationTriggeredBy">Extension-UKCore-ObservationTriggeredBy</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.1.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MessageHeaderInstruction">Extension-UKCore-MessageHeaderInstruction</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.0.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-EncounterTransport">Extension-UKCore-EncounterTransport</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.1.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-NHSCommunication">Extension-UKCore-NHSCommunication</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.0.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DeathNotificationStatus">Extension-UKCore-DeathNotificationStatus</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.2.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-RelatedClinicalContent">Extension-UKCore-RelatedClinicalContent</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.3.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationStatementLastIssueDate">Extension-UKCore-MedicationStatementLastIssueDate</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.1.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MainLocation">Extension-UKCore-MainLocation</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.1.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-PrescriptionType">Extension-UKCore-PrescriptionType</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.1.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-CodingSCTDescId">Extension-UKCore-CodingSCTDescId</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.2.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-AnaestheticIssues">Extension-UKCore-AnaestheticIssues</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.3.0 </td>
+
+  <td> retired </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-FamilyMemberHistoryParticipant">Extension-UKCore-FamilyMemberHistoryParticipant</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.1.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DeliveryChannel">Extension-UKCore-DeliveryChannel</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.1.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationTradeFamily">Extension-UKCore-MedicationTradeFamily</a></td>
+
+  <td> Extension </td>
+
+  <td> 1.1.0 </td>
+
+  <td> active </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-SpecimenContainerLocation">Extension-UKCore-SpecimenContainerLocation</a></td>
+
+  <td> Extension </td>
+
+  <td> 0.0.1 </td>
+
+  <td> draft </td>
+
+</tr>
+
+<td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationRepeatInformation">Extension-UKCore-MedicationRepeatInformation</a></td>
+
+  <td> Extension </td>
+
+  <td> 2.3.0 </td>
+
+  <td> active </td>
+
+</tr>
+
 </table>
 <br><br>
 
