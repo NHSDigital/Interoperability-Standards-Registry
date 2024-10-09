@@ -7,8 +7,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-DiagnosticReport-MCED">England-DiagnosticReport-MCED</a></td>
@@ -16,8 +14,6 @@
   <td> 0.0.1 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
@@ -27,8 +23,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Flag-PatientFlag-Adjustment">England-Flag-PatientFlag-Adjustment</a></td>
@@ -36,8 +30,6 @@
   <td> 0.2.0 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
@@ -47,8 +39,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Observation-MCED">England-Observation-MCED</a></td>
@@ -56,8 +46,6 @@
   <td> 0.0.1 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
@@ -67,8 +55,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Observation-MCED-Screening">England-Observation-MCED-Screening</a></td>
@@ -76,8 +62,6 @@
   <td> 0.0.1 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
@@ -87,8 +71,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Organization-MCED">England-Organization-MCED</a></td>
@@ -96,8 +78,6 @@
   <td> 0.0.1 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
@@ -107,8 +87,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-OrganizationAffiliation-ODS">England-OrganizationAffiliation-ODS</a></td>
@@ -116,8 +94,6 @@
   <td> 0.0.2 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
@@ -127,8 +103,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Pathology-Request">England-Pathology-Request</a></td>
@@ -136,8 +110,6 @@
   <td>  </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
@@ -147,8 +119,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Patient-PDS">England-Patient-PDS</a></td>
@@ -156,8 +126,6 @@
   <td> 0.0.1 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
@@ -167,8 +135,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-ServiceRequestLab-MCED">England-ServiceRequestLab-MCED</a></td>
@@ -176,8 +142,6 @@
   <td> 0.0.1 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
@@ -187,8 +151,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/Extension-England-FlagNotes">Extension-England-FlagNotes</a></td>
@@ -196,8 +158,6 @@
   <td> 0.1.0 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
@@ -207,8 +167,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-implementation-guide/Extension-England-LocationExtension">Extension-England-LocationExtension</a></td>
@@ -216,8 +174,6 @@
   <td> 1.0.0 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
@@ -227,8 +183,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-implementation-guide/Extension-England-TypedDateTime">Extension-England-TypedDateTime</a></td>
@@ -236,8 +190,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
@@ -247,8 +199,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ActualProblem">Extension-UKCore-ActualProblem</a></td>
@@ -256,8 +206,6 @@
   <td> 1.3.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -267,8 +215,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-AddressKey">Extension-UKCore-AddressKey</a></td>
@@ -276,8 +222,6 @@
   <td> 3.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -287,8 +231,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-AllergyIntoleranceEnd">Extension-UKCore-AllergyIntoleranceEnd</a></td>
@@ -296,8 +238,6 @@
   <td> 2.3.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -307,8 +247,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-AssociatedEncounter">Extension-UKCore-AssociatedEncounter</a></td>
@@ -316,8 +254,6 @@
   <td> 1.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -327,8 +263,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-BodySiteReference">Extension-UKCore-BodySiteReference</a></td>
@@ -336,8 +270,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -347,8 +279,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-CareSettingType">Extension-UKCore-CareSettingType</a></td>
@@ -356,8 +286,6 @@
   <td> 2.2.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -367,8 +295,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-CodingSCTDescDisplay">Extension-UKCore-CodingSCTDescDisplay</a></td>
@@ -376,8 +302,6 @@
   <td> 1.2.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -387,8 +311,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ConditionBodyStructure">Extension-UKCore-ConditionBodyStructure</a></td>
@@ -396,8 +318,6 @@
   <td> 0.0.1 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -407,8 +327,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ContactPreference">Extension-UKCore-ContactPreference</a></td>
@@ -416,8 +334,6 @@
   <td> 2.3.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -427,8 +343,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-CopyCorrespondenceIndicator">Extension-UKCore-CopyCorrespondenceIndicator</a></td>
@@ -436,8 +350,6 @@
   <td> 2.2.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -447,8 +359,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-CuffSize">Extension-UKCore-CuffSize</a></td>
@@ -456,8 +366,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -467,8 +375,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DeliveryChannel">Extension-UKCore-DeliveryChannel</a></td>
@@ -476,8 +382,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -487,8 +391,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DiagnosticReportComposition">Extension-UKCore-DiagnosticReportComposition</a></td>
@@ -496,8 +398,6 @@
   <td> 1.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -507,8 +407,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DiagnosticReportNote">Extension-UKCore-DiagnosticReportNote</a></td>
@@ -516,8 +414,6 @@
   <td> 1.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -527,8 +423,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-DischargeMethod">Extension-UKCore-DischargeMethod</a></td>
@@ -536,8 +430,6 @@
   <td> 2.2.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -547,8 +439,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-EmergencyCareDischargeStatus">Extension-UKCore-EmergencyCareDischargeStatus</a></td>
@@ -556,8 +446,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -567,8 +455,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-EthnicCategory">Extension-UKCore-EthnicCategory</a></td>
@@ -576,8 +462,6 @@
   <td> 2.3.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -587,8 +471,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-FamilyMemberHistoryParticipant">Extension-UKCore-FamilyMemberHistoryParticipant</a></td>
@@ -596,8 +478,6 @@
   <td> 1.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -607,8 +487,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ListWarningCode">Extension-UKCore-ListWarningCode</a></td>
@@ -616,8 +494,6 @@
   <td> 3.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -627,8 +503,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicalApplianceSupplier">Extension-UKCore-MedicalApplianceSupplier</a></td>
@@ -636,8 +510,6 @@
   <td> 2.1.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -647,8 +519,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationDosageLastChanged">Extension-UKCore-MedicationDosageLastChanged</a></td>
@@ -656,8 +526,6 @@
   <td> 2.1.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -667,8 +535,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationPrescribingOrganization">Extension-UKCore-MedicationPrescribingOrganization</a></td>
@@ -676,8 +542,6 @@
   <td> 1.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -687,8 +551,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationQuantityText">Extension-UKCore-MedicationQuantityText</a></td>
@@ -696,8 +558,6 @@
   <td> 2.1.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -707,8 +567,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MedicationStatementLastIssueDate">Extension-UKCore-MedicationStatementLastIssueDate</a></td>
@@ -716,8 +574,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -727,8 +583,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-MessageHeaderInstruction">Extension-UKCore-MessageHeaderInstruction</a></td>
@@ -736,8 +590,6 @@
   <td> 1.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -747,8 +599,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-NHSNumberUnavailableReason">Extension-UKCore-NHSNumberUnavailableReason</a></td>
@@ -756,8 +606,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -767,8 +615,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-NominatedPharmacy">Extension-UKCore-NominatedPharmacy</a></td>
@@ -776,8 +622,6 @@
   <td> 2.1.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -787,8 +631,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ObservationTriggeredBy">Extension-UKCore-ObservationTriggeredBy</a></td>
@@ -796,8 +638,6 @@
   <td> 1.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -807,8 +647,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-OutcomeOfAttendance">Extension-UKCore-OutcomeOfAttendance</a></td>
@@ -816,8 +654,6 @@
   <td> 2.2.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -827,8 +663,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ParentPresent">Extension-UKCore-ParentPresent</a></td>
@@ -836,8 +670,6 @@
   <td> 2.2.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -847,8 +679,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-PharmacistVerifiedIndicator">Extension-UKCore-PharmacistVerifiedIndicator</a></td>
@@ -856,8 +686,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -867,8 +695,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-PrescriptionType">Extension-UKCore-PrescriptionType</a></td>
@@ -876,8 +702,6 @@
   <td> 2.1.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -887,8 +711,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ProblemSignificance">Extension-UKCore-ProblemSignificance</a></td>
@@ -896,8 +718,6 @@
   <td> 1.1.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -907,8 +727,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-RecordingSetting">Extension-UKCore-RecordingSetting</a></td>
@@ -916,8 +734,6 @@
   <td> 1.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -927,8 +743,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-RelatedProblemHeader">Extension-UKCore-RelatedProblemHeader</a></td>
@@ -936,8 +750,6 @@
   <td> 1.3.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -947,8 +759,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ResidentialStatus">Extension-UKCore-ResidentialStatus</a></td>
@@ -956,8 +766,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -967,8 +775,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-ServiceRequestMethod">Extension-UKCore-ServiceRequestMethod</a></td>
@@ -976,8 +782,6 @@
   <td> 1.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -987,8 +791,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-SpecimenCollectionCollector">Extension-UKCore-SpecimenCollectionCollector</a></td>
@@ -996,8 +798,6 @@
   <td> 1.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1007,8 +807,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-SpecimenContainerLocation">Extension-UKCore-SpecimenContainerLocation</a></td>
@@ -1016,8 +814,6 @@
   <td> 0.0.1 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1027,8 +823,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-TypedDateTime">Extension-UKCore-TypedDateTime</a></td>
@@ -1036,8 +830,6 @@
   <td> 2.2.0 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1047,8 +839,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/Extension-UKCore-VaccinationProcedure">Extension-UKCore-VaccinationProcedure</a></td>
@@ -1056,8 +846,6 @@
   <td> 2.2.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1067,8 +855,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Extension-OrganisationRole-ActiveRoleCode">England-Extension-OrganisationRole-ActiveRoleCode</a></td>
@@ -1076,8 +862,6 @@
   <td> 0.0.2 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
@@ -1087,8 +871,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Extension-TypedDateTime-LastChangeDate">England-Extension-TypedDateTime-LastChangeDate</a></td>
@@ -1096,8 +878,6 @@
   <td> 0.0.2 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
@@ -1107,8 +887,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-FlagCode">England-FlagCode</a></td>
@@ -1116,8 +894,6 @@
   <td> 0.1.0 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
@@ -1127,8 +903,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AllergyIntolerance">UKCore-AllergyIntolerance</a></td>
@@ -1136,8 +910,6 @@
   <td> 2.5.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1147,8 +919,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AuditEvent">UKCore-AuditEvent</a></td>
@@ -1156,8 +926,6 @@
   <td> 1.2.0 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1167,8 +935,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Bundle">UKCore-Bundle</a></td>
@@ -1176,8 +942,6 @@
   <td> 2.2.0 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1187,8 +951,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-CareTeam">UKCore-CareTeam</a></td>
@@ -1196,8 +958,6 @@
   <td> 2.1.0 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1207,8 +967,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Composition">UKCore-Composition</a></td>
@@ -1216,8 +974,6 @@
   <td> 2.4.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1227,8 +983,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Consent">UKCore-Consent</a></td>
@@ -1236,8 +990,6 @@
   <td> 2.4.0 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1247,8 +999,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Device-BloodPressure">UKCore-Device-BloodPressure</a></td>
@@ -1256,8 +1006,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1267,8 +1015,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DiagnosticReport-Lab">UKCore-DiagnosticReport-Lab</a></td>
@@ -1276,8 +1022,6 @@
   <td> 2.0.1 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1287,8 +1031,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Encounter">UKCore-Encounter</a></td>
@@ -1296,8 +1038,6 @@
   <td> 2.5.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1307,8 +1047,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-FamilyMemberHistory">UKCore-FamilyMemberHistory</a></td>
@@ -1316,8 +1054,6 @@
   <td> 1.2.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1327,8 +1063,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-HealthcareService">UKCore-HealthcareService</a></td>
@@ -1336,8 +1070,6 @@
   <td> 1.3.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1347,8 +1079,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Immunization">UKCore-Immunization</a></td>
@@ -1356,8 +1086,6 @@
   <td> 2.4.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1367,8 +1095,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Location">UKCore-Location</a></td>
@@ -1376,8 +1102,6 @@
   <td> 2.3.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1387,8 +1111,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationAdministration">UKCore-MedicationAdministration</a></td>
@@ -1396,8 +1118,6 @@
   <td> 2.3.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1407,8 +1127,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationRequest">UKCore-MedicationRequest</a></td>
@@ -1416,8 +1134,6 @@
   <td> 2.5.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1427,8 +1143,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MessageHeader">UKCore-MessageHeader</a></td>
@@ -1436,8 +1150,6 @@
   <td> 2.4.0 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1447,8 +1159,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-ACVPU">UKCore-Observation-ACVPU</a></td>
@@ -1456,8 +1166,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1467,8 +1175,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-AverageBloodPressure">UKCore-Observation-AverageBloodPressure</a></td>
@@ -1476,8 +1182,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1487,8 +1191,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-EarlyWarningTotalScore">UKCore-Observation-EarlyWarningTotalScore</a></td>
@@ -1496,8 +1198,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1507,8 +1207,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-InspiredOxygen">UKCore-Observation-InspiredOxygen</a></td>
@@ -1516,8 +1214,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1527,8 +1223,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-TobaccoConsumption">UKCore-Observation-TobaccoConsumption</a></td>
@@ -1536,8 +1230,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1547,8 +1239,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-BMI">UKCore-Observation-VitalSigns-BMI</a></td>
@@ -1556,8 +1246,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1567,8 +1255,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-BodyHeight">UKCore-Observation-VitalSigns-BodyHeight</a></td>
@@ -1576,8 +1262,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1587,8 +1271,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-BodyWeight">UKCore-Observation-VitalSigns-BodyWeight</a></td>
@@ -1596,8 +1278,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1607,8 +1287,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-HeartRate">UKCore-Observation-VitalSigns-HeartRate</a></td>
@@ -1616,8 +1294,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1627,8 +1303,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-RespirationRate">UKCore-Observation-VitalSigns-RespirationRate</a></td>
@@ -1636,8 +1310,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1647,8 +1319,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Organization">UKCore-Organization</a></td>
@@ -1656,8 +1326,6 @@
   <td> 2.5.1 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1667,8 +1335,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Patient">UKCore-Patient</a></td>
@@ -1676,8 +1342,6 @@
   <td> 2.6.1 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1687,8 +1351,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PractitionerRole">UKCore-PractitionerRole</a></td>
@@ -1696,8 +1358,6 @@
   <td> 2.4.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1707,8 +1367,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Provenance">UKCore-Provenance</a></td>
@@ -1716,8 +1374,6 @@
   <td> 1.2.0 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1727,8 +1383,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Questionnaire-EOLPlan-Example">UKCore-Questionnaire-EOLPlan-Example</a></td>
@@ -1736,8 +1390,6 @@
   <td>  </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1747,8 +1399,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Questionnaire-InpatientSurvey-Example">UKCore-Questionnaire-InpatientSurvey-Example</a></td>
@@ -1756,8 +1406,6 @@
   <td>  </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1767,8 +1415,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-RelatedPerson">UKCore-RelatedPerson</a></td>
@@ -1776,8 +1422,6 @@
   <td> 2.5.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1787,8 +1431,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Schedule">UKCore-Schedule</a></td>
@@ -1796,8 +1438,6 @@
   <td> 1.3.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1807,8 +1447,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ServiceRequest-Lab">UKCore-ServiceRequest-Lab</a></td>
@@ -1816,8 +1454,6 @@
   <td> 2.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1827,8 +1463,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Specimen">UKCore-Specimen</a></td>
@@ -1837,8 +1471,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Task">UKCore-Task</a></td>
@@ -1846,8 +1478,6 @@
   <td> 1.2.0 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -1866,8 +1496,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-implementation-guide/England-ChildProtectionPlan">England-ChildProtectionPlan</a></td>
@@ -1875,8 +1503,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
@@ -1886,8 +1512,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-FlagCategoryProgramme">England-FlagCategoryProgramme</a></td>
@@ -1895,8 +1519,6 @@
   <td> 0.3.7 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
@@ -1906,8 +1528,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-FlagCodeRA">England-FlagCodeRA</a></td>
@@ -1915,8 +1535,6 @@
   <td> 0.1.0 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
@@ -1926,8 +1544,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-FlagConditionCode">England-FlagConditionCode</a></td>
@@ -1935,8 +1551,6 @@
   <td> 0.3.7 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
@@ -1946,8 +1560,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-implementation-guide/England-FlagRemovalReason">England-FlagRemovalReason</a></td>
@@ -1955,8 +1567,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
@@ -1966,8 +1576,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-implementation-guide/England-OrganisationRole">England-OrganisationRole</a></td>
@@ -1975,8 +1583,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
@@ -1986,8 +1592,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-implementation-guide/England-TypedDateTime">England-TypedDateTime</a></td>
@@ -1995,8 +1599,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
@@ -2006,8 +1608,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AddressKeyType">UKCore-AddressKeyType</a></td>
@@ -2015,8 +1615,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2026,8 +1624,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AlcoholConsumption">UKCore-AlcoholConsumption</a></td>
@@ -2035,8 +1631,6 @@
   <td> 0.0.1 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2046,8 +1640,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AllergyExposureRoute">UKCore-AllergyExposureRoute</a></td>
@@ -2055,8 +1647,6 @@
   <td> 2.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2066,8 +1656,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AllergySubstance">UKCore-AllergySubstance</a></td>
@@ -2075,8 +1663,6 @@
   <td> 2.2.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2086,8 +1672,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BMI">UKCore-BMI</a></td>
@@ -2095,8 +1679,6 @@
   <td> 1.0.1 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2106,8 +1688,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BirthSex">UKCore-BirthSex</a></td>
@@ -2115,8 +1695,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2126,8 +1704,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BloodPressure">UKCore-BloodPressure</a></td>
@@ -2135,8 +1711,6 @@
   <td> 1.0.1 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2146,8 +1720,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BloodPressure-AverageDiastolic">UKCore-BloodPressure-AverageDiastolic</a></td>
@@ -2155,8 +1727,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2166,8 +1736,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BloodPressure-CuffSize">UKCore-BloodPressure-CuffSize</a></td>
@@ -2175,8 +1743,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2186,8 +1752,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BloodPressure-Diastolic">UKCore-BloodPressure-Diastolic</a></td>
@@ -2195,8 +1759,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2206,8 +1768,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BloodPressure-Systolic">UKCore-BloodPressure-Systolic</a></td>
@@ -2215,8 +1775,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2226,8 +1784,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BodyPosition">UKCore-BodyPosition</a></td>
@@ -2235,8 +1791,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2246,8 +1800,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BodyTemperature">UKCore-BodyTemperature</a></td>
@@ -2255,8 +1807,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2266,8 +1816,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-CareSettingType">UKCore-CareSettingType</a></td>
@@ -2275,8 +1823,6 @@
   <td> 3.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2286,8 +1832,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-CompositionSectionCode">UKCore-CompositionSectionCode</a></td>
@@ -2295,8 +1839,6 @@
   <td> 2.2.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2306,8 +1848,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ConditionCode">UKCore-ConditionCode</a></td>
@@ -2315,8 +1855,6 @@
   <td> 2.2.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2326,8 +1864,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ConditionEpisodicity">UKCore-ConditionEpisodicity</a></td>
@@ -2335,8 +1871,6 @@
   <td> 2.2.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2346,8 +1880,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ConsentException">UKCore-ConsentException</a></td>
@@ -2355,8 +1887,6 @@
   <td> 0.0.1 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2366,8 +1896,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DeathNotificationStatus">UKCore-DeathNotificationStatus</a></td>
@@ -2375,8 +1903,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2386,8 +1912,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DeviceType">UKCore-DeviceType</a></td>
@@ -2395,8 +1919,6 @@
   <td> 1.1.0 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2406,8 +1928,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DischargeMethod">UKCore-DischargeMethod</a></td>
@@ -2415,8 +1935,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2426,8 +1944,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EarlyWarningSubScore">UKCore-EarlyWarningSubScore</a></td>
@@ -2435,8 +1951,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2446,8 +1960,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EmergencyCareDischargeStatus">UKCore-EmergencyCareDischargeStatus</a></td>
@@ -2455,8 +1967,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2466,8 +1976,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EncounterType">UKCore-EncounterType</a></td>
@@ -2475,8 +1983,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2486,8 +1992,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-FindingCode">UKCore-FindingCode</a></td>
@@ -2495,8 +1999,6 @@
   <td> 2.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2506,8 +2008,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-GenomeSequencingCategory">UKCore-GenomeSequencingCategory</a></td>
@@ -2515,8 +2015,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2526,8 +2024,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-HeartRate">UKCore-HeartRate</a></td>
@@ -2535,8 +2031,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2546,8 +2040,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ImmunizationAdministrationBodySite">UKCore-ImmunizationAdministrationBodySite</a></td>
@@ -2555,8 +2047,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2566,8 +2056,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-InspiredOxygen">UKCore-InspiredOxygen</a></td>
@@ -2575,8 +2063,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2586,8 +2072,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-LanguageAbilityProficiency">UKCore-LanguageAbilityProficiency</a></td>
@@ -2595,8 +2079,6 @@
   <td> 2.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2606,8 +2088,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-LegalStatusContext">UKCore-LegalStatusContext</a></td>
@@ -2615,8 +2095,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2626,8 +2104,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ListEmptyReasonCode">UKCore-ListEmptyReasonCode</a></td>
@@ -2635,8 +2111,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2646,8 +2120,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationAdministrationCategory">UKCore-MedicationAdministrationCategory</a></td>
@@ -2655,8 +2127,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2666,8 +2136,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationCode">UKCore-MedicationCode</a></td>
@@ -2675,8 +2143,6 @@
   <td> 2.3.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2686,8 +2152,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationDosageRoute">UKCore-MedicationDosageRoute</a></td>
@@ -2695,8 +2159,6 @@
   <td> 2.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2706,8 +2168,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationPrecondition">UKCore-MedicationPrecondition</a></td>
@@ -2715,8 +2175,6 @@
   <td> 1.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2726,8 +2184,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationPrescribingOrganization">UKCore-MedicationPrescribingOrganization</a></td>
@@ -2735,8 +2191,6 @@
   <td> 1.1.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2746,8 +2200,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationRequestCategory">UKCore-MedicationRequestCategory</a></td>
@@ -2755,8 +2207,6 @@
   <td> 1.1.2 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2766,8 +2216,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationStatementCategory">UKCore-MedicationStatementCategory</a></td>
@@ -2775,8 +2223,6 @@
   <td> 1.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2786,8 +2232,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationTradeFamily">UKCore-MedicationTradeFamily</a></td>
@@ -2795,8 +2239,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2806,8 +2248,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MessageHeaderInstruction">UKCore-MessageHeaderInstruction</a></td>
@@ -2815,8 +2255,6 @@
   <td> 1.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2826,8 +2264,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-NHSNumberVerificationStatus">UKCore-NHSNumberVerificationStatus</a></td>
@@ -2835,8 +2271,6 @@
   <td> 2.2.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2846,8 +2280,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ObservationType">UKCore-ObservationType</a></td>
@@ -2855,8 +2287,6 @@
   <td> 2.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2866,8 +2296,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ObservationVitalSignsValue">UKCore-ObservationVitalSignsValue</a></td>
@@ -2875,8 +2303,6 @@
   <td> 1.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2886,8 +2312,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-OrganizationType">UKCore-OrganizationType</a></td>
@@ -2895,8 +2319,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2906,8 +2328,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-OutcomeOfAttendance">UKCore-OutcomeOfAttendance</a></td>
@@ -2915,8 +2335,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2926,8 +2344,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-OxygenSaturation">UKCore-OxygenSaturation</a></td>
@@ -2935,8 +2351,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2946,8 +2360,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PathologyAndLaboratoryMedicineProcedures">UKCore-PathologyAndLaboratoryMedicineProcedures</a></td>
@@ -2955,8 +2367,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2966,8 +2376,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PersonMaritalStatusCode">UKCore-PersonMaritalStatusCode</a></td>
@@ -2975,8 +2383,6 @@
   <td> 2.3.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -2986,8 +2392,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PersonStatedGenderCode">UKCore-PersonStatedGenderCode</a></td>
@@ -2995,8 +2399,6 @@
   <td> 2.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3006,8 +2408,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PractitionerRoleCode">UKCore-PractitionerRoleCode</a></td>
@@ -3015,8 +2415,6 @@
   <td> 1.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3026,8 +2424,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PreferredWrittenCommunicationFormat">UKCore-PreferredWrittenCommunicationFormat</a></td>
@@ -3035,8 +2431,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3046,8 +2440,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ProblemSignificance">UKCore-ProblemSignificance</a></td>
@@ -3055,8 +2447,6 @@
   <td> 1.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3066,8 +2456,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-QuestionnaireQuestionCodes">UKCore-QuestionnaireQuestionCodes</a></td>
@@ -3075,8 +2463,6 @@
   <td> 1.0.0 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3086,8 +2472,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-RecordingSetting">UKCore-RecordingSetting</a></td>
@@ -3095,8 +2479,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3106,8 +2488,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ReportCode">UKCore-ReportCode</a></td>
@@ -3115,8 +2495,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3126,8 +2504,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ResidentialStatus">UKCore-ResidentialStatus</a></td>
@@ -3135,8 +2511,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3146,8 +2520,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-SDSJobRoleName">UKCore-SDSJobRoleName</a></td>
@@ -3155,8 +2527,6 @@
   <td> 2.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3166,8 +2536,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ServiceRequestMethod">UKCore-ServiceRequestMethod</a></td>
@@ -3175,8 +2543,6 @@
   <td> 1.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3186,8 +2552,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-SourceOfAdmission">UKCore-SourceOfAdmission</a></td>
@@ -3195,8 +2559,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3206,8 +2568,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-SpecimenBodySite">UKCore-SpecimenBodySite</a></td>
@@ -3215,8 +2575,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3226,8 +2584,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-SubstanceOrProductAdministrationRoute">UKCore-SubstanceOrProductAdministrationRoute</a></td>
@@ -3235,8 +2591,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3246,8 +2600,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-TreatmentCategory">UKCore-TreatmentCategory</a></td>
@@ -3255,8 +2607,6 @@
   <td> 2.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3266,8 +2616,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-VaccinationProcedure">UKCore-VaccinationProcedure</a></td>
@@ -3275,8 +2623,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3286,8 +2632,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-VaccineCode">UKCore-VaccineCode</a></td>
@@ -3295,8 +2639,6 @@
   <td> 2.2.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3306,8 +2648,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-VitalSignsObservationValue">UKCore-VitalSignsObservationValue</a></td>
@@ -3316,8 +2656,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-implementation-guide/nhsdigital-message-events">nhsdigital-message-events</a></td>
@@ -3325,8 +2663,6 @@
   <td> 1.0.12 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
@@ -3345,8 +2681,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-ConditionCodeRA">England-ConditionCodeRA</a></td>
@@ -3354,8 +2688,6 @@
   <td> 0.4.0 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
@@ -3365,8 +2697,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-FlagCategoryPatient">England-FlagCategoryPatient</a></td>
@@ -3374,8 +2704,6 @@
   <td> 0.4.0 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
@@ -3385,8 +2713,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-implementation-guide/England-HTTPErrorCodes">England-HTTPErrorCodes</a></td>
@@ -3394,8 +2720,6 @@
   <td> 1.0.0 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
@@ -3405,8 +2729,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-implementation-guide/England-MessageReasonBARS">England-MessageReasonBARS</a></td>
@@ -3414,8 +2736,6 @@
   <td> 1.0.0 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
@@ -3425,8 +2745,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-implementation-guide/England-ODSOrganisationRole">England-ODSOrganisationRole</a></td>
@@ -3434,8 +2752,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
@@ -3445,8 +2761,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-implementation-guide/England-ODSRecordUseType">England-ODSRecordUseType</a></td>
@@ -3454,8 +2768,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
@@ -3465,8 +2777,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-implementation-guide/England-PFSPrescriptionOrderingParameter">England-PFSPrescriptionOrderingParameter</a></td>
@@ -3474,8 +2784,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
@@ -3485,8 +2793,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-SDSJobRoleName">England-SDSJobRoleName</a></td>
@@ -3494,8 +2800,6 @@
   <td> 0.0.1 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
@@ -3505,8 +2809,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/NHSDataModelAndDictionary-DischargeDestination">NHSDataModelAndDictionary-DischargeDestination</a></td>
@@ -3514,8 +2816,6 @@
   <td> 2.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3525,8 +2825,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/NHSDataModelAndDictionary-OutcomeOfAttendance">NHSDataModelAndDictionary-OutcomeOfAttendance</a></td>
@@ -3534,8 +2832,6 @@
   <td> 2.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3545,8 +2841,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/NHSDataModelAndDictionary-PersonStatedGenderCode">NHSDataModelAndDictionary-PersonStatedGenderCode</a></td>
@@ -3554,8 +2848,6 @@
   <td> 2.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3565,8 +2857,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AdditionalPersonRelationshipRole">UKCore-AdditionalPersonRelationshipRole</a></td>
@@ -3574,8 +2864,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3585,8 +2873,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AdmissionMethodEngland">UKCore-AdmissionMethodEngland</a></td>
@@ -3594,8 +2880,6 @@
   <td> 1.0.1 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3605,8 +2889,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AppointmentReasonCode">UKCore-AppointmentReasonCode</a></td>
@@ -3614,8 +2896,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3625,8 +2905,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ConditionCategory">UKCore-ConditionCategory</a></td>
@@ -3634,8 +2912,6 @@
   <td> 1.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3645,8 +2921,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ConditionRelationship">UKCore-ConditionRelationship</a></td>
@@ -3654,8 +2928,6 @@
   <td> 1.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3665,8 +2937,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DateTimeType">UKCore-DateTimeType</a></td>
@@ -3674,8 +2944,6 @@
   <td> 2.1.0 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3685,8 +2953,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DeliveryChannel">UKCore-DeliveryChannel</a></td>
@@ -3694,8 +2960,6 @@
   <td> 1.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3705,8 +2969,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DischargeDestinationWales">UKCore-DischargeDestinationWales</a></td>
@@ -3714,8 +2976,6 @@
   <td> 1.0.1 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3725,8 +2985,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DischargeMethodWales">UKCore-DischargeMethodWales</a></td>
@@ -3734,8 +2992,6 @@
   <td> 1.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3745,8 +3001,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EmergencyCareOutcomeOfAttendanceWales">UKCore-EmergencyCareOutcomeOfAttendanceWales</a></td>
@@ -3754,8 +3008,6 @@
   <td> 1.0.1 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3765,8 +3017,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EncounterLocationTypeWales">UKCore-EncounterLocationTypeWales</a></td>
@@ -3774,8 +3024,6 @@
   <td> 1.0.1 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3785,8 +3033,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EthnicCategoryEngland">UKCore-EthnicCategoryEngland</a></td>
@@ -3794,8 +3040,6 @@
   <td> 1.1.1 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3805,8 +3049,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EthnicCategoryWales">UKCore-EthnicCategoryWales</a></td>
@@ -3814,8 +3056,6 @@
   <td> 1.1.1 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3825,8 +3065,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-GenomeSequencingCategory">UKCore-GenomeSequencingCategory</a></td>
@@ -3834,8 +3072,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3845,8 +3081,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ITKResponseCode">UKCore-ITKResponseCode</a></td>
@@ -3854,8 +3088,6 @@
   <td> 1.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3865,8 +3097,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-LanguageAbilityProficiency">UKCore-LanguageAbilityProficiency</a></td>
@@ -3874,8 +3104,6 @@
   <td> 2.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3885,8 +3113,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-LegalStatusClassificationWales">UKCore-LegalStatusClassificationWales</a></td>
@@ -3894,8 +3120,6 @@
   <td> 1.0.1 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3905,8 +3129,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ListEmptyReasonCode">UKCore-ListEmptyReasonCode</a></td>
@@ -3914,8 +3136,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3925,8 +3145,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationAdministrationCategory">UKCore-MedicationAdministrationCategory</a></td>
@@ -3934,8 +3152,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3945,8 +3161,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationPrescribingAgency">UKCore-MedicationPrescribingAgency</a></td>
@@ -3954,8 +3168,6 @@
   <td> 2.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3965,8 +3177,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationPrescribingOrganizationType">UKCore-MedicationPrescribingOrganizationType</a></td>
@@ -3974,8 +3184,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -3985,8 +3193,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationRequestCourseOfTherapy">UKCore-MedicationRequestCourseOfTherapy</a></td>
@@ -3994,8 +3200,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -4005,8 +3209,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationSupplyType">UKCore-MedicationSupplyType</a></td>
@@ -4014,8 +3216,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -4025,8 +3225,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MessageHeaderInstruction">UKCore-MessageHeaderInstruction</a></td>
@@ -4034,8 +3232,6 @@
   <td> 1.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -4045,8 +3241,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-NHSNumberVerificationStatus">UKCore-NHSNumberVerificationStatus</a></td>
@@ -4054,8 +3248,6 @@
   <td> 2.1.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -4065,8 +3257,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-NHSNumberVerificationStatusWales">UKCore-NHSNumberVerificationStatusWales</a></td>
@@ -4074,8 +3264,6 @@
   <td> 1.0.1 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -4085,8 +3273,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-OtherContactSystem">UKCore-OtherContactSystem</a></td>
@@ -4094,8 +3280,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -4105,8 +3289,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-OutcomeOfAttendanceWales">UKCore-OutcomeOfAttendanceWales</a></td>
@@ -4114,8 +3296,6 @@
   <td> 1.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -4125,8 +3305,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PeriodType">UKCore-PeriodType</a></td>
@@ -4134,8 +3312,6 @@
   <td> 1.0.0 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -4145,8 +3321,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PersonMaritalStatusEngland">UKCore-PersonMaritalStatusEngland</a></td>
@@ -4154,8 +3328,6 @@
   <td> 1.1.1 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -4165,8 +3337,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PersonMaritalStatusWales">UKCore-PersonMaritalStatusWales</a></td>
@@ -4174,8 +3344,6 @@
   <td> 1.0.1 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -4185,8 +3353,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PracticeSettingCodeEngland">UKCore-PracticeSettingCodeEngland</a></td>
@@ -4194,8 +3360,6 @@
   <td> 1.0.1 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -4205,8 +3369,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PracticeSettingCodeWales">UKCore-PracticeSettingCodeWales</a></td>
@@ -4214,8 +3376,6 @@
   <td> 1.0.1 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -4225,8 +3385,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PreferredWrittenCommunicationFormat">UKCore-PreferredWrittenCommunicationFormat</a></td>
@@ -4234,8 +3392,6 @@
   <td> 2.1.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -4245,8 +3401,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ProblemSignificance">UKCore-ProblemSignificance</a></td>
@@ -4254,8 +3408,6 @@
   <td> 1.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -4265,8 +3417,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-RecordingSetting">UKCore-RecordingSetting</a></td>
@@ -4274,8 +3424,6 @@
   <td> 1.0.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -4285,8 +3433,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-SDSJobRoleName">UKCore-SDSJobRoleName</a></td>
@@ -4294,8 +3440,6 @@
   <td> 2.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -4305,8 +3449,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ServiceRequestMethod">UKCore-ServiceRequestMethod</a></td>
@@ -4314,8 +3456,6 @@
   <td> 1.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -4325,8 +3465,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-SourceOfAdmissionWales">UKCore-SourceOfAdmissionWales</a></td>
@@ -4334,8 +3472,6 @@
   <td> 1.0.1 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -4345,8 +3481,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-TreatmentCategory">UKCore-TreatmentCategory</a></td>
@@ -4354,8 +3488,6 @@
   <td> 2.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -4365,8 +3497,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-implementation-guide/message-events">message-events</a></td>
@@ -4374,8 +3504,6 @@
   <td> 1.0.19 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
 
 </tr>
 
@@ -4394,8 +3522,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ConditionEpisodicity">UKCore-ConditionEpisodicity</a></td>
@@ -4404,8 +3530,6 @@
 
   <td> retired </td>
 
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MaritalStatus">UKCore-MaritalStatus</a></td>
@@ -4413,8 +3537,6 @@
   <td> 2.0.0 </td>
 
   <td> retired </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
@@ -4433,8 +3555,6 @@
 
   <td> active </td>
 
-  <td> https://simplifier.net/nhs-england-implementation-guide </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-FHIRExamples-Conformance">England-FHIRExamples-Conformance</a></td>
@@ -4442,8 +3562,6 @@
   <td> 3.2.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
@@ -4453,8 +3571,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-ODS-Requirements">England-ODS-Requirements</a></td>
@@ -4462,8 +3578,6 @@
   <td> 0.0.5 </td>
 
   <td> draft </td>
-
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
 
 </tr>
 
@@ -4473,8 +3587,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-PatientFlag-Server-Requirements">England-PatientFlag-Server-Requirements</a></td>
@@ -4483,8 +3595,6 @@
 
   <td> draft </td>
 
-  <td> https://simplifier.net/nhs-england-programme-implementation-guides </td>
-
 </tr>
 
 <td><a href="https://simplifier.net/hl7fhirukcorer4/apim-conformance">apim-conformance</a></td>
@@ -4492,8 +3602,6 @@
   <td> 3.2.0 </td>
 
   <td> active </td>
-
-  <td> https://simplifier.net/hl7fhirukcorer4 </td>
 
 </tr>
 
