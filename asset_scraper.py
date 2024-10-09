@@ -180,7 +180,7 @@ def code_assets(asset,elements, title):
     
 
 def write_section(md_file, title, items):
-    print(f"## {title}s\n\n<div class="status-container">\n<ul>", file=md_file)
+    print(f'''## {title}s\n\n<div class="status-container">\n<ul>''', file=md_file)
     for asset, elements in items.items():
         code_assets(asset, elements, title)
     print(f"</ul></div><br><br>\n\n---\n\n",file=md_file)
