@@ -27,8 +27,6 @@
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-MCED-TestReport">England-MCED-TestReport</a>
-  
-  
   <span class="status draft">draft</span>
 </li>
 
@@ -75,14 +73,10 @@
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Pathology-Report">England-Pathology-Report</a>
-  
-  
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Pathology-Request">England-Pathology-Request</a>
-  
-  
   <span class="status draft">draft</span>
 </li>
 
@@ -117,8 +111,6 @@
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/GPReg-Questionnaire-RegisterGPSurgery-Example">GPReg-Questionnaire-RegisterGPSurgery-Example</a>
-  
-  
   <span class="status draft">draft</span>
 </li>
 
@@ -519,20 +511,14 @@
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Questionnaire-EOLPlan-Example">UKCore-Questionnaire-EOLPlan-Example</a>
-  
-  
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Questionnaire-FitnessForWork-Example">UKCore-Questionnaire-FitnessForWork-Example</a>
-  
-  
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Questionnaire-InpatientSurvey-Example">UKCore-Questionnaire-InpatientSurvey-Example</a>
-  
-  
   <span class="status draft">draft</span>
 </li>
 
@@ -1131,883 +1117,736 @@
 <div class="status-container">
 <ul>
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/ValueSet-England-BodyStructure">England-BodyStructure</a>
-  
   0.0.2
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-implementation-guide/ValueSet-England-ChildProtectionPlan">England-ChildProtectionPlan</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/ValueSet-England-FlagCategoryPatient">England-FlagCategoryPatient</a>
-  
   0.1.0
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/ValueSet-England-FlagCategoryProgramme">England-FlagCategoryProgramme</a>
-  
   0.3.7
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/ValueSet-England-FlagCodeProgramme">England-FlagCodeProgramme</a>
-  
   0.3.7
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/ValueSet-England-FlagCodeRA">England-FlagCodeRA</a>
-  
   0.1.0
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/ValueSet-England-FlagConditionCategory">England-FlagConditionCategory</a>
-  
   0.3.7
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/ValueSet-England-FlagConditionCode">England-FlagConditionCode</a>
-  
   0.3.7
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/ValueSet-England-FlagProvenanceRole">England-FlagProvenanceRole</a>
-  
   0.3.8
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-implementation-guide/ValueSet-England-FlagRemovalReason">England-FlagRemovalReason</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/ValueSet-England-MCEDSignalResult">England-MCEDSignalResult</a>
-  
   0.0.1
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-implementation-guide/ValueSet-England-OrganisationRole">England-OrganisationRole</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-implementation-guide/ValueSet-England-PeriodType">England-PeriodType</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-implementation-guide/ValueSet-England-TypedDateTime">England-TypedDateTime</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ACVPU">UKCore-ACVPU</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-AddressKeyType">UKCore-AddressKeyType</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-AdmissionMethod">UKCore-AdmissionMethod</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-AlcoholConsumption">UKCore-AlcoholConsumption</a>
-  
   0.0.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-AllergyCode">UKCore-AllergyCode</a>
-  
   2.2.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-AllergyExposureRoute">UKCore-AllergyExposureRoute</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-AllergyManifestation">UKCore-AllergyManifestation</a>
-  
   2.2.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-AllergySubstance">UKCore-AllergySubstance</a>
-  
   2.2.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-AppointmentReasonCode">UKCore-AppointmentReasonCode</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-BMI">UKCore-BMI</a>
-  
   1.0.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-BiopsyState">UKCore-BiopsyState</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-BirthSex">UKCore-BirthSex</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-BloodGlucose">UKCore-BloodGlucose</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-BloodPressure">UKCore-BloodPressure</a>
-  
   1.0.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-BloodPressure-Average">UKCore-BloodPressure-Average</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-BloodPressure-AverageDiastolic">UKCore-BloodPressure-AverageDiastolic</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-BloodPressure-AverageSystolic">UKCore-BloodPressure-AverageSystolic</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-BloodPressure-CuffSize">UKCore-BloodPressure-CuffSize</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-BloodPressure-DeviceType">UKCore-BloodPressure-DeviceType</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-BloodPressure-Diastolic">UKCore-BloodPressure-Diastolic</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-BloodPressure-MeasurementMethod">UKCore-BloodPressure-MeasurementMethod</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-BloodPressure-Systolic">UKCore-BloodPressure-Systolic</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-BodyHeightMeasurements">UKCore-BodyHeightMeasurements</a>
-  
   1.0.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-BodyPosition">UKCore-BodyPosition</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-BodySite">UKCore-BodySite</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-BodyTemperature">UKCore-BodyTemperature</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-BodyWeightMeasurements">UKCore-BodyWeightMeasurements</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-CareSettingType">UKCore-CareSettingType</a>
-  
   3.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-CompositionCategory">UKCore-CompositionCategory</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-CompositionSectionCode">UKCore-CompositionSectionCode</a>
-  
   2.2.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ConditionCategory">UKCore-ConditionCategory</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ConditionCode">UKCore-ConditionCode</a>
-  
   2.2.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ConditionEpisode">UKCore-ConditionEpisode</a>
-  
   2.1.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ConditionEpisodicity">UKCore-ConditionEpisodicity</a>
-  
   2.2.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ConditionRelationship">UKCore-ConditionRelationship</a>
-  
   1.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ConsentException">UKCore-ConsentException</a>
-  
   0.0.1
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-DateTimeType">UKCore-DateTimeType</a>
-  
   2.1.0
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-DeathNotificationStatus">UKCore-DeathNotificationStatus</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-DeliveryChannel">UKCore-DeliveryChannel</a>
-  
   1.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-DeviceType">UKCore-DeviceType</a>
-  
   1.1.0
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-DischargeDestination">UKCore-DischargeDestination</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-DischargeMethod">UKCore-DischargeMethod</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-DocumentType">UKCore-DocumentType</a>
-  
   2.2.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-EarlyWarningSubScore">UKCore-EarlyWarningSubScore</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-EarlyWarningTotalScore">UKCore-EarlyWarningTotalScore</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-EmergencyCareDischargeStatus">UKCore-EmergencyCareDischargeStatus</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-EncounterLocationType">UKCore-EncounterLocationType</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-EncounterType">UKCore-EncounterType</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-EthnicCategory">UKCore-EthnicCategory</a>
-  
   2.2.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-FindingCode">UKCore-FindingCode</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-FundingCategory">UKCore-FundingCategory</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-GenomeSequencingCategory">UKCore-GenomeSequencingCategory</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-HeadCircumferenceMeasurements">UKCore-HeadCircumferenceMeasurements</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-HeartRate">UKCore-HeartRate</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-HumanLanguage">UKCore-HumanLanguage</a>
-  
   2.2.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ImmunizationAdministrationBodySite">UKCore-ImmunizationAdministrationBodySite</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ImmunizationExplanationReason">UKCore-ImmunizationExplanationReason</a>
-  
   2.3.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-InspiredOxygen">UKCore-InspiredOxygen</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-LanguageAbilityMode">UKCore-LanguageAbilityMode</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-LanguageAbilityProficiency">UKCore-LanguageAbilityProficiency</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-LegalStatusClassification">UKCore-LegalStatusClassification</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-LegalStatusContext">UKCore-LegalStatusContext</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ListCode">UKCore-ListCode</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ListEmptyReasonCode">UKCore-ListEmptyReasonCode</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ListWarningCode">UKCore-ListWarningCode</a>
-  
   2.2.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-MedicationAdministrationCategory">UKCore-MedicationAdministrationCategory</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-MedicationChangeStatus">UKCore-MedicationChangeStatus</a>
-  
   1.1.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-MedicationCode">UKCore-MedicationCode</a>
-  
   2.3.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-MedicationDosageMethod">UKCore-MedicationDosageMethod</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-MedicationDosageRoute">UKCore-MedicationDosageRoute</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-MedicationForm">UKCore-MedicationForm</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-MedicationPrecondition">UKCore-MedicationPrecondition</a>
-  
   1.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-MedicationPrescribingAgency">UKCore-MedicationPrescribingAgency</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-MedicationPrescribingOrganization">UKCore-MedicationPrescribingOrganization</a>
-  
   1.1.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-MedicationPrescribingOrganizationType">UKCore-MedicationPrescribingOrganizationType</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-MedicationRequestCategory">UKCore-MedicationRequestCategory</a>
-  
   1.1.2
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-MedicationRequestCourseOfTherapy">UKCore-MedicationRequestCourseOfTherapy</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-MedicationStatementCategory">UKCore-MedicationStatementCategory</a>
-  
   1.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-MedicationSupplyType">UKCore-MedicationSupplyType</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-MedicationTradeFamily">UKCore-MedicationTradeFamily</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-MessageEvent">UKCore-MessageEvent</a>
-  
   2.2.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-MessageHeaderInstruction">UKCore-MessageHeaderInstruction</a>
-  
   1.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-NHSNumberUnavailableReason">UKCore-NHSNumberUnavailableReason</a>
-  
   1.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-NHSNumberVerificationStatus">UKCore-NHSNumberVerificationStatus</a>
-  
   2.2.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ObservationMethod">UKCore-ObservationMethod</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ObservationType">UKCore-ObservationType</a>
-  
   2.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ObservationVitalSignsType">UKCore-ObservationVitalSignsType</a>
-  
   1.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ObservationVitalSignsValue">UKCore-ObservationVitalSignsValue</a>
-  
   1.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-OperationOutcomeIssueDetails">UKCore-OperationOutcomeIssueDetails</a>
-  
   1.1.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-OrganizationType">UKCore-OrganizationType</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-OtherContactSystem">UKCore-OtherContactSystem</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-OutcomeOfAttendance">UKCore-OutcomeOfAttendance</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-OverseasVisitorChargingCategory">UKCore-OverseasVisitorChargingCategory</a>
-  
   1.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-OxygenSaturation">UKCore-OxygenSaturation</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-PathologyAndLaboratoryMedicineObservables">UKCore-PathologyAndLaboratoryMedicineObservables</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-PathologyAndLaboratoryMedicineProcedures">UKCore-PathologyAndLaboratoryMedicineProcedures</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-PeriodType">UKCore-PeriodType</a>
-  
   1.0.0
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-PersonMaritalStatusCode">UKCore-PersonMaritalStatusCode</a>
-  
   2.3.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-PersonRelationshipType">UKCore-PersonRelationshipType</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-PersonStatedGenderCode">UKCore-PersonStatedGenderCode</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-PracticeSettingCode">UKCore-PracticeSettingCode</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-PractitionerRoleCode">UKCore-PractitionerRoleCode</a>
-  
   1.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-PreferredContactMethod">UKCore-PreferredContactMethod</a>
-  
   2.2.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-PreferredWrittenCommunicationFormat">UKCore-PreferredWrittenCommunicationFormat</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-PrescriptionType">UKCore-PrescriptionType</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ProblemSignificance">UKCore-ProblemSignificance</a>
-  
   1.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ProcedureCode">UKCore-ProcedureCode</a>
-  
   2.2.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-QuestionnaireQuestionCodes">UKCore-QuestionnaireQuestionCodes</a>
-  
   1.0.0
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ReasonImmunizationNotAdministered">UKCore-ReasonImmunizationNotAdministered</a>
-  
   2.2.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-RecordingSetting">UKCore-RecordingSetting</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ReligiousAffiliation">UKCore-ReligiousAffiliation</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ReportCode">UKCore-ReportCode</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ReportCodeSnCT">UKCore-ReportCodeSnCT</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ResidentialStatus">UKCore-ResidentialStatus</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-RespirationRate">UKCore-RespirationRate</a>
-  
   1.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-SDSJobRoleName">UKCore-SDSJobRoleName</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-SampleCategory">UKCore-SampleCategory</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ServiceRequestMethod">UKCore-ServiceRequestMethod</a>
-  
   1.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-ServiceRequestReasonCode">UKCore-ServiceRequestReasonCode</a>
-  
   1.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-SourceOfAdmission">UKCore-SourceOfAdmission</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-SourceOfServiceRequest">UKCore-SourceOfServiceRequest</a>
-  
   1.2.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-SpecimenBodySite">UKCore-SpecimenBodySite</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-SpecimenType">UKCore-SpecimenType</a>
-  
   2.2.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-SubstanceOrProductAdministrationRoute">UKCore-SubstanceOrProductAdministrationRoute</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-TobaccoConsumption">UKCore-TobaccoConsumption</a>
-  
   0.0.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-TreatmentCategory">UKCore-TreatmentCategory</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-UnifiedTestList">UKCore-UnifiedTestList</a>
-  
   1.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-VaccinationProcedure">UKCore-VaccinationProcedure</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-VaccinationProcedureSupplementary">UKCore-VaccinationProcedureSupplementary</a>
-  
   2.1.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-VaccineCode">UKCore-VaccineCode</a>
-  
   2.2.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-VitalSignsObservationType">UKCore-VitalSignsObservationType</a>
-  
   2.0.1
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/ValueSet-UKCore-VitalSignsObservationValue">UKCore-VitalSignsObservationValue</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-implementation-guide/ValueSet-nhsdigital-message-events">nhsdigital-message-events</a>
-  
   1.0.12
   <span class="status draft">draft</span>
 </li>
@@ -2022,625 +1861,521 @@
 <div class="status-container">
 <ul>
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/CodeSystem-England-ConditionCategoryRA">England-ConditionCategoryRA</a>
-  
   0.4.0
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/CodeSystem-England-ConditionCodeRA">England-ConditionCodeRA</a>
-  
   0.4.0
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-implementation-guide/CodeSystem-England-FGMRemovalReason">England-FGMRemovalReason</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/CodeSystem-England-FlagCategoryPatient">England-FlagCategoryPatient</a>
-  
   0.4.0
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/CodeSystem-England-FlagCategoryRA">England-FlagCategoryRA</a>
-  
   0.4.0
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-implementation-guide/CodeSystem-England-HTTPErrorCodes">England-HTTPErrorCodes</a>
-  
   1.0.0
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-implementation-guide/CodeSystem-England-MessageEventsBARS">England-MessageEventsBARS</a>
-  
   1.0.0
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-implementation-guide/CodeSystem-England-MessageReasonBARS">England-MessageReasonBARS</a>
-  
   1.0.0
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-implementation-guide/CodeSystem-England-ODSDateTime">England-ODSDateTime</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-implementation-guide/CodeSystem-England-ODSOrganisationRole">England-ODSOrganisationRole</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-implementation-guide/CodeSystem-England-ODSRecordClass">England-ODSRecordClass</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-implementation-guide/CodeSystem-England-ODSRecordUseType">England-ODSRecordUseType</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-implementation-guide/CodeSystem-England-ODSRelationship">England-ODSRelationship</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-implementation-guide/CodeSystem-England-PFSPrescriptionOrderingParameter">England-PFSPrescriptionOrderingParameter</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-implementation-guide/CodeSystem-England-PeriodType">England-PeriodType</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/CodeSystem-England-SDSJobRoleName">England-SDSJobRoleName</a>
-  
   0.0.1
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-NHSDataModelAndDictionary-AdmissionMethod">NHSDataModelAndDictionary-AdmissionMethod</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-NHSDataModelAndDictionary-DischargeDestination">NHSDataModelAndDictionary-DischargeDestination</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-NHSDataModelAndDictionary-DischargeMethod">NHSDataModelAndDictionary-DischargeMethod</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-NHSDataModelAndDictionary-OutcomeOfAttendance">NHSDataModelAndDictionary-OutcomeOfAttendance</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-NHSDataModelAndDictionary-PersonMaritalStatusCode">NHSDataModelAndDictionary-PersonMaritalStatusCode</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-NHSDataModelAndDictionary-PersonStatedGenderCode">NHSDataModelAndDictionary-PersonStatedGenderCode</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-NHSDataModelAndDictionary-SourceOfAdmission">NHSDataModelAndDictionary-SourceOfAdmission</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-AdditionalPersonRelationshipRole">UKCore-AdditionalPersonRelationshipRole</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-AddressKeyType">UKCore-AddressKeyType</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-AdmissionMethodEngland">UKCore-AdmissionMethodEngland</a>
-  
   1.0.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-AdmissionMethodWales">UKCore-AdmissionMethodWales</a>
-  
   1.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-AppointmentReasonCode">UKCore-AppointmentReasonCode</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-BiopsyState">UKCore-BiopsyState</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-ConditionCategory">UKCore-ConditionCategory</a>
-  
   1.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-ConditionEpisodicity">UKCore-ConditionEpisodicity</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-ConditionRelationship">UKCore-ConditionRelationship</a>
-  
   1.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-ConsentUpdateMode">UKCore-ConsentUpdateMode</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-DateTimeType">UKCore-DateTimeType</a>
-  
   2.1.0
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-DeathNotificationStatus">UKCore-DeathNotificationStatus</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-DeliveryChannel">UKCore-DeliveryChannel</a>
-  
   1.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-DischargeDestinationEngland">UKCore-DischargeDestinationEngland</a>
-  
   1.0.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-DischargeDestinationWales">UKCore-DischargeDestinationWales</a>
-  
   1.0.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-DischargeMethodEngland">UKCore-DischargeMethodEngland</a>
-  
   1.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-DischargeMethodWales">UKCore-DischargeMethodWales</a>
-  
   1.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-EPSIssueCode">UKCore-EPSIssueCode</a>
-  
   1.1.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-EmergencyCareOutcomeOfAttendanceWales">UKCore-EmergencyCareOutcomeOfAttendanceWales</a>
-  
   1.0.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-EncounterLocationTypeEngland">UKCore-EncounterLocationTypeEngland</a>
-  
   1.0.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-EncounterLocationTypeWales">UKCore-EncounterLocationTypeWales</a>
-  
   1.0.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-EthnicCategory">UKCore-EthnicCategory</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-EthnicCategoryEngland">UKCore-EthnicCategoryEngland</a>
-  
   1.1.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-EthnicCategoryScotland">UKCore-EthnicCategoryScotland</a>
-  
   1.1.1
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-EthnicCategoryWales">UKCore-EthnicCategoryWales</a>
-  
   1.1.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-FundingCategory">UKCore-FundingCategory</a>
-  
   2.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-GenomeSequencingCategory">UKCore-GenomeSequencingCategory</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-HumanLanguage">UKCore-HumanLanguage</a>
-  
   2.1.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-ITKResponseCode">UKCore-ITKResponseCode</a>
-  
   1.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-LanguageAbilityMode">UKCore-LanguageAbilityMode</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-LanguageAbilityProficiency">UKCore-LanguageAbilityProficiency</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-LegalStatusClassificationEngland">UKCore-LegalStatusClassificationEngland</a>
-  
   1.0.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-LegalStatusClassificationWales">UKCore-LegalStatusClassificationWales</a>
-  
   1.0.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-LegalStatusContext">UKCore-LegalStatusContext</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-ListEmptyReasonCode">UKCore-ListEmptyReasonCode</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-ListWarningCode">UKCore-ListWarningCode</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-MedicationAdministrationCategory">UKCore-MedicationAdministrationCategory</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-MedicationChangeStatus">UKCore-MedicationChangeStatus</a>
-  
   1.0.1
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-MedicationPrescribingAgency">UKCore-MedicationPrescribingAgency</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-MedicationPrescribingOrganization">UKCore-MedicationPrescribingOrganization</a>
-  
   1.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-MedicationPrescribingOrganizationType">UKCore-MedicationPrescribingOrganizationType</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-MedicationRequestCategory">UKCore-MedicationRequestCategory</a>
-  
   1.1.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-MedicationRequestCourseOfTherapy">UKCore-MedicationRequestCourseOfTherapy</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-MedicationStatementCategory">UKCore-MedicationStatementCategory</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-MedicationSupplyType">UKCore-MedicationSupplyType</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-MessageEvent">UKCore-MessageEvent</a>
-  
   2.1.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-MessageHeaderInstruction">UKCore-MessageHeaderInstruction</a>
-  
   1.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-NHSNumberUnavailableReason">UKCore-NHSNumberUnavailableReason</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-NHSNumberVerificationStatus">UKCore-NHSNumberVerificationStatus</a>
-  
   2.1.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-NHSNumberVerificationStatusEngland">UKCore-NHSNumberVerificationStatusEngland</a>
-  
   1.1.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-NHSNumberVerificationStatusWales">UKCore-NHSNumberVerificationStatusWales</a>
-  
   1.0.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-OrganizationTypeGenomics">UKCore-OrganizationTypeGenomics</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-OtherContactSystem">UKCore-OtherContactSystem</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-OutcomeOfAttendanceEngland">UKCore-OutcomeOfAttendanceEngland</a>
-  
   1.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-OutcomeOfAttendanceWales">UKCore-OutcomeOfAttendanceWales</a>
-  
   1.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-OverseasVisitorChargingCategory">UKCore-OverseasVisitorChargingCategory</a>
-  
   1.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-PeriodType">UKCore-PeriodType</a>
-  
   1.0.0
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-PersonMaritalStatus">UKCore-PersonMaritalStatus</a>
-  
   1.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-PersonMaritalStatusEngland">UKCore-PersonMaritalStatusEngland</a>
-  
   1.1.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-PersonMaritalStatusScotland">UKCore-PersonMaritalStatusScotland</a>
-  
   1.0.1
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-PersonMaritalStatusWales">UKCore-PersonMaritalStatusWales</a>
-  
   1.0.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-PracticeSettingCode">UKCore-PracticeSettingCode</a>
-  
   1.0.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-PracticeSettingCodeEngland">UKCore-PracticeSettingCodeEngland</a>
-  
   1.0.1
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-PracticeSettingCodeScotland">UKCore-PracticeSettingCodeScotland</a>
-  
   1.0.1
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-PracticeSettingCodeWales">UKCore-PracticeSettingCodeWales</a>
-  
   1.0.1
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-PreferredContactMethod">UKCore-PreferredContactMethod</a>
-  
   2.2.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-PreferredWrittenCommunicationFormat">UKCore-PreferredWrittenCommunicationFormat</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-PrescriptionType">UKCore-PrescriptionType</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-ProblemSignificance">UKCore-ProblemSignificance</a>
-  
   1.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-RecordStandardHeadings">UKCore-RecordStandardHeadings</a>
-  
   2.2.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-RecordingSetting">UKCore-RecordingSetting</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-ResidentialStatus">UKCore-ResidentialStatus</a>
-  
   2.1.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-SDSJobRoleName">UKCore-SDSJobRoleName</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-SampleCategory">UKCore-SampleCategory</a>
-  
   2.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-ServiceRequestMethod">UKCore-ServiceRequestMethod</a>
-  
   1.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-SourceOfAdmissionEngland">UKCore-SourceOfAdmissionEngland</a>
-  
   1.0.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-SourceOfAdmissionWales">UKCore-SourceOfAdmissionWales</a>
-  
   1.0.1
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-SpineErrorOrWarningCode">UKCore-SpineErrorOrWarningCode</a>
-  
   1.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-TreatmentCategory">UKCore-TreatmentCategory</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/CodeSystem-UKCore-WithheldIdentityReason">UKCore-WithheldIdentityReason</a>
-  
   0.0.1
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-implementation-guide/CodeSystem-message-events">message-events</a>
-  
   1.0.19
   <span class="status draft">draft</span>
 </li>
@@ -2655,19 +2390,16 @@
 <div class="status-container">
 <ul>
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AdministrativeGender">UKCore-AdministrativeGender</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ConditionEpisodicity">UKCore-ConditionEpisodicity</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MaritalStatus">UKCore-MaritalStatus</a>
-  
   2.0.0
   <span class="status retired">retired</span>
 </li>
@@ -2682,43 +2414,36 @@
 <div class="status-container">
 <ul>
 <li><a href="https://simplifier.net/nhs-england-implementation-guide/apim-conformance">apim-conformance</a>
-  
   1.0.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-FHIRExamples-Conformance">England-FHIRExamples-Conformance</a>
-  
   3.2.0
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-MCED-Requirements">England-MCED-Requirements</a>
-  
   0.0.1
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-ODS-Requirements">England-ODS-Requirements</a>
-  
   0.0.5
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Pathology-Requirements">England-Pathology-Requirements</a>
-  
   0.0.2
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-PatientFlag-Server-Requirements">England-PatientFlag-Server-Requirements</a>
-  
   0.1.0
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/apim-conformance">apim-conformance</a>
-  
   3.2.0
   <span class="status active">active</span>
 </li>
