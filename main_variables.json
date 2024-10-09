@@ -1,10 +1,13 @@
 {
     "asset_elements": [
-        "url",
         "id",
         "version",
         "status",
-        "type",
-        "purpose"
-    ]
+        "url"
+    ],
+    "repo_to_url": {
+        "FHIR-R4-UKCORE-STAGING-MAIN": "https://simplifier.net/hl7fhirukcorer4",
+        "NHSEngland-FHIR-ImplementationGuide": "https://simplifier.net/nhs-england-implementation-guide",
+        "NHSEngland-FHIR-Programme-ImplementationGuide": "https://simplifier.net/nhs-england-programme-implementation-guides"
+    }
 }

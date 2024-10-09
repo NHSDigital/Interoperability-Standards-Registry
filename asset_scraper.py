@@ -80,44 +80,37 @@ global_ignore = []
 
 xml_files, json_files = list_files('.')
 asset_elements = get_variables('main_variables.json', 'asset_elements')
-print(f"json files:{json_files}")
+repo_to_url = get_variables('main_variables.json', 'repo_to_url')
 
 
 for xml_file in xml_files:
     dict_elements = {}
     warnings = []
-    is_asset = True
     filename = xml_file.split('/')[-1].split('.')[0]
     file, warnings = openXMLFile(xml_file, warnings)
+    value, warnings = getXMLElement(file, 'url', warnings)
+    if not value:
+        continue
     for element in asset_elements:
         value, warnings = getXMLElement(file, element, warnings)
-        if element == 'url' and not value:
-            global_ignore.append(filename)
-            is_asset = False
-            continue        
         dict_elements.update({element:value})
-    if is_asset:
-        dict_elements.update({'repo_name': xml_file.split("/")[1]})
-        GlobalUpdates(filename, dict_elements, warnings)
+    dict_elements.update({'repo_name': repo_to_url[xml_file.split("/")[1]]})
+    GlobalUpdates(filename, dict_elements, warnings)
 
 for json_file in json_files:
     dict_elements = {}
     warnings = []
-    is_asset = True
     filename = json_file.split('/')[-1].split('.')[0]
     file, warnings = openJSONFile(json_file, warnings)
+    value, warnings = getJSONElement(file, 'url', warnings)
+    if not value:
+        continue
     for element in asset_elements:
-        value, warnings = getJSONElement(file, element, warnings)
-        if element == 'url' and not value:
-            global_ignore.append(filename)
-            not_asset = True
-            continue       
+        value, warnings = getJSONElement(file, element, warnings) 
         dict_elements.update({element:value})
-    if is_asset:
-        dict_elements.update({'repo_name': xml_file.split("/")[1]})
-        GlobalUpdates(filename, dict_elements, warnings)
+    dict_elements.update({'repo_name': repo_to_url[json_file.split("/")[1]]})
+    GlobalUpdates(filename, dict_elements, warnings)
 
-print(f"global_elements:{global_elements}")
 for key, value in global_warnings.items():
     printWarnings(value, key)
 
@@ -157,11 +150,9 @@ capabilitystatements = dict(sorted(capabilitystatements.items()))
 
 '''Create markdown file'''
 def code_assets(asset,elements):
-    print(f"<tr>\n  <td>{str(asset)}</td>\n", file = md_file)
-    #md_file.write('''<tr>
-    #<td>''')
-    #md_file.write(str(asset)) 
-    #md_file.write('''</td>''')
+    #print(f"<tr>\n  <td>{str(asset)}</td>\n", file = md_file)
+    print(f'''<td><a href="{elements['repo_name']}/{elements['id']}">{elements['id']}</a></td>\n''',file=md_file)
+    print(f"{elements['repo_name']}/{elements['id']}")
     for element,value in elements.items():
         print(f"  <td> {str(value)} </td>\n", file = md_file)
         #md_file.write('''<td>''')
