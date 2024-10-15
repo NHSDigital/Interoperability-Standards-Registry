@@ -149,6 +149,7 @@ for asset, elements in global_elements.items():
             elif 'type' in elements: #ensures that profiles are sorted from examples that contain url
                 print(f"{k}: {elements['type']}")
                 profiles.update({asset:elements})
+print(f"PROFILES: {profiles}")
 profiles_temp = profiles.copy()
 for asset, elements in profiles_temp.items():
     if profiles_temp[asset]['type'].lower() == 'extension':
