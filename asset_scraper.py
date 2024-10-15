@@ -96,7 +96,8 @@ for xml_file in xml_files:
         pass
     for element in asset_elements:
         value, warnings = getXMLElement(file, element, warnings)
-        dict_elements.update({element:value})
+        if value:
+            dict_elements.update({element:value})
     dict_elements.update({'repo_name': repo_to_url[xml_file.split("/")[1]]})
     GlobalUpdates(filename, dict_elements, warnings)
 
@@ -114,8 +115,9 @@ for json_file in json_files:
     except:
         pass
     for element in asset_elements:
-        value, warnings = getJSONElement(file, element, warnings) 
-        dict_elements.update({element:value})
+        value, warnings = getJSONElement(file, element, warnings)
+        if value:
+            dict_elements.update({element:value})
     dict_elements.update({'repo_name': repo_to_url[json_file.split("/")[1]]})
     GlobalUpdates(filename, dict_elements, warnings)
 
