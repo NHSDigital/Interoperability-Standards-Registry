@@ -161,8 +161,13 @@ print(F"EXTENSIONS: {extensions}")
         
 codesystems = dict(sorted(codesystems.items()))
 valuesets = dict(sorted(valuesets.items()))
-#profiles = dict(sorted(profiles.items()))
-profiles = dict(sorted(profiles.items(), key=lambda item: (item[1]['type'], item[0], item[0].count('-'))))
+#profiles = dict(sorted(profiles.items(), key=lambda item: (item[1]['type'], item[0], item[0].count('-'))))
+profiles = dict(sorted(profiles.items(), key=lambda item: (
+    item[1]['type'],                   # 1. Sort by 'type'
+    not item[0].startswith('UKCore'),  # 2. Give priority to 'UKCore' (False < True)
+    item[0],                           # 3. Alphabetically by key
+    item[0].count('-')                 # 4. By dash count in the key
+)))
 conceptmaps = dict(sorted(conceptmaps.items()))
 capabilitystatements = dict(sorted(capabilitystatements.items()))
 searchparameters = dict(sorted(searchparameters.items()))
