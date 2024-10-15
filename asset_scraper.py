@@ -27,17 +27,15 @@ def openJSONFile(file, warnings):
 def getXMLElement(xml_file, element, warnings):
     try:
         return xml_file.findall('./{*}'+element)[0].get('value'), warnings
-    except:
-        warnings.append("\t\t"+element+" - This element is missing")
-        return "", warnings
+    except KeyError:
+        return
 
 
 def getJSONElement(jsonFile, element, warnings):
     try:
         return jsonFile[element], warnings
-    except:
-        warnings.append("\t\t"+element+" - This element is missing")
-    return '',warnings
+    except KeyError:
+        return
 
 
 def printWarnings(warnings, file):
