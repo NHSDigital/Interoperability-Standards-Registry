@@ -177,7 +177,8 @@ def code_assets(asset,elements, title):
     elements.pop('url')
     elements.pop('repo_name')
     elements.pop('id')
-    elements.pop('type')
+    try:
+        elements.pop('type') #used previously for sorting profiles and extensions, now not needed
     for element,value in elements.items():
         if not value:
             continue
