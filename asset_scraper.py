@@ -159,7 +159,7 @@ print(F"EXTENSIONS: {extensions}")
 codesystems = dict(sorted(codesystems.items()))
 valuesets = dict(sorted(valuesets.items()))
 #profiles = dict(sorted(profiles.items()))
-profiles = dict(sorted(profiles.items(), key=lambda item: (item[1]['type'], item[0])))
+profiles = dict(sorted(profiles.items(), key=lambda item: (item[1]['type'], item[0], item[0].count('-'))))
 conceptmaps = dict(sorted(conceptmaps.items()))
 capabilitystatements = dict(sorted(capabilitystatements.items()))
 
