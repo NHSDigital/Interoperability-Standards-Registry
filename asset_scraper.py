@@ -133,6 +133,7 @@ capabilitystatements = {}
 valuesets = {}
 profiles = {}
 extensions = {}
+searchparameters = {}
 for asset, elements in global_elements.items():
     for k,v in elements.items():
         if k=='url':
@@ -144,6 +145,8 @@ for asset, elements in global_elements.items():
                 capabilitystatements.update({asset:elements})
             elif 'valueset' in v.lower():
                 valuesets.update({asset:elements})
+            elif 'searchparameter' in v.lower():
+                searchparameters.update({asset:elements})
             elif 'type' in elements: #ensures that profiles are sorted from examples that contain url
                 print(f"{k}: {elements['type']}")
                 profiles.update({asset:elements})
@@ -162,6 +165,7 @@ valuesets = dict(sorted(valuesets.items()))
 profiles = dict(sorted(profiles.items(), key=lambda item: (item[1]['type'], item[0], item[0].count('-'))))
 conceptmaps = dict(sorted(conceptmaps.items()))
 capabilitystatements = dict(sorted(capabilitystatements.items()))
+searchparameters = dict(sorted(searchparameters.items()))
 
 '''Create markdown file'''
 def code_assets(asset,elements, title):
@@ -201,7 +205,7 @@ write_section(md_file, "ValueSet", valuesets)
 write_section(md_file, "CodeSystem", codesystems)
 write_section(md_file, "ConceptMap", conceptmaps)
 write_section(md_file, "CapabilityStatement", capabilitystatements)
-
+write_section(md_file, "SearchParameter", searchparameters)
 md_file.close()
 
 
