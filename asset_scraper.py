@@ -89,11 +89,10 @@ for xml_file in xml_files:
     url_value = getXMLElement(file, 'url')       
     if not url_value:
         continue
-    try:
-        type_value = getXMLElement(file, 'type')  
+    dict_elements.update({'url':url_value})
+    type_value = getXMLElement(file, 'type')
+    if type_value:
         dict_elements.update({'type':type_value})
-    except:
-        pass
     for element in asset_elements:
         value = getXMLElement(file, element)
         if value:
@@ -109,11 +108,10 @@ for json_file in json_files:
     url_value = getJSONElement(file, 'url')
     if not url_value:
         continue
-    try:
-        type_value = getJSONElement(file, 'type')  
+    dict_elements.update({'url':url_value})
+    type_value = getJSONElement(file, 'type') 
+    if type_value:
         dict_elements.update({'type':type_value})
-    except:
-        pass
     for element in asset_elements:
         value = getJSONElement(file, element)
         if value:
