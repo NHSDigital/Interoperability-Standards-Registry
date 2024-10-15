@@ -146,7 +146,7 @@ for asset, elements in global_elements.items():
                 capabilitystatements.update({asset:elements})
             elif 'valueset' in v.lower():
                 valuesets.update({asset:elements})
-            else:
+            elif 'type' in elements: #ensures that profiles are sorted from examples that contain url
                 profiles.update({asset:elements})
 profiles_temp = profiles.copy()
 for asset, elements in profiles_temp.items():
