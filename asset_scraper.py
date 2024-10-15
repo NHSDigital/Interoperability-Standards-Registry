@@ -179,6 +179,8 @@ def code_assets(asset,elements, title):
     elements.pop('id')
     try:
         elements.pop('type') #used previously for sorting profiles and extensions, now not needed
+    except KeyError:
+        pass
     for element,value in elements.items():
         if not value:
             continue
