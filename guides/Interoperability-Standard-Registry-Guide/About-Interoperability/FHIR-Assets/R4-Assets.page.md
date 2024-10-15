@@ -2,39 +2,6 @@
 
 <div class="status-container">
 <ul>
-<li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-MCED-TestReport">England-MCED-TestReport</a>
-  2023-11-09
-  <span class="status draft">draft</span>
-</li>
-
-<li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Pathology-Report">England-Pathology-Report</a>
-  2024-01-23
-  <span class="status draft">draft</span>
-</li>
-
-<li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Pathology-Request">England-Pathology-Request</a>
-  2024-01-23
-  <span class="status draft">draft</span>
-</li>
-
-<li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/GPReg-Questionnaire-RegisterGPSurgery-Example">GPReg-Questionnaire-RegisterGPSurgery-Example</a>
-  <span class="status draft">draft</span>
-</li>
-
-<li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Questionnaire-EOLPlan-Example">UKCore-Questionnaire-EOLPlan-Example</a>
-  2023-11-13T13:32:13+00:00
-  <span class="status draft">draft</span>
-</li>
-
-<li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Questionnaire-FitnessForWork-Example">UKCore-Questionnaire-FitnessForWork-Example</a>
-  <span class="status draft">draft</span>
-</li>
-
-<li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Questionnaire-InpatientSurvey-Example">UKCore-Questionnaire-InpatientSurvey-Example</a>
-  2023-11-13T11:50:00+00:00
-  <span class="status draft">draft</span>
-</li>
-
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AllergyIntolerance">UKCore-AllergyIntolerance</a>
   AllergyIntolerance
   2.5.0
