@@ -24,16 +24,16 @@ def openJSONFile(file, warnings):
     return jsonFile, warnings
 
 
-def getXMLElement(xml_file, element, warnings):
+def getXMLElement(xml_file, element):
     try:
-        return xml_file.findall('./{*}'+element)[0].get('value'), warnings
+        return xml_file.findall('./{*}'+element)[0].get('value')
     except IndexError:
         return
 
 
-def getJSONElement(jsonFile, element, warnings):
+def getJSONElement(jsonFile, element):
     try:
-        return jsonFile[element], warnings
+        return jsonFile[element]
     except KeyError:
         return
 
@@ -68,7 +68,7 @@ def get_variables(file, attribute):
     warnings = []
     open_file, warnings = openJSONFile(file, warnings)
     global_warnings.update({file:warnings})
-    list, warnings = getJSONElement(open_file, attribute, warnings)
+    list = getJSONElement(open_file, attribute)
     global_warnings.update({str(file)+':'+str(list):warnings})
     return list
     
@@ -86,16 +86,16 @@ for xml_file in xml_files:
     warnings = []
     filename = xml_file.split('/')[-1].split('.')[0]
     file, warnings = openXMLFile(xml_file, warnings)
-    url_value, warnings = getXMLElement(file, 'url', warnings)       
+    url_value = getXMLElement(file, 'url')       
     if not url_value:
         continue
     try:
-        type_value, warnings = getXMLElement(file, 'type', warnings)  
+        type_value = getXMLElement(file, 'type')  
         dict_elements.update({'type':type_value})
     except:
         pass
     for element in asset_elements:
-        value, warnings = getXMLElement(file, element, warnings)
+        value = getXMLElement(file, element)
         if value:
             dict_elements.update({element:value})
     dict_elements.update({'repo_name': repo_to_url[xml_file.split("/")[1]]})
@@ -106,16 +106,16 @@ for json_file in json_files:
     warnings = []
     filename = json_file.split('/')[-1].split('.')[0]
     file, warnings = openJSONFile(json_file, warnings)
-    url_value, warnings = getJSONElement(file, 'url', warnings)
+    url_value = getJSONElement(file, 'url')
     if not url_value:
         continue
     try:
-        type_value, warnings = getJSONElement(file, 'type', warnings)  
+        type_value = getJSONElement(file, 'type')  
         dict_elements.update({'type':type_value})
     except:
         pass
     for element in asset_elements:
-        value, warnings = getJSONElement(file, element, warnings)
+        value = getJSONElement(file, element)
         if value:
             dict_elements.update({element:value})
     dict_elements.update({'repo_name': repo_to_url[json_file.split("/")[1]]})
