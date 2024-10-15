@@ -27,7 +27,7 @@ def openJSONFile(file, warnings):
 def getXMLElement(xml_file, element, warnings):
     try:
         return xml_file.findall('./{*}'+element)[0].get('value'), warnings
-    except KeyError:
+    except IndexError:
         return
 
 
