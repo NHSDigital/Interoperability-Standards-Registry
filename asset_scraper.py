@@ -183,7 +183,7 @@ def code_assets(asset,elements, title):
     elements.pop('repo_name')
     elements.pop('id')
     profile_header = ''
-    if tite == 'Profile' and elements['type'] != profile_header:
+    if title == 'Profile' and elements['type'] != profile_header:
         profile_header = elements['type']
         print(f'''\n###{profile_header}\n''', file=md_file)
     try:
