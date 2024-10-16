@@ -199,7 +199,52 @@ def code_assets(asset,elements, title):
     print(f"</li>\n", file = md_file)
     
 
-def write_section(md_file, title, items):
+def write_section(title, items):
+    page = path+'/'+title+'s.page.md'
+    if os.path.exists(page):
+    os.remove(page)
+    md_file = open(page,"w")
+
+    print('''<label>
+    <input type="checkbox" id="ukcore-checkbox" checked>
+    Show UKCore Items
+    </label>
+    <br>
+    <label>
+    <input type="checkbox" id="nhsengland-checkbox" checked>
+    Show NHSEngland Items
+    </label>
+
+    ''',file=md_file)
+    print('''<script>
+    const ukcoreCheckbox = document.getElementById('ukcore-checkbox');
+    const nhsenglandCheckbox = document.getElementById('nhsengland-checkbox');
+
+    ukcoreCheckbox.addEventListener('change', function() {
+        const ukcoreItems = document.querySelectorAll('.ukcore');
+        ukcoreItems.forEach(item => {
+        if (ukcoreCheckbox.checked) {
+            item.classList.remove('hidden');
+        } else {
+            item.classList.add('hidden');
+        }
+        });
+    });
+
+    nhsenglandCheckbox.addEventListener('change', function() {
+        const nhsenglandItems = document.querySelectorAll('.nhsengland');
+        nhsenglandItems.forEach(item => {
+        if (nhsenglandCheckbox.checked) {
+            item.classList.remove('hidden');
+        } else {
+            item.classList.add('hidden');
+        }
+        });
+    });
+    </script>
+
+    ''',file=md_file)
+
     print(f'''## {title}s\n\n<div class="status-container">\n<ul>\n''', file=md_file)
     profile_header = ''
     for asset, elements in items.items():
@@ -209,59 +254,17 @@ def write_section(md_file, title, items):
         code_assets(asset, elements, title)
     print(f"</ul></div><br><br>\n\n---\n\n",file=md_file)
 
-path = './guides/Interoperability-Standard-Registry-Guide/About-Interoperability/FHIR-Assets/R4-Assets.page.md'
+path = './guides/Interoperability-Standard-Registry-Guide/About-Interoperability/FHIR-Assets/R4-Assets/'
 
-if os.path.exists(path):
-    os.remove(path)
-md_file = open(path,"w")
 
-print('''<label>
-  <input type="checkbox" id="ukcore-checkbox" checked>
-  Show UKCore Items
-</label>
-<br>
-<label>
-  <input type="checkbox" id="nhsengland-checkbox" checked>
-  Show NHSEngland Items
-</label>
 
-''',file=md_file)
-print('''<script>
-  const ukcoreCheckbox = document.getElementById('ukcore-checkbox');
-  const nhsenglandCheckbox = document.getElementById('nhsengland-checkbox');
-
-  ukcoreCheckbox.addEventListener('change', function() {
-    const ukcoreItems = document.querySelectorAll('.ukcore');
-    ukcoreItems.forEach(item => {
-      if (ukcoreCheckbox.checked) {
-        item.classList.remove('hidden');
-      } else {
-        item.classList.add('hidden');
-      }
-    });
-  });
-
-  nhsenglandCheckbox.addEventListener('change', function() {
-    const nhsenglandItems = document.querySelectorAll('.nhsengland');
-    nhsenglandItems.forEach(item => {
-      if (nhsenglandCheckbox.checked) {
-        item.classList.remove('hidden');
-      } else {
-        item.classList.add('hidden');
-      }
-    });
-  });
-</script>
-
-''',file=md_file)
-
-write_section(md_file, "Profile", profiles)
-write_section(md_file, "Extension", extensions)
-write_section(md_file, "ValueSet", valuesets)
-write_section(md_file, "CodeSystem", codesystems)
-write_section(md_file, "ConceptMap", conceptmaps)
-write_section(md_file, "CapabilityStatement", capabilitystatements)
-write_section(md_file, "SearchParameter", searchparameters)
+write_section("Profile", profiles)
+write_section("Extension", extensions)
+write_section("ValueSet", valuesets)
+write_section("CodeSystem", codesystems)
+write_section("ConceptMap", conceptmaps)
+write_section("CapabilityStatement", capabilitystatements)
+write_section("SearchParameter", searchparameters)
 md_file.close()
 
 
