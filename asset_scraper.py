@@ -223,7 +223,9 @@ print('''<label>
 <label>
   <input type="checkbox" id="nhsengland-checkbox" checked>
   Show NHSEngland Items
-</label>''',file=md_file)
+</label>
+
+''',file=md_file)
 print('''<script>
   const ukcoreCheckbox = document.getElementById('ukcore-checkbox');
   const nhsenglandCheckbox = document.getElementById('nhsengland-checkbox');
@@ -249,7 +251,9 @@ print('''<script>
       }
     });
   });
-</script>''',file=md_file)
+</script>
+
+''',file=md_file)
 
 write_section(md_file, "Profile", profiles)
 write_section(md_file, "Extension", extensions)
