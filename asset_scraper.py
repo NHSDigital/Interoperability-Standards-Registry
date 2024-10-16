@@ -174,10 +174,14 @@ searchparameters = dict(sorted(searchparameters.items()))
 
 '''Create markdown file'''
 def code_assets(asset,elements, title):
+    if 'ukcore' in repo_name:
+        list_class = 'ukcore'
+    elif 'england' in repo_name:
+        list_class = 'nhsengland'
     if title == 'ValueSet' or title == 'CodeSystem':
-        print(f'''<li><a href="{elements['repo_name']}/{title}-{elements['id']}">{elements['id']}</a>''',file=md_file)
+        print(f'''<li class="{list_class}"><a href="{elements['repo_name']}/{title}-{elements['id']}">{elements['id']}</a>''',file=md_file)
     else:
-        print(f'''<li><a href="{elements['repo_name']}/{elements['id']}">{elements['id']}</a>''',file=md_file)
+        print(f'''<li class="{list_class}"><a href="{elements['repo_name']}/{elements['id']}">{elements['id']}</a>''',file=md_file)
     elements.pop('url')
     elements.pop('repo_name')
     elements.pop('id')
@@ -210,6 +214,42 @@ path = './guides/Interoperability-Standard-Registry-Guide/About-Interoperability
 if os.path.exists(path):
     os.remove(path)
 md_file = open(path,"w")
+
+print(f'''<label>
+  <input type="checkbox" id="ukcore-checkbox" checked>
+  Show UKCore Items
+</label>
+<br>
+<label>
+  <input type="checkbox" id="nhsengland-checkbox" checked>
+  Show NHSEngland Items
+</label>''',file=md_file)
+print(f'''<script>
+  const ukcoreCheckbox = document.getElementById('ukcore-checkbox');
+  const nhsenglandCheckbox = document.getElementById('nhsengland-checkbox');
+
+  ukcoreCheckbox.addEventListener('change', function() {
+    const ukcoreItems = document.querySelectorAll('.ukcore');
+    ukcoreItems.forEach(item => {
+      if (ukcoreCheckbox.checked) {
+        item.classList.remove('hidden');
+      } else {
+        item.classList.add('hidden');
+      }
+    });
+  });
+
+  nhsenglandCheckbox.addEventListener('change', function() {
+    const nhsenglandItems = document.querySelectorAll('.nhsengland');
+    nhsenglandItems.forEach(item => {
+      if (nhsenglandCheckbox.checked) {
+        item.classList.remove('hidden');
+      } else {
+        item.classList.add('hidden');
+      }
+    });
+  });
+</script>''',file=md_file)
 
 write_section(md_file, "Profile", profiles)
 write_section(md_file, "Extension", extensions)
