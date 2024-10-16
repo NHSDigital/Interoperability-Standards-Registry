@@ -2,6 +2,7 @@
 
 <div class="status-container">
 <ul>
+
 ### AllergyIntolerance
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AllergyIntolerance">UKCore-AllergyIntolerance</a>
@@ -615,6 +616,7 @@
 
 <div class="status-container">
 <ul>
+
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/Extension-England-FlagNotes">Extension-England-FlagNotes</a>
   0.1.0
   2024-02-14
@@ -1146,6 +1148,7 @@
 
 <div class="status-container">
 <ul>
+
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/ValueSet-England-BodyStructure">England-BodyStructure</a>
   0.0.2
   2024-06-18
@@ -2036,6 +2039,7 @@
 
 <div class="status-container">
 <ul>
+
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/CodeSystem-England-ConditionCategoryRA">England-ConditionCategoryRA</a>
   0.4.0
   2024-02-14
@@ -2669,6 +2673,7 @@
 
 <div class="status-container">
 <ul>
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AdministrativeGender">UKCore-AdministrativeGender</a>
   2.0.0
   2021-09-10
@@ -2696,6 +2701,7 @@
 
 <div class="status-container">
 <ul>
+
 <li><a href="https://simplifier.net/nhs-england-implementation-guide/apim-conformance">apim-conformance</a>
   1.0.0
   2022-12-16T00:00:00+00:00
@@ -2747,6 +2753,7 @@
 
 <div class="status-container">
 <ul>
+
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Extension-OrganisationRole-ActiveRoleCode">England-Extension-OrganisationRole-ActiveRoleCode</a>
   0.0.2
   2024-02-14
