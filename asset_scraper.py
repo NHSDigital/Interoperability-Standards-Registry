@@ -202,7 +202,7 @@ def code_assets(asset,elements, title):
 def write_section(title, items):
     page = path+'/'+title+'s.page.md'
     if os.path.exists(page):
-    os.remove(page)
+        os.remove(page)
     md_file = open(page,"w")
 
     print('''<label>
