@@ -174,9 +174,9 @@ searchparameters = dict(sorted(searchparameters.items()))
 
 '''Create markdown file'''
 def code_assets(asset,elements, title):
-    if 'ukcore' in repo_name:
+    if 'ukcore' in elements['repo_name']:
         list_class = 'ukcore'
-    elif 'england' in repo_name:
+    elif 'england' in elements['repo_name']:
         list_class = 'nhsengland'
     if title == 'ValueSet' or title == 'CodeSystem':
         print(f'''<li class="{list_class}"><a href="{elements['repo_name']}/{title}-{elements['id']}">{elements['id']}</a>''',file=md_file)
