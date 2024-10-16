@@ -2,766 +2,605 @@
 
 <div class="status-container">
 <ul>
+### AllergyIntolerance
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AllergyIntolerance">UKCore-AllergyIntolerance</a>
-
-###AllergyIntolerance
-
   2.5.0
   2024-07-11
   <span class="status active">active</span>
 </li>
 
+### Appointment
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Appointment">UKCore-Appointment</a>
-
-###Appointment
-
   1.3.0
   2023-12-12
   <span class="status active">active</span>
 </li>
 
+### AuditEvent
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AuditEvent">UKCore-AuditEvent</a>
-
-###AuditEvent
-
   1.2.0
   2024-07-11
   <span class="status draft">draft</span>
 </li>
 
+### BodyStructure
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-BodyStructure">UKCore-BodyStructure</a>
-
-###BodyStructure
-
   0.0.1
   2024-08-12
   <span class="status draft">draft</span>
 </li>
 
+### Bundle
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Bundle">UKCore-Bundle</a>
-
-###Bundle
-
   2.2.0
   2023-12-16
   <span class="status draft">draft</span>
 </li>
 
+### CarePlan
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-CarePlan">UKCore-CarePlan</a>
-
-###CarePlan
-
   2.2.0
   2024-07-11
   <span class="status draft">draft</span>
 </li>
 
+### CareTeam
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-CareTeam">UKCore-CareTeam</a>
-
-###CareTeam
-
   2.1.0
   2024-07-11
   <span class="status draft">draft</span>
 </li>
 
+### Communication
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Communication">UKCore-Communication</a>
-
-###Communication
-
   2.1.0
   2023-12-12
   <span class="status draft">draft</span>
 </li>
 
+### Composition
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Composition">UKCore-Composition</a>
-
-###Composition
-
   2.4.0
   2023-12-12
   <span class="status active">active</span>
 </li>
 
+### Condition
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Condition">UKCore-Condition</a>
-
-###Condition
-
   2.6.0
   2024-06-07
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Condition-Flag">England-Condition-Flag</a>
-
-###Condition
-
   0.2.0
   2024-06-18
   <span class="status draft">draft</span>
 </li>
 
+### Consent
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Consent">UKCore-Consent</a>
-
-###Consent
-
   2.4.0
   2023-12-16
   <span class="status draft">draft</span>
 </li>
 
+### Device
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Device">UKCore-Device</a>
-
-###Device
-
   1.2.0
   2023-12-12
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Device-BloodPressure">UKCore-Device-BloodPressure</a>
-
-###Device
-
   1.0.0
   2023-09-12
   <span class="status active">active</span>
 </li>
 
+### DiagnosticReport
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DiagnosticReport">UKCore-DiagnosticReport</a>
-
-###DiagnosticReport
-
   2.5.0
   2024-06-07
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DiagnosticReport-Lab">UKCore-DiagnosticReport-Lab</a>
-
-###DiagnosticReport
-
   2.0.1
   2024-07-23
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-DiagnosticReport-MCED">England-DiagnosticReport-MCED</a>
-
-###DiagnosticReport
-
   0.0.1
   2024-03-19
   <span class="status draft">draft</span>
 </li>
 
+### DocumentReference
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-DocumentReference">UKCore-DocumentReference</a>
-
-###DocumentReference
-
   2.2.0
   2024-07-11
   <span class="status draft">draft</span>
 </li>
 
+### Encounter
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Encounter">UKCore-Encounter</a>
-
-###Encounter
-
   2.5.0
   2023-12-12
   <span class="status active">active</span>
 </li>
 
+### EpisodeOfCare
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-EpisodeOfCare">UKCore-EpisodeOfCare</a>
-
-###EpisodeOfCare
-
   2.2.0
   2024-07-11
   <span class="status draft">draft</span>
 </li>
 
+### FamilyMemberHistory
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-FamilyMemberHistory">UKCore-FamilyMemberHistory</a>
-
-###FamilyMemberHistory
-
   1.2.0
   2024-07-11
   <span class="status active">active</span>
 </li>
 
+### Flag
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Flag">UKCore-Flag</a>
-
-###Flag
-
   1.2.0
   2023-12-12
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Flag-PatientFlag">England-Flag-PatientFlag</a>
-
-###Flag
-
   0.3.0
   2024-09-27
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Flag-PatientFlag-Adjustment">England-Flag-PatientFlag-Adjustment</a>
-
-###Flag
-
   0.2.0
   2024-09-27
   <span class="status draft">draft</span>
 </li>
 
+### HealthcareService
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-HealthcareService">UKCore-HealthcareService</a>
-
-###HealthcareService
-
   1.3.0
   2024-07-11
   <span class="status active">active</span>
 </li>
 
+### ImagingStudy
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ImagingStudy">UKCore-ImagingStudy</a>
-
-###ImagingStudy
-
   1.1.0
   2023-12-12
   <span class="status draft">draft</span>
 </li>
 
+### Immunization
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Immunization">UKCore-Immunization</a>
-
-###Immunization
-
   2.4.0
   2023-12-12
   <span class="status active">active</span>
 </li>
+
+### List
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-List">UKCore-List</a>
-
-###List
-
   2.4.0
   2023-12-12
   <span class="status active">active</span>
 </li>
+
+### Location
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Location">UKCore-Location</a>
-
-###Location
-
   2.3.0
   2023-12-12
   <span class="status active">active</span>
 </li>
+
+### Medication
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Medication">UKCore-Medication</a>
-
-###Medication
-
   2.3.0
   2023-12-12
   <span class="status active">active</span>
 </li>
 
+### MedicationAdministration
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationAdministration">UKCore-MedicationAdministration</a>
-
-###MedicationAdministration
-
   2.3.0
   2024-07-11
   <span class="status active">active</span>
 </li>
 
+### MedicationDispense
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationDispense">UKCore-MedicationDispense</a>
-
-###MedicationDispense
-
   2.4.0
   2024-07-11
   <span class="status active">active</span>
 </li>
 
+### MedicationRequest
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationRequest">UKCore-MedicationRequest</a>
-
-###MedicationRequest
-
   2.5.0
   2024-07-11
   <span class="status active">active</span>
 </li>
+
+### MedicationStatement
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MedicationStatement">UKCore-MedicationStatement</a>
-
-###MedicationStatement
-
   2.5.0
   2024-07-11
   <span class="status active">active</span>
 </li>
 
+### MessageHeader
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MessageHeader">UKCore-MessageHeader</a>
-
-###MessageHeader
-
   2.4.0
   2024-07-11
   <span class="status draft">draft</span>
 </li>
 
+### Observation
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation">UKCore-Observation</a>
-
-###Observation
-
   2.5.0
   2023-12-12
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-ACVPU">UKCore-Observation-ACVPU</a>
-
-###Observation
-
   1.0.0
   2023-12-12
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-AlcoholConsumption">UKCore-Observation-AlcoholConsumption</a>
-
-###Observation
-
   1.0.0
   2024-07-11
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-AverageBloodPressure">UKCore-Observation-AverageBloodPressure</a>
-
-###Observation
-
   1.0.0
   2023-12-12
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-BloodGlucose">UKCore-Observation-BloodGlucose</a>
-
-###Observation
-
   1.0.0
   2023-12-12
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-EarlyWarningTotalScore">UKCore-Observation-EarlyWarningTotalScore</a>
-
-###Observation
-
   1.0.0
   2023-12-12
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-Group-Lab">UKCore-Observation-Group-Lab</a>
-
-###Observation
-
   2.0.1
   2024-07-23
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-InspiredOxygen">UKCore-Observation-InspiredOxygen</a>
-
-###Observation
-
   1.0.0
   2023-12-12
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-Lab">UKCore-Observation-Lab</a>
-
-###Observation
-
   2.0.1
   2024-07-23
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-TobaccoConsumption">UKCore-Observation-TobaccoConsumption</a>
-
-###Observation
-
   1.0.0
   2024-07-11
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns">UKCore-Observation-VitalSigns</a>
-
-###Observation
-
   1.1.1
   2024-07-23
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-BMI">UKCore-Observation-VitalSigns-BMI</a>
-
-###Observation
-
   1.0.0
   2024-07-11
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-BloodPressure">UKCore-Observation-VitalSigns-BloodPressure</a>
-
-###Observation
-
   1.0.0
   2023-09-12
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-BodyHeight">UKCore-Observation-VitalSigns-BodyHeight</a>
-
-###Observation
-
   1.0.0
   2023-09-12
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-BodyTemperature">UKCore-Observation-VitalSigns-BodyTemperature</a>
-
-###Observation
-
   1.0.0
   2023-09-12
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-BodyWeight">UKCore-Observation-VitalSigns-BodyWeight</a>
-
-###Observation
-
   1.0.0
   2023-09-12
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-HeadCircumference">UKCore-Observation-VitalSigns-HeadCircumference</a>
-
-###Observation
-
   1.0.0
   2023-09-12
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-HeartRate">UKCore-Observation-VitalSigns-HeartRate</a>
-
-###Observation
-
   1.0.0
   2024-07-11
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-OxygenSaturation">UKCore-Observation-VitalSigns-OxygenSaturation</a>
-
-###Observation
-
   1.0.0
   2024-07-11
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Observation-VitalSigns-RespirationRate">UKCore-Observation-VitalSigns-RespirationRate</a>
-
-###Observation
-
   1.0.0
   2024-07-11
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Observation-MCED">England-Observation-MCED</a>
-
-###Observation
-
   0.0.1
   2024-03-22
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Observation-MCED-Result">England-Observation-MCED-Result</a>
-
-###Observation
-
   0.0.1
   2024-03-19
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Observation-MCED-Screening">England-Observation-MCED-Screening</a>
-
-###Observation
-
   0.0.1
   2024-03-19
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Observation-MCED-Site">England-Observation-MCED-Site</a>
-
-###Observation
-
   0.0.2
   2024-03-21
   <span class="status draft">draft</span>
 </li>
 
+### OperationOutcome
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-OperationOutcome">UKCore-OperationOutcome</a>
-
-###OperationOutcome
-
   1.3.0
   2024-07-11
   <span class="status draft">draft</span>
 </li>
 
+### Organization
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Organization">UKCore-Organization</a>
-
-###Organization
-
   2.5.1
   2024-07-23
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Organization-MCED">England-Organization-MCED</a>
-
-###Organization
-
   0.0.1
   2024-03-19
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Organization-ODS">England-Organization-ODS</a>
-
-###Organization
-
   0.0.1
   2024-01-11
   <span class="status draft">draft</span>
 </li>
 
+### OrganizationAffiliation
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-OrganizationAffiliation">UKCore-OrganizationAffiliation</a>
-
-###OrganizationAffiliation
-
   0.0.1
   2024-07-11
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-OrganizationAffiliation-ODS">England-OrganizationAffiliation-ODS</a>
-
-###OrganizationAffiliation
-
   0.0.2
   2024-06-18
   <span class="status draft">draft</span>
 </li>
 
+### Patient
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Patient">UKCore-Patient</a>
-
-###Patient
-
   2.6.1
   2024-07-23
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Patient-MCED">England-Patient-MCED</a>
-
-###Patient
-
   0.0.1
   2024-02-27
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Patient-PDS">England-Patient-PDS</a>
-
-###Patient
-
   0.0.1
   2024-03-05
   <span class="status draft">draft</span>
 </li>
 
+### Practitioner
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Practitioner">UKCore-Practitioner</a>
-
-###Practitioner
-
   2.4.0
   2023-12-12
   <span class="status active">active</span>
 </li>
 
+### PractitionerRole
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-PractitionerRole">UKCore-PractitionerRole</a>
-
-###PractitionerRole
-
   2.4.0
   2024-07-11
   <span class="status active">active</span>
 </li>
 
+### Procedure
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Procedure">UKCore-Procedure</a>
-
-###Procedure
-
   2.5.0
   2023-12-12
   <span class="status active">active</span>
 </li>
 
+### Provenance
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Provenance">UKCore-Provenance</a>
-
-###Provenance
-
   1.2.0
   2023-12-12
   <span class="status draft">draft</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Provenance-Flag">England-Provenance-Flag</a>
-
-###Provenance
-
   0.1.0
   2024-02-14
   <span class="status draft">draft</span>
 </li>
 
+### Questionnaire
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Questionnaire">UKCore-Questionnaire</a>
-
-###Questionnaire
-
   1.3.0
   2023-12-12
   <span class="status draft">draft</span>
 </li>
 
+### QuestionnaireResponse
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-QuestionnaireResponse">UKCore-QuestionnaireResponse</a>
-
-###QuestionnaireResponse
-
   1.2.0
   2024-07-11
   <span class="status draft">draft</span>
 </li>
 
+### RelatedPerson
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-RelatedPerson">UKCore-RelatedPerson</a>
-
-###RelatedPerson
-
   2.5.0
   2024-07-11
   <span class="status active">active</span>
 </li>
 
+### RequestGroup
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-RequestGroup">UKCore-RequestGroup</a>
-
-###RequestGroup
-
   1.0.0
   2024-07-11
   <span class="status draft">draft</span>
 </li>
 
+### Schedule
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Schedule">UKCore-Schedule</a>
-
-###Schedule
-
   1.3.0
   2023-12-12
   <span class="status active">active</span>
 </li>
 
+### ServiceRequest
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ServiceRequest">UKCore-ServiceRequest</a>
-
-###ServiceRequest
-
   2.5.1
   2024-07-23
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ServiceRequest-Lab">UKCore-ServiceRequest-Lab</a>
-
-###ServiceRequest
-
   2.0.0
   2024-07-11
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-ServiceRequestLab-MCED">England-ServiceRequestLab-MCED</a>
-
-###ServiceRequest
-
   0.0.1
   2024-02-27
   <span class="status draft">draft</span>
 </li>
 
+### Slot
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Slot">UKCore-Slot</a>
-
-###Slot
-
   1.3.0
   2023-12-12
   <span class="status active">active</span>
 </li>
 
+### Specimen
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Specimen">UKCore-Specimen</a>
-
-###Specimen
-
   2.4.0
   2023-12-12
   <span class="status active">active</span>
 </li>
 
 <li><a href="https://simplifier.net/nhs-england-programme-implementation-guides/England-Specimen-MCED">England-Specimen-MCED</a>
-
-###Specimen
-
   0.0.1
   2024-02-27
   <span class="status draft">draft</span>
 </li>
 
+### Task
+
 <li><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-Task">UKCore-Task</a>
-
-###Task
-
   1.2.0
   2023-12-12
   <span class="status draft">draft</span>
