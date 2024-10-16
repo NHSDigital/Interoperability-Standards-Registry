@@ -148,16 +148,16 @@ for asset, elements in global_elements.items():
             elif 'searchparameter' in v.lower():
                 searchparameters.update({asset:elements})
             elif 'type' in elements: #ensures that profiles are sorted from examples that contain url
-                print(f"{k}: {elements['type']}")
+                #print(f"{k}: {elements['type']}")
                 profiles.update({asset:elements})
-print(f"PROFILES: {profiles}")
+#print(f"PROFILES: {profiles}")
 profiles_temp = profiles.copy()
 for asset, elements in profiles_temp.items():
     if profiles_temp[asset]['type'].lower() == 'extension':
         extensions.update({asset:elements})
         profiles.pop(asset)
-print(F"PROFILES: {profiles}")
-print(F"EXTENSIONS: {extensions}")
+#print(F"PROFILES: {profiles}")
+#print(F"EXTENSIONS: {extensions}")
         
 codesystems = dict(sorted(codesystems.items()))
 valuesets = dict(sorted(valuesets.items()))
@@ -173,7 +173,7 @@ capabilitystatements = dict(sorted(capabilitystatements.items()))
 searchparameters = dict(sorted(searchparameters.items()))
 
 '''Create markdown file'''
-def code_assets(asset,elements, title):
+def code_assets(asset, elements, title, md_file):
     if 'ukcore' in elements['repo_name']:
         list_class = 'ukcore'
     elif 'england' in elements['repo_name']:
@@ -251,7 +251,7 @@ def write_section(title, items):
         if title == 'Profile' and elements['type'] != profile_header:
             profile_header = elements['type']
             print(f'''### {profile_header}\n''', file=md_file)
-        code_assets(asset, elements, title)
+        code_assets(asset, elements, title, md_file)
     print(f"</ul></div><br><br>\n\n---\n\n",file=md_file)
 
 path = './guides/Interoperability-Standard-Registry-Guide/About-Interoperability/FHIR-Assets/R4-Assets/'
