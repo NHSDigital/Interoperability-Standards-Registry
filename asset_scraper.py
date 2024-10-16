@@ -253,6 +253,7 @@ def write_section(title, items):
             print(f'''### {profile_header}\n''', file=md_file)
         code_assets(asset, elements, title, md_file)
     print(f"</ul></div><br><br>\n\n---\n\n",file=md_file)
+    md_file.close()
 
 path = './guides/Interoperability-Standard-Registry-Guide/About-Interoperability/FHIR-Assets/R4-Assets/'
 
@@ -265,7 +266,7 @@ write_section("CodeSystem", codesystems)
 write_section("ConceptMap", conceptmaps)
 write_section("CapabilityStatement", capabilitystatements)
 write_section("SearchParameter", searchparameters)
-md_file.close()
+
 
 
 
