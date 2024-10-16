@@ -24,20 +24,18 @@ def openJSONFile(file, warnings):
     return jsonFile, warnings
 
 
-def getXMLElement(xml_file, element, warnings):
+def getXMLElement(xml_file, element):
     try:
-        return xml_file.findall('./{*}'+element)[0].get('value'), warnings
-    except:
-        warnings.append("\t\t"+element+" - This element is missing")
-        return "", warnings
+        return xml_file.findall('./{*}'+element)[0].get('value')
+    except IndexError:
+        return
 
 
-def getJSONElement(jsonFile, element, warnings):
+def getJSONElement(jsonFile, element):
     try:
-        return jsonFile[element], warnings
-    except:
-        warnings.append("\t\t"+element+" - This element is missing")
-    return '',warnings
+        return jsonFile[element]
+    except KeyError:
+        return
 
 
 def printWarnings(warnings, file):
@@ -70,7 +68,7 @@ def get_variables(file, attribute):
     warnings = []
     open_file, warnings = openJSONFile(file, warnings)
     global_warnings.update({file:warnings})
-    list, warnings = getJSONElement(open_file, attribute, warnings)
+    list = getJSONElement(open_file, attribute)
     global_warnings.update({str(file)+':'+str(list):warnings})
     return list
     
@@ -88,17 +86,17 @@ for xml_file in xml_files:
     warnings = []
     filename = xml_file.split('/')[-1].split('.')[0]
     file, warnings = openXMLFile(xml_file, warnings)
-    url_value, warnings = getXMLElement(file, 'url', warnings)       
+    url_value = getXMLElement(file, 'url')       
     if not url_value:
         continue
-    try:
-        type_value, warnings = getXMLElement(file, 'type', warnings)  
+    dict_elements.update({'url':url_value})
+    type_value = getXMLElement(file, 'type')
+    if type_value:
         dict_elements.update({'type':type_value})
-    except:
-        pass
     for element in asset_elements:
-        value, warnings = getXMLElement(file, element, warnings)
-        dict_elements.update({element:value})
+        value = getXMLElement(file, element)
+        if value:
+            dict_elements.update({element:value})
     dict_elements.update({'repo_name': repo_to_url[xml_file.split("/")[1]]})
     GlobalUpdates(filename, dict_elements, warnings)
 
@@ -107,17 +105,17 @@ for json_file in json_files:
     warnings = []
     filename = json_file.split('/')[-1].split('.')[0]
     file, warnings = openJSONFile(json_file, warnings)
-    url_value, warnings = getJSONElement(file, 'url', warnings)
+    url_value = getJSONElement(file, 'url')
     if not url_value:
         continue
-    try:
-        type_value, warnings = getJSONElement(file, 'type', warnings)  
+    dict_elements.update({'url':url_value})
+    type_value = getJSONElement(file, 'type') 
+    if type_value:
         dict_elements.update({'type':type_value})
-    except:
-        pass
     for element in asset_elements:
-        value, warnings = getJSONElement(file, element, warnings) 
-        dict_elements.update({element:value})
+        value = getJSONElement(file, element)
+        if value:
+            dict_elements.update({element:value})
     dict_elements.update({'repo_name': repo_to_url[json_file.split("/")[1]]})
     GlobalUpdates(filename, dict_elements, warnings)
 
@@ -135,6 +133,7 @@ capabilitystatements = {}
 valuesets = {}
 profiles = {}
 extensions = {}
+searchparameters = {}
 for asset, elements in global_elements.items():
     for k,v in elements.items():
         if k=='url':
@@ -146,8 +145,12 @@ for asset, elements in global_elements.items():
                 capabilitystatements.update({asset:elements})
             elif 'valueset' in v.lower():
                 valuesets.update({asset:elements})
-            else:
+            elif 'searchparameter' in v.lower():
+                searchparameters.update({asset:elements})
+            elif 'type' in elements: #ensures that profiles are sorted from examples that contain url
+                print(f"{k}: {elements['type']}")
                 profiles.update({asset:elements})
+print(f"PROFILES: {profiles}")
 profiles_temp = profiles.copy()
 for asset, elements in profiles_temp.items():
     if profiles_temp[asset]['type'].lower() == 'extension':
@@ -158,13 +161,19 @@ print(F"EXTENSIONS: {extensions}")
         
 codesystems = dict(sorted(codesystems.items()))
 valuesets = dict(sorted(valuesets.items()))
-profiles = dict(sorted(profiles.items()))
+#profiles = dict(sorted(profiles.items(), key=lambda item: (item[1]['type'], item[0], item[0].count('-'))))
+profiles = dict(sorted(profiles.items(), key=lambda item: (
+    item[1]['type'],                   # 1. Sort by 'type'
+    not item[0].startswith('UKCore'),  # 2. Give priority to 'UKCore' (False < True)
+    item[0],                           # 3. Alphabetically by key
+    item[0].count('-')                 # 4. By dash count in the key
+)))
 conceptmaps = dict(sorted(conceptmaps.items()))
 capabilitystatements = dict(sorted(capabilitystatements.items()))
+searchparameters = dict(sorted(searchparameters.items()))
 
 '''Create markdown file'''
 def code_assets(asset,elements, title):
-    #print(f"<tr>\n  <td>{str(asset)}</td>\n", file = md_file)
     if title == 'ValueSet' or title == 'CodeSystem':
         print(f'''<li><a href="{elements['repo_name']}/{title}-{elements['id']}">{elements['id']}</a>''',file=md_file)
     else:
@@ -172,6 +181,10 @@ def code_assets(asset,elements, title):
     elements.pop('url')
     elements.pop('repo_name')
     elements.pop('id')
+    try:
+        elements.pop('type') #used previously for sorting profiles and extensions, now not needed
+    except KeyError:
+        pass
     for element,value in elements.items():
         if not value:
             continue
@@ -183,8 +196,12 @@ def code_assets(asset,elements, title):
     
 
 def write_section(md_file, title, items):
-    print(f'''## {title}s\n\n<div class="status-container">\n<ul>''', file=md_file)
+    print(f'''## {title}s\n\n<div class="status-container">\n<ul>\n''', file=md_file)
+    profile_header = ''
     for asset, elements in items.items():
+        if title == 'Profile' and elements['type'] != profile_header:
+            profile_header = elements['type']
+            print(f'''### {profile_header}\n''', file=md_file)
         code_assets(asset, elements, title)
     print(f"</ul></div><br><br>\n\n---\n\n",file=md_file)
 
@@ -200,7 +217,7 @@ write_section(md_file, "ValueSet", valuesets)
 write_section(md_file, "CodeSystem", codesystems)
 write_section(md_file, "ConceptMap", conceptmaps)
 write_section(md_file, "CapabilityStatement", capabilitystatements)
-
+write_section(md_file, "SearchParameter", searchparameters)
 md_file.close()
 
 
