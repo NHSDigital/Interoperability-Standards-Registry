@@ -215,7 +215,7 @@ if os.path.exists(path):
     os.remove(path)
 md_file = open(path,"w")
 
-print(f'''<label>
+print('''<label>
   <input type="checkbox" id="ukcore-checkbox" checked>
   Show UKCore Items
 </label>
@@ -224,7 +224,7 @@ print(f'''<label>
   <input type="checkbox" id="nhsengland-checkbox" checked>
   Show NHSEngland Items
 </label>''',file=md_file)
-print(f'''<script>
+print('''<script>
   const ukcoreCheckbox = document.getElementById('ukcore-checkbox');
   const nhsenglandCheckbox = document.getElementById('nhsengland-checkbox');
 
