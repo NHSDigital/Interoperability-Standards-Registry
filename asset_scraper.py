@@ -174,7 +174,6 @@ searchparameters = dict(sorted(searchparameters.items()))
 
 '''Create markdown file'''
 def code_assets(asset,elements, title):
-    #print(f"<tr>\n  <td>{str(asset)}</td>\n", file = md_file)
     if title == 'ValueSet' or title == 'CodeSystem':
         print(f'''<li><a href="{elements['repo_name']}/{title}-{elements['id']}">{elements['id']}</a>''',file=md_file)
     else:
@@ -182,10 +181,6 @@ def code_assets(asset,elements, title):
     elements.pop('url')
     elements.pop('repo_name')
     elements.pop('id')
-    profile_header = ''
-    if title == 'Profile' and elements['type'] != profile_header:
-        profile_header = elements['type']
-        print(f'''\n###{profile_header}\n''', file=md_file)
     try:
         elements.pop('type') #used previously for sorting profiles and extensions, now not needed
     except KeyError:
@@ -202,7 +197,11 @@ def code_assets(asset,elements, title):
 
 def write_section(md_file, title, items):
     print(f'''## {title}s\n\n<div class="status-container">\n<ul>''', file=md_file)
+    profile_header = ''
     for asset, elements in items.items():
+        if title == 'Profile' and elements['type'] != profile_header:
+            profile_header = elements['type']
+            print(f'''### {profile_header}\n''', file=md_file)
         code_assets(asset, elements, title)
     print(f"</ul></div><br><br>\n\n---\n\n",file=md_file)
 
