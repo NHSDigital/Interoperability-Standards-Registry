@@ -42,24 +42,6 @@
 <div class="status-container">
 <ul>
 
-<li class="ukcore"><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-AdministrativeGender">UKCore-AdministrativeGender</a>
-  2.0.0
-  2021-09-10
-  <span class="status retired">retired</span>
-</li>
-
-<li class="ukcore"><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-ConditionEpisodicity">UKCore-ConditionEpisodicity</a>
-  2.0.0
-  2022-12-16
-  <span class="status retired">retired</span>
-</li>
-
-<li class="ukcore"><a href="https://simplifier.net/hl7fhirukcorer4/UKCore-MaritalStatus">UKCore-MaritalStatus</a>
-  2.0.0
-  2021-09-10
-  <span class="status retired">retired</span>
-</li>
-
 </ul></div><br><br>
 
 ---
