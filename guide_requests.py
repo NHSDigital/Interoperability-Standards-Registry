@@ -66,25 +66,19 @@ def sort_ukcore(guides):
     guides = igs.append(other_guides)
     return guides
 
-repo_to_url = get_variables('main_variables.json', 'repo_to_url')
-project_urls = repo_to_url.values()
-print(project_urls)
-
-for url in project_urls:
-    print(url+'/~guides')
-    guides = get_guides(url+'/~guides')
-    if 'hl7uk' in url:
-        guides = sort_ukcore(guides)
-    print(f"url: {list(guides)}\n\n")
 
 '''
 #### Create webpage ####
 This creates the html for the page. Note: it is hard to read, Flask is potentially a better way '''
 
-
+path = './guides/Interoperability-Standard-Registry-Guide/About-Interoperability/FHIR-Guides/'
 
 def guides_to_html(title, guides):
-    print(f'''<div class="container-nhs-pale-grey">\n\n## {title}\n\n</div>\n</br>\n\n''',file=file)
+    page = path+'/'+title+'s.page.md'
+    if os.path.exists(page):
+        os.remove(page)
+    md_file = open(page,"w")
+    print(f'''<div class="container-nhs-pale-grey">\n\n## {project}\n\n</div>\n</br>\n\n''',file=md_file)
     count = 0
     for guide in guides:
         count+=1
@@ -98,4 +92,36 @@ def guides_to_html(title, guides):
         <p class="col-grid-text">{guide[3]}</p>
         </div>
         </div
-        ''',file=file)
+        ''',file=md_file)
+
+repo_to_url = get_variables('main_variables.json', 'repo_to_url')
+project_urls = repo_to_url.values()
+''' TODO get Project title + url from:
+<div class="row">
+                                            
+                                            <header class="col-md-16 col-sm-24" aria-hidden="true">
+                                                <div class="pre-title">
+                                                    
+            Project
+                <span>of <a href="https://simplifier.net/organization/hl7uk">HL7 UK</a></span>
+        
+                                                </div>
+                                                <h1 class="title">
+                                                    <b>HL7 FHIR® UK Core R4 </b>
+                                                </h1> 
+                                                <div class="description">
+                                                    <p>Project for HL7 FHIR® UK Core  R4</p>
+
+                                                </div>
+                                            </header>
+                                            <div class="menu col-md-14 col-sm-24">
+                                                
+                                            </div>
+                                        </div>
+Add it to guides in form dict {project:[guides]} Have two pages, UK Core & NHSE, each with multiple projects. Separate folders with page per project or separate pages with page per project?
+
+for url in project_urls:
+    guides = get_guides(url+'/~guides')
+    if 'hl7uk' in url:
+        guides = sort_ukcore(guides)
+    guides_to_html(title, guides)
