@@ -80,3 +80,22 @@ for url in project_urls:
 '''
 #### Create webpage ####
 This creates the html for the page. Note: it is hard to read, Flask is potentially a better way '''
+
+
+
+def guides_to_html(title, guides):
+    print(f'''<div class="container-nhs-pale-grey">\n\n## {title}\n\n</div>\n</br>\n\n''',file=file)
+    count = 0
+    for guide in guides:
+        count+=1
+        if count%3==0:
+            print("<br>")
+        print(f'''
+        <div class="col-grid">
+        <div class="col-grid-content">
+        <div class="col-grid-body">
+        <h4 class="col-grid-title"><b><a href="{guide[0]}">{guide[1]}</a></b></h4>
+        <p class="col-grid-text">{guide[3]}</p>
+        </div>
+        </div
+        ''',file=file)
