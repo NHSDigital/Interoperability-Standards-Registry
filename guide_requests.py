@@ -1,69 +1,59 @@
-import requests
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
+from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 from asset_scraper import get_variables
 
-def get_new_guides(url):
-    from selenium import webdriver
-from webdriver_manager.chrome import ChromeDriverManager
-from webdriver_manager.core.utils import ChromeType
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
+'''
+Scrapes any project within the main_variables.json file, output is an html page within the registry that includes each IG's title, url, and decription.
+Uses Selenium due to needing to wait until the guides are loaded on the website
 
-chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
+DOCS
+https://www.selenium.dev/selenium/docs/api/py/index.html
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+'''
 
-chrome_options = Options()
-options = [
-    "--headless",
-    "--disable-gpu",
-    "--window-size=1920,1200",
-    "--ignore-certificate-errors",
-    "--disable-extensions",
-    "--no-sandbox",
-    "--disable-dev-shm-usage"
-]
-for option in options:
-    chrome_options.add_argument(option)
-
-driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
-
-driver.get(url)
-return driver.title
-
-get_new_guides('https://simplifier.net/HL7FHIRUKCoreR4/~guides')
 
 def get_guides(url):
-    ### NO LONGER WORKS DUE TO JSCRIPT. USE https://selenium-python.readthedocs.io/ 
-    page = requests.get(url)
-    soup = BeautifulSoup(page.content, "html.parser")
+    ''' Opens Simplifier Guides page for a project and scrapes all IGs for title, url and description. Note that as this does not include login details no private IGS are scraped'''
+    driver = webdriver.Firefox()
+    driver.get(url)
+    
+    # This waits until the urls are loaded before getting webpage which are under class="guides-table-row"
+    timeout = 5
+    try:
+        element_present = EC.presence_of_element_located((By.CLASS_NAME, 'guides-table-row')) # Ensure the relative urls are loaded before getting page
+        WebDriverWait(driver, timeout).until(element_present)
+    except TimeoutException:
+        print ("Timed out waiting for page to load")
+
+    soup = BeautifulSoup(driver.page_source, 'html.parser')
+    driver.close()
     results = soup.find(id="guides")
-    print(f"{url}:{results}\n\n")
 
     title_elements = results.find_all("div", class_="title")
     desc_elements = results.find_all("div", class_="description")
-    tr_tags = results.find_all("tr", onclick=True)
+    relative_urls = [tr['data-url'] for tr in results.find_all("tr", class_="guides-table-row")]
 
     titles = []
     for title in title_elements:
-        titles.append(title.text)
+        titles.append(title.text.strip()) # strips all \n and whitespace
 
     descriptions = []
     for description in desc_elements:
         descriptions.append(description.text)
+    
+    prefix = 'https://simplifier.net'
+    relative_urls = [prefix+x.split('?')[0] for x in relative_urls] #adds prefix and removes ?version=current so that guide opens with 'default'
 
-    relative_urls = []
-    for tr in tr_tags:
-        onclick_value = tr['onclick']
-        link = onclick_value.split('"')[1]
-        relative_urls.append(link)
-    try:
-       titles.pop(0) #remove empty title fond from other part of webpage
-    except:
-       pass
-    print(titles)
-    guides = zip(titles,relative_urls, descriptions) 
+    guides = list(zip(titles,relative_urls, descriptions)) 
     return guides
 
 def sort_ukcore(guides):
+    ''' used to ensure latest uk core stu version is shown at the top '''
     igs = []
     other_guides = []
     for tup in guides:
@@ -76,9 +66,6 @@ def sort_ukcore(guides):
     guides = igs.append(other_guides)
     return guides
 
-'''#### TODO:Import open JSON and getJSON
-Get urls from variables.json ####
-'''
 repo_to_url = get_variables('main_variables.json', 'repo_to_url')
 project_urls = repo_to_url.values()
 print(project_urls)
@@ -90,10 +77,6 @@ for url in project_urls:
         guides = sort_ukcore(guides)
     print(f"url: {list(guides)}\n\n")
 
-'''#### Create webpage ####'''
-
-page = requests.get('https://simplifier.net/HL7FHIRUKCoreR4/~guides')
-soup = BeautifulSoup(page.content, "html.parser")
-results = soup.find(id="guides")
-title_elements = results.find_all("div", class_="title")
-print(title_elements)
+'''
+#### Create webpage ####
+This creates the html for the page. Note: it is hard to read, Flask is potentially a better way '''
