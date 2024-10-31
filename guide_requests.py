@@ -37,10 +37,11 @@ def get_guides(url):
     return soup
 
 def get_attributes(soup, url, guides_dict):
-    organization = soup.find("div", class_="pre-title").find("a")
-    print(organization)
-    project = '<a href='+url+'>'+soup.find("h1", class_="title").text.strip()+'</a>'
-    project_description = soup.find("div", class_="description").text.strip()
+    ''' uses soup results to find header info and guides info. Output is guides_dict in the form {Organisation_name[0]:[description,[project_name[0]:description,[(guide_name[0], guide_relative_url[0], guide description[0]),(...)], ...],...]}. Note that as this does not include login details so no private IGS are scraped'''
+    header = soup.find("header")
+    organization = header.find("div", class_="pre-title").find("a")
+    project = '<a href='+url+'>'+header.find("h1", class_="title").text.strip()+'</a>'
+    project_description = header.find("div", class_="description").text.strip()
 
     results = soup.find(id="guides")
     
@@ -61,9 +62,9 @@ def get_attributes(soup, url, guides_dict):
 
     guides = list(zip(titles,relative_urls, descriptions))
     if organization not in guides_dict.keys():
-        guides_dict.update({organization:[project_description,guides]})
+        guides_dict.update({organization:[{project:[project_description,guides]}]})
     else:
-        guides_dict[organization][1].append(guides)
+        guides_dict[organization].append({project:[project_description,guides]})
     return guides_dict
 
 def sort_ukcore(guides):
@@ -123,6 +124,6 @@ for url in project_urls:
 
 print(f"DICT:{guides_dict}")
 for org, guides in guides_dict.items():
-    if 'uk core' in org.text.lower() and 'stu' not in org.text.lower():
+    if 'uk' in org.text.lower() and 'stu' not in org.text.lower():
         guides[1] = sort_ukcore(guides[1])
     guides_to_html(org, guides)
