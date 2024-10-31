@@ -75,14 +75,14 @@ def sort_ukcore(guides):
     igs = []
     other_guides = []
     for tup in guides:
-        if 'implementation' in tup[0].lower() and 'development' not in tup[0].lower():
+        if 'stu' in tup[0].lower():
             igs.append(tup)
         else:
             other_guides.append(tup)
-    igs = sorted(igs,reverse=True)
-    other_guides = sorted(other_guides)
-    guides = igs+other_guides
-    return guides
+    igs_sorted = sorted(igs,reverse=True)
+    other_guides_sorted = sorted(other_guides)
+    guides_sorted = igs_sorted+other_guides_sorted
+    return guides_sorted
 
 
 '''
