@@ -129,14 +129,8 @@ for url in project_urls:
 
 for org, projects in guides_dict.items():
     if 'uk' in org.text.lower() and 'stu' not in org.text.lower():
-        print(f"{org}:{projects}")
         for project in projects:
             for project_name, guides in project.items():
-                print(f"{project_name}")
-                print(type(project_name))
                 if 'core' in project_name.lower():
-                    print(f"TRUE:{project_name}")
                     guides[1] = sort_ukcore(guides[1])
-                else:
-                    print(f"FALSE:{project_name}")
     guides_to_html(org, guides)
