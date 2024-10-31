@@ -126,9 +126,10 @@ for url in project_urls:
     guides_dict = get_attributes(soup, url, guides_dict)
 
 print(f"DICT:{guides_dict}")
-for org, project in guides_dict.items():
+for org, projects in guides_dict.items():
     if 'uk' in org.text.lower() and 'stu' not in org.text.lower():
-        for proj, guides in project[1].items():
-            if 'core' in proj:
-                guides[1] = sort_ukcore(guides[1])
+        for project in projects
+            for project_name, guides in project.items():
+                if 'core' in proj:
+                    guides[1] = sort_ukcore(guides[1])
     guides_to_html(org, guides)
