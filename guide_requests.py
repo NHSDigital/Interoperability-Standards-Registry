@@ -128,7 +128,7 @@ for url in project_urls:
 print(f"DICT:{guides_dict}")
 for org, projects in guides_dict.items():
     if 'uk' in org.text.lower() and 'stu' not in org.text.lower():
-        for project in projects
+        for project in projects:
             for project_name, guides in project.items():
                 if 'core' in proj:
                     guides[1] = sort_ukcore(guides[1])
