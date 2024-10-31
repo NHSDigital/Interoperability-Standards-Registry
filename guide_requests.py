@@ -134,7 +134,9 @@ for org, projects in guides_dict.items():
             for project_name, guides in project.items():
                 print(f"{project_name}")
                 print(type(project_name))
-                if 'core' in project_name.text.lower():
-                    print(f"guides:{guides}")
+                if 'core' in project_name.lower():
+                    print(f"TRUE:{project_name}")
                     guides[1] = sort_ukcore(guides[1])
+                else:
+                    print(f"FALSE:{project_name}")
     guides_to_html(org, guides)
