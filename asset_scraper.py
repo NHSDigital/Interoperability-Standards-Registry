@@ -3,6 +3,9 @@ import xml.etree.ElementTree as ET
 import json
 import os
 
+global_warnings = {}
+global_elements = {}
+global_ignore = []
 
 def openXMLFile(xml_file,warnings):        
     try:
@@ -158,10 +161,7 @@ def write_section(title, items):
     md_file.close()
 
 if __name__ == "__main__":
-    global_warnings = {}
-    global_elements = {}
-    global_ignore = []
-    
+   
     xml_files, json_files = list_files('.')
     asset_elements = get_variables('main_variables.json', 'asset_elements')
     repo_to_url = get_variables('main_variables.json', 'repo_to_url')
