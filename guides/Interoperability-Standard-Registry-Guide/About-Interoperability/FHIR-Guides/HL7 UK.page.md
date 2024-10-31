@@ -2,7 +2,7 @@
 <div class="container-nhs-pale-grey">
 
 ## <a href="https://simplifier.net/organization/hl7uk">HL7 UK</a>
-Query
+Project for HL7 FHIR® UK Core  R4
 
 </div>
 <br>
