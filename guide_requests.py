@@ -127,11 +127,12 @@ for url in project_urls:
     soup = get_guides(url+'/~guides')
     guides_dict = get_attributes(soup, url, guides_dict)
 
-print(f"DICT:{guides_dict}")
 for org, projects in guides_dict.items():
     if 'uk' in org.text.lower() and 'stu' not in org.text.lower():
+        print(f"{org}:{projects}")
         for project in projects:
             for project_name, guides in project.items():
+                print(f"{guides}")
                 if 'core' in project_name:
                     guides[1] = sort_ukcore(guides[1])
     guides_to_html(org, guides)
