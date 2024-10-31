@@ -79,9 +79,9 @@ def get_variables(file, attribute):
 
 '''Create markdown file'''
 def code_assets(asset, elements, title, md_file):
-    if 'ukcore' in elements['repo_name']:
+    if 'ukcore' in elements['repo_name'].lower():
         list_class = 'ukcore'
-    elif 'england' in elements['repo_name']:
+    else:
         list_class = 'nhsengland'
     if title == 'ValueSet' or title == 'CodeSystem':
         print(f'''<li class="{list_class}"><a href="{elements['repo_name']}/{title}-{elements['id']}">{elements['id']}</a>''',file=md_file)
