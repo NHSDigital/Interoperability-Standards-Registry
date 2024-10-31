@@ -79,11 +79,9 @@ def sort_ukcore(guides):
             igs.append(tup)
         else:
             other_guides.append(tup)
-    print(f"igs: {igs}")
     igs_sorted = sorted(igs,reverse=True)
     other_guides_sorted = sorted(other_guides)
     guides_sorted = igs_sorted+other_guides_sorted
-    print(f"igs_sorted:{igs_sorted}")
     return guides_sorted
 
 
