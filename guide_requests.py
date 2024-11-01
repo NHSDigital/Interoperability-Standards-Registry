@@ -91,7 +91,7 @@ This creates the html for the page. Note: it is hard to read, Flask is potential
 
 path = './guides/Interoperability-Standard-Registry-Guide/About-Interoperability/FHIR-Guides/'
 
-def guides_to_html(org, guides):
+def guides_to_html(org, projects):
     page = str(path+'/'+org.text+'.page.md').replace(" ","-")
     if os.path.exists(page):
         os.remove(page)
@@ -99,13 +99,22 @@ def guides_to_html(org, guides):
     print(f'''
 <div class="container-nhs-pale-grey">
 
-## {org}
-{guides[0]}
+# {org}
+{projects[0]}
 
 </div>
 <br>
-<div class="col-grid">
-''',file=md_file)
+for project, guides in projects[1].items():
+    <div class="container-nhs-pale-grey">
+
+    # {project}
+    {guides[0]}
+    
+    </div>
+    <br>
+    
+    <div class="col-grid">
+    ''',file=md_file)
     for guide in guides[1]:
         print(f'''
 <div class="col-grid-content">
@@ -116,6 +125,8 @@ def guides_to_html(org, guides):
 </div>
 ''',file=md_file)
     print("</div>\n\n---",file=md_file)
+    md_file.close()
+    return
 
 repo_to_url = get_variables('main_variables.json', 'repo_to_url')
 project_urls = repo_to_url.values()
@@ -131,4 +142,4 @@ for org, projects in guides_dict.items():
             for project_name, guides in project.items():
                 if 'core' in project_name.lower():
                     guides[1] = sort_ukcore(guides[1])
-    guides_to_html(org, guides)
+    guides_to_html(org, projects)
