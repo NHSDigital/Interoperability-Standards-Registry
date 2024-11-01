@@ -132,7 +132,7 @@ repo_to_url = get_variables('main_variables.json', 'repo_to_url')
 project_urls = repo_to_url.values()
 
 guides_dict = {}
-print(guides_dict:{guides_dict}\n")
+print(f"guides_dict:{guides_dict}\n")
 for url in project_urls:
     soup = get_guides(url+'/~guides')
     guides_dict = get_attributes(soup, url, guides_dict)
