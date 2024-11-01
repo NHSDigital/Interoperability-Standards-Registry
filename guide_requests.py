@@ -100,7 +100,6 @@ def guides_to_html(org, projects):
 <div class="container-nhs-pale-grey">
 
 # {org}
-{projects[0]}
 
 </div>
 <br>''', file=md_file)
