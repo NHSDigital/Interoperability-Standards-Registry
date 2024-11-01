@@ -43,7 +43,7 @@ def get_attributes(soup, url, guides_dict):
     ''' uses soup results to find header info and guides info. Output is guides_dict in the form {Organisation_name[0]:[description,[project_name[0]:description,[(guide_name[0], guide_relative_url[0], guide description[0]),(...)], ...],...]}. Note that as this does not include login details so no private IGS are scraped'''
     header = soup.find("header")
     organization = header.find("div", class_="pre-title").find("a")
-    project = header.find("h1", class_="title").text.strip()'
+    project = header.find("h1", class_="title").text.strip()
     project_description = header.find("div", class_="description").text.strip()
 
     results = soup.find(id="guides")
