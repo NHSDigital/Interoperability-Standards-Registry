@@ -104,7 +104,7 @@ def guides_to_html(org, projects):
 
 </div>
 <br>
-for project, guides in projects[1]:
+for project, guides in projects[1].items():
     <div class="container-nhs-pale-grey">
 
     # {project}
@@ -115,17 +115,17 @@ for project, guides in projects[1]:
     
     <div class="col-grid">
     ''',file=md_file)
-        for guide in guides[1]:
-            print(f'''
-    <div class="col-grid-content">
-    <div class="col-grid-body">
-        <h4 class="col-grid-title"><b><a href="{guide[1]}">{guide[0]}</a></b></h4>
-        <p class="col-grid-text">{guide[2]}</p>
-    </div>
-    </div>
-    ''',file=md_file)
-        print("</div>\n\n---",file=md_file)
-    md_file.close()
+    for guide in guides[1]:
+        print(f'''
+<div class="col-grid-content">
+<div class="col-grid-body">
+    <h4 class="col-grid-title"><b><a href="{guide[1]}">{guide[0]}</a></b></h4>
+    <p class="col-grid-text">{guide[2]}</p>
+</div>
+</div>
+''',file=md_file)
+    print("</div>\n\n---",file=md_file)
+md_file.close()
 return
 
 repo_to_url = get_variables('main_variables.json', 'repo_to_url')
