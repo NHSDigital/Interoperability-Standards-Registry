@@ -100,23 +100,25 @@ def guides_to_html(org, projects):
 <div class="container-nhs-pale-grey">
 
 # {org}
-{projects[0]}
+
+</div>
+<br>''', file=md_file)
+    for project in projects:
+        for project_name, guides in project.items():
+            print(f'''
+<div class="container-nhs-pale-grey">
+
+## {project_name}
+{guides[0]}
 
 </div>
 <br>
-for project, guides in projects[1].items():
-    <div class="container-nhs-pale-grey">
 
-    # {project}
-    {guides[0]}
-    
-    </div>
-    <br>
-    
-    <div class="col-grid">
+<div class="col-grid">
     ''',file=md_file)
-    for guide in guides[1]:
-        print(f'''
+            
+        for guide in guides[1]:
+            print(f'''
 <div class="col-grid-content">
 <div class="col-grid-body">
     <h4 class="col-grid-title"><b><a href="{guide[1]}">{guide[0]}</a></b></h4>
@@ -125,6 +127,7 @@ for project, guides in projects[1].items():
 </div>
 ''',file=md_file)
     print("</div>\n\n---",file=md_file)
+    
     md_file.close()
     return
 
@@ -135,11 +138,13 @@ guides_dict = {}
 for url in project_urls:
     soup = get_guides(url+'/~guides')
     guides_dict = get_attributes(soup, url, guides_dict)
-
+print(f"guides_dict:{guides_dict}\n")
 for org, projects in guides_dict.items():
     if 'uk' in org.text.lower() and 'stu' not in org.text.lower():
+        print(f"uk in org:{org}\nwith projects:{projects}\n")
         for project in projects:
             for project_name, guides in project.items():
                 if 'core' in project_name.lower():
                     guides[1] = sort_ukcore(guides[1])
+    print(f"org:{org},\nproject:{projects}\n")
     guides_to_html(org, projects)
