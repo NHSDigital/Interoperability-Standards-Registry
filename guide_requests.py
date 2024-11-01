@@ -139,7 +139,7 @@ for url in project_urls:
 
 for org, projects in guides_dict.items():
     if 'uk' in org.text.lower() and 'stu' not in org.text.lower():
-        print(f"uk in project:{project}\n")
+        print(f"uk in org:{org}\nwith projects:{projects}\n")
         for project in projects:
             for project_name, guides in project.items():
                 if 'core' in project_name.lower():
