@@ -103,9 +103,9 @@ def guides_to_html(org, projects):
 <br>''', file=md_file)
     for project in projects:
         for project_name, guides in project.items():
-            project_name_class = project_name.split(
+            project_name_with_class = project_name.split('>')[0]+'<div class="container-nhs-pale-grey">'
             print(f'''
-<div class="container-nhs-pale-grey">
+{project_name_with_class}
 
 {project_name.split('>')[0]+' class="project-banner">'}
 <span class="description">{guides[0]}</span>
