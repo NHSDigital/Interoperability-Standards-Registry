@@ -140,6 +140,6 @@ for org, projects in guides_dict.items():
         for project in projects:
             for project_name, guides in project.items():
                 if 'core' in project_name.lower():
-                    guides[1] = sort_ukcore(guides[1])
+                    guides[2] = sort_ukcore(guides[2])
     print(f"org:{org},\nproject:{projects}\n")
     guides_to_html(org, projects)
