@@ -104,7 +104,7 @@ def guides_to_html(org, projects):
 
 </div>
 <br>''', file=md_file)
-    for project, guides in projects[1].items():
+    for project, guides in projects.items():
         print(f'''
 <div class="container-nhs-pale-grey">
 
