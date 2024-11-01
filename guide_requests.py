@@ -115,20 +115,17 @@ def guides_to_html(org, projects):
 <div class="col-grid">
     ''',file=md_file)
             
-        for guide in guides[1]:
-            print(f'''
+            for guide in guides[1]:
+                print(f'''
 <div class="col-grid-content">
 <div class="col-grid-body">
     <h4 class="col-grid-title"><b><a href="{guide[1]}">{guide[0]}</a></b></h4>
     <p class="col-grid-text">{guide[2]}</p>
 </div>
 </div>
-<br>
 
----
-
-''',file=md_file)
-    print("</div>\n\n---",file=md_file)
+            ''',file=md_file)
+        print("</div>\n\n---\n\n",file=md_file)
     
     md_file.close()
     return
