@@ -92,7 +92,7 @@ This creates the html for the page. Note: it is hard to read, Flask is potential
 path = './guides/Interoperability-Standard-Registry-Guide/About-Interoperability/FHIR-Guides/'
 
 def guides_to_html(org, guides):
-    page = path+'/'+org.text+'.page.md'
+    page = str(path+'/'+org.text+'.page.md').replace(" ","-")
     if os.path.exists(page):
         os.remove(page)
     md_file = open(page,"w")
