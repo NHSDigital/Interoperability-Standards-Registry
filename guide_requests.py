@@ -104,11 +104,12 @@ def guides_to_html(org, projects):
 
 </div>
 <br>''', file=md_file)
-    for project, guides in projects.items():
+    for project in projects:
+    for project_name, guides in project.items():
         print(f'''
 <div class="container-nhs-pale-grey">
 
-# {project}
+# {project_name}
 {guides[0]}
 
 </div>
