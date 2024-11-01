@@ -5,19 +5,13 @@
 <br>
 
 
-<a href=https://simplifier.net/HL7FHIRUKCoreR4 class="project-banner">
-<span class="description">Project for HL7 FHIR® UK Core  R4</span>
+< href="https://simplifier.net/HL7FHIRUKCoreR4 class="project-banner">HL7 FHIR® UK Core R4
+<span class="description">[' ', ' ', ' ', ' ', ' ', ' ', ' ', '4', '7', 'C', 'F', 'H', 'H', 'I', 'K', 'L', 'P', 'R', 'R', 'U', 'c', 'e', 'e', 'f', 'j', 'o', 'o', 'o', 'r', 'r', 'r', 't', '®']</span>
 </a>
 
 <br>
 
 <div class="project-container">
-    
-
-<a href="https://simplifier.net/guide/uk-core-implementation-guide-stu3-sequence" class="child-title">
-<div class="title">UK Core Implementation Guide STU3 Sequence</div>
-<div class="description">Development build of the UK Core for STU3 Sequence </div>
-</a>
     
 
 <a href="https://simplifier.net/guide/uk-core-implementation-guide-stu2" class="child-title">
@@ -26,21 +20,9 @@
 </a>
     
 
-<a href="https://simplifier.net/guide/uk-core-implementation-guide" class="child-title">
-<div class="title">UK Core Implementation Guide 1.0.0 - STU1</div>
-<div class="description">Release 1.0.0 of the UK Core for STU1 Sequence following completion of HL7 UK Ballot 1</div>
-</a>
-    
-
-<a href="https://simplifier.net/guide/hl7fhirukcoredesignanddevelopmentapproach" class="child-title">
-<div class="title">HL7 FHIR® UK Core Design and Development Approach</div>
-<div class="description">A guide outlining the design and development approach adopted for the UK Core.</div>
-</a>
-    
-
-<a href="https://simplifier.net/guide/ukcoreclinicalandtechnicalassurancedocumentationpack" class="child-title">
-<div class="title">UK Core Clinical and Technical Assurance Sprint 7 Documentation Pack</div>
-<div class="description">This is the documentation pack for Sprint 7 of the UK Core Clinical and Technical Assurance.</div>
+<a href="https://simplifier.net/guide/uk-core-implementation-guide-stu3-sequence" class="child-title">
+<div class="title">UK Core Implementation Guide STU3 Sequence</div>
+<div class="description">Development build of the UK Core for STU3 Sequence </div>
 </a>
     
 
@@ -56,9 +38,27 @@
 </a>
     
 
+<a href="https://simplifier.net/guide/uk-core-implementation-guide" class="child-title">
+<div class="title">UK Core Implementation Guide 1.0.0 - STU1</div>
+<div class="description">Release 1.0.0 of the UK Core for STU1 Sequence following completion of HL7 UK Ballot 1</div>
+</a>
+    
+
 <a href="https://simplifier.net/guide/ukcoreimplementationguideassetsindevelopment" class="child-title">
 <div class="title">UK Core Implementation Guide Assets in Development</div>
 <div class="description">This guide identifies those FHIR Assets that are in development and have not yet been through the UK Core Clinical and Technical Assurance process.</div>
+</a>
+    
+
+<a href="https://simplifier.net/guide/hl7fhirukcoredesignanddevelopmentapproach" class="child-title">
+<div class="title">HL7 FHIR® UK Core Design and Development Approach</div>
+<div class="description">A guide outlining the design and development approach adopted for the UK Core.</div>
+</a>
+    
+
+<a href="https://simplifier.net/guide/ukcoreclinicalandtechnicalassurancedocumentationpack" class="child-title">
+<div class="title">UK Core Clinical and Technical Assurance Sprint 7 Documentation Pack</div>
+<div class="description">This is the documentation pack for Sprint 7 of the UK Core Clinical and Technical Assurance.</div>
 </a>
     
 
