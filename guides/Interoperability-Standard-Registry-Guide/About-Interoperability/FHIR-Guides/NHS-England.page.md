@@ -8,7 +8,7 @@
 
 <div class="container-nhs-pale-grey">
 
-# <a href=https://simplifier.net/nhs-england-implementation-guide>NHS England Implementation Guide</a>
+## <a href=https://simplifier.net/nhs-england-implementation-guide>NHS England Implementation Guide</a>
 A UK Core derived Implementation Guide
 
 </div>
@@ -67,7 +67,7 @@ A UK Core derived Implementation Guide
 
 <div class="container-nhs-pale-grey">
 
-# <a href=https://simplifier.net/NHS-England-Programme-Implementation-Guides>NHS England Programme Implementation Guides</a>
+## <a href=https://simplifier.net/NHS-England-Programme-Implementation-Guides>NHS England Programme Implementation Guides</a>
 A project for NHS England FHIR R4 Implementation Guides
 
 </div>

@@ -8,7 +8,7 @@
 
 <div class="container-nhs-pale-grey">
 
-# <a href=https://simplifier.net/HL7FHIRUKCoreR4>HL7 FHIR® UK Core R4</a>
+## <a href=https://simplifier.net/HL7FHIRUKCoreR4>HL7 FHIR® UK Core R4</a>
 Project for HL7 FHIR® UK Core  R4
 
 </div>
