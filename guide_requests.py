@@ -132,14 +132,17 @@ repo_to_url = get_variables('main_variables.json', 'repo_to_url')
 project_urls = repo_to_url.values()
 
 guides_dict = {}
+print(guides_dict:{guides_dict}\n")
 for url in project_urls:
     soup = get_guides(url+'/~guides')
     guides_dict = get_attributes(soup, url, guides_dict)
 
 for org, projects in guides_dict.items():
     if 'uk' in org.text.lower() and 'stu' not in org.text.lower():
+        print(f"uk in project:{project}\n")
         for project in projects:
             for project_name, guides in project.items():
                 if 'core' in project_name.lower():
                     guides[1] = sort_ukcore(guides[1])
+    print(f"org:{org},\nproject:{project}\n")
     guides_to_html(org, projects)
