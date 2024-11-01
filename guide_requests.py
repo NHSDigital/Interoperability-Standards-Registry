@@ -43,7 +43,7 @@ def get_attributes(soup, url, guides_dict):
     ''' uses soup results to find header info and guides info. Output is guides_dict in the form {Organisation_name[0]:[description,[project_name[0]:description,[(guide_name[0], guide_relative_url[0], guide description[0]),(...)], ...],...]}. Note that as this does not include login details so no private IGS are scraped'''
     header = soup.find("header")
     organization = header.find("div", class_="pre-title").find("a")
-    project = '<a href='+url+'>'+header.find("h1", class_="title").text.strip()+'</a>'
+    project = header.find("h1", class_="title").text.strip()'
     project_description = header.find("div", class_="description").text.strip()
 
     results = soup.find(id="guides")
@@ -65,9 +65,9 @@ def get_attributes(soup, url, guides_dict):
 
     guides = list(zip(titles,relative_urls, descriptions))
     if organization not in guides_dict.keys():
-        guides_dict.update({organization:[{project:[project_description,guides]}]})
+        guides_dict.update({organization:[{project:[url,project_description,guides]}]})
     else:
-        guides_dict[organization].append({project:[project_description,guides]})
+        guides_dict[organization].append({project:[url,project_description,guides]})
     return guides_dict
 
 def sort_ukcore(guides):
@@ -105,8 +105,8 @@ def guides_to_html(org, projects):
         for project_name, guides in project.items():
             print(f'''
 
-{project_name.split('>')[0]+' class="project-banner">'}
-<span class="description">{guides[0]}</span>
+< href="{guides[0]+' class="project-banner">'+project_name}
+<span class="description">{guides[1]}</span>
 </a>
 
 <br>
@@ -114,7 +114,7 @@ def guides_to_html(org, projects):
 <div class="project-container">
     ''',file=md_file)
             
-            for guide in guides[1]:
+            for guide in guides[2]:
                 print(f'''
 <a href="{guide[1]}" class="child-title">
 <div class="title">{guide[0]}</div>
