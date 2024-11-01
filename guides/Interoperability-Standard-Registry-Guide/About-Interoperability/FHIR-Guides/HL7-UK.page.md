@@ -21,11 +21,8 @@ Project for HL7 FHIR® UK Core  R4
     <p class="col-grid-text">Development build of the UK Core for STU3 Sequence </p>
 </div>
 </div>
-<br>
 
----
-
-
+            
 
 <div class="col-grid-content">
 <div class="col-grid-body">
@@ -33,11 +30,8 @@ Project for HL7 FHIR® UK Core  R4
     <p class="col-grid-text">The UK Core for STU2 Sequence ballot, by HL7 UK</p>
 </div>
 </div>
-<br>
 
----
-
-
+            
 
 <div class="col-grid-content">
 <div class="col-grid-body">
@@ -45,11 +39,8 @@ Project for HL7 FHIR® UK Core  R4
     <p class="col-grid-text">Release 1.0.0 of the UK Core for STU1 Sequence following completion of HL7 UK Ballot 1</p>
 </div>
 </div>
-<br>
 
----
-
-
+            
 
 <div class="col-grid-content">
 <div class="col-grid-body">
@@ -57,11 +48,8 @@ Project for HL7 FHIR® UK Core  R4
     <p class="col-grid-text">A guide outlining the design and development approach adopted for the UK Core.</p>
 </div>
 </div>
-<br>
 
----
-
-
+            
 
 <div class="col-grid-content">
 <div class="col-grid-body">
@@ -69,11 +57,8 @@ Project for HL7 FHIR® UK Core  R4
     <p class="col-grid-text">This is the documentation pack for Sprint 7 of the UK Core Clinical and Technical Assurance.</p>
 </div>
 </div>
-<br>
 
----
-
-
+            
 
 <div class="col-grid-content">
 <div class="col-grid-body">
@@ -81,11 +66,8 @@ Project for HL7 FHIR® UK Core  R4
     <p class="col-grid-text">This generic hazard logs captures the generic hazards for the UK Core.</p>
 </div>
 </div>
-<br>
 
----
-
-
+            
 
 <div class="col-grid-content">
 <div class="col-grid-body">
@@ -93,11 +75,8 @@ Project for HL7 FHIR® UK Core  R4
     <p class="col-grid-text">This guide provides a directory of information and guidance that will assist implementers of the UK Core.</p>
 </div>
 </div>
-<br>
 
----
-
-
+            
 
 <div class="col-grid-content">
 <div class="col-grid-body">
@@ -105,11 +84,8 @@ Project for HL7 FHIR® UK Core  R4
     <p class="col-grid-text">This guide identifies those FHIR Assets that are in development and have not yet been through the UK Core Clinical and Technical Assurance process.</p>
 </div>
 </div>
-<br>
 
----
-
-
+            
 
 <div class="col-grid-content">
 <div class="col-grid-body">
@@ -117,11 +93,10 @@ Project for HL7 FHIR® UK Core  R4
     <p class="col-grid-text">Version history and development sequences for the UK Core</p>
 </div>
 </div>
-<br>
 
----
-
-
+            
 </div>
 
 ---
+
+
