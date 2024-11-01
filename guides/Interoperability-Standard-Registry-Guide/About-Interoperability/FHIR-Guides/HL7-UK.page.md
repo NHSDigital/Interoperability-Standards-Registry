@@ -5,7 +5,7 @@
 <br>
 
 
-<a href="https://simplifier.net/HL7FHIRUKCoreR4 class="project-banner">HL7 FHIR® UK Core R4
+<a href="https://simplifier.net/HL7FHIRUKCoreR4" class="project-banner">HL7 FHIR® UK Core R4
 <span class="description">[' ', ' ', ' ', ' ', ' ', ' ', ' ', '4', '7', 'C', 'F', 'H', 'H', 'I', 'K', 'L', 'P', 'R', 'R', 'U', 'c', 'e', 'e', 'f', 'j', 'o', 'o', 'o', 'r', 'r', 'r', 't', '®']</span>
 </a>
 

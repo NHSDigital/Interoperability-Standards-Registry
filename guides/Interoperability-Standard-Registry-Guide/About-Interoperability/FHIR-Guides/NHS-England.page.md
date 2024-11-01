@@ -5,7 +5,7 @@
 <br>
 
 
-<a href="https://simplifier.net/nhs-england-implementation-guide class="project-banner">NHS England Implementation Guide
+<a href="https://simplifier.net/nhs-england-implementation-guide" class="project-banner">NHS England Implementation Guide
 <span class="description">A UK Core derived Implementation Guide</span>
 </a>
 
@@ -54,7 +54,7 @@
 
 
 
-<a href="https://simplifier.net/NHS-England-Programme-Implementation-Guides class="project-banner">NHS England Programme Implementation Guides
+<a href="https://simplifier.net/NHS-England-Programme-Implementation-Guides" class="project-banner">NHS England Programme Implementation Guides
 <span class="description">A project for NHS England FHIR R4 Implementation Guides</span>
 </a>
 
