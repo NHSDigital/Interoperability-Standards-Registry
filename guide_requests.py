@@ -105,8 +105,8 @@ def guides_to_html(org, projects):
 </div>
 <br>''', file=md_file)
     for project in projects:
-    for project_name, guides in project.items():
-        print(f'''
+        for project_name, guides in project.items():
+            print(f'''
 <div class="container-nhs-pale-grey">
 
 # {project_name}
@@ -117,6 +117,7 @@ def guides_to_html(org, projects):
 
 <div class="col-grid">
     ''',file=md_file)
+            
         for guide in guides[1]:
             print(f'''
 <div class="col-grid-content">
@@ -127,6 +128,7 @@ def guides_to_html(org, projects):
 </div>
 ''',file=md_file)
     print("</div>\n\n---",file=md_file)
+    
     md_file.close()
     return
 
