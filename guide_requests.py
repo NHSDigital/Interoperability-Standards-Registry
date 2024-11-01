@@ -97,11 +97,9 @@ def guides_to_html(org, projects):
         os.remove(page)
     md_file = open(page,"w")
     print(f'''
-<div class="container-nhs-pale-grey">
 
 # {org}
 
-</div>
 <br>''', file=md_file)
     for project in projects:
         for project_name, guides in project.items():
@@ -125,6 +123,10 @@ def guides_to_html(org, projects):
     <p class="col-grid-text">{guide[2]}</p>
 </div>
 </div>
+<br>
+
+---
+
 ''',file=md_file)
     print("</div>\n\n---",file=md_file)
     
