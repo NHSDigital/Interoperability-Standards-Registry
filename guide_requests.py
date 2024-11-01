@@ -125,7 +125,7 @@ for project, guides in projects[1].items():
 </div>
 ''',file=md_file)
     print("</div>\n\n---",file=md_file)
-md_file.close()
+    md_file.close()
     return
 
 repo_to_url = get_variables('main_variables.json', 'repo_to_url')
