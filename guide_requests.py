@@ -121,7 +121,7 @@ def guides_to_html(org, projects):
 <div class="description">{guide[2]}</div>
 </a>
     ''',file=md_file)
-        print("</div>\n\n",file=md_file)
+        print("</div>\n<b><br>\n\n---\n\n",file=md_file)
     
     md_file.close()
     return
