@@ -2,7 +2,6 @@
 <div class="container-nhs-pale-grey">
 
 # <a href="https://simplifier.net/organization/nhsdigital">NHS England</a>
-{'<a href=https://simplifier.net/nhs-england-implementation-guide>NHS England Implementation Guide</a>': ['A UK Core derived Implementation Guide', [('NHS England Implementation Guide Version History', 'https://simplifier.net/guide/nhs-england-implementation-guide-version-history', 'No description'), ('NHS England Naming Systems', 'https://simplifier.net/guide/nhs-england-naming-systems', 'No description'), ('NHS England Implementation Guidance Directory', 'https://simplifier.net/guide/nhs-england-implementation-guidance-directory', 'No description'), ('NHS England Design and Development Approach', 'https://simplifier.net/guide/nhs-england-design-and-development-approach', 'FHIR Implementation Guide Template 2.0'), ('NHS England Implementation Guide 1.2.0 - STU1', 'https://simplifier.net/guide/nhs-england-implementation-guide-stu1', 'No description'), ('NHS England IG Clinical and Technical Assurance Sprint 2 Documentation Pack', 'https://simplifier.net/guide/nhs-england-ig-clinical-and-technical-assurance-doc-pack', 'No description')]]}
 
 </div>
 <br>
