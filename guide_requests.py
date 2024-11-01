@@ -108,7 +108,7 @@ def guides_to_html(org, projects):
             print(f'''
 <div class="container-nhs-pale-grey">
 
-# {project_name}
+## {project_name}
 {guides[0]}
 
 </div>
