@@ -84,9 +84,11 @@ def code_assets(asset, elements, title, md_file):
     else:
         list_class = 'nhsengland'
     if title == 'ValueSet' or title == 'CodeSystem':
-        print(f'''<li class="{list_class}"><a href="{elements['repo_name']}/{title}-{elements['id']}">{elements['id']}</a>''',file=md_file)
+        print(f'''<a href="{elements['repo_name']}/{title}-{elements['id']}" class="child-title">''',file=md_file)
     else:
-        print(f'''<li class="{list_class}"><a href="{elements['repo_name']}/{elements['id']}">{elements['id']}</a>''',file=md_file)
+        print(f'''<a href="{elements['repo_name']}/{elements['id']}" class="child-title">''',file=md_file)
+    print(f'''<div class="title">{elements['id']}</div>
+<div class="description">''',file=md_file)
     elements.pop('url')
     elements.pop('repo_name')
     elements.pop('id')
@@ -98,10 +100,11 @@ def code_assets(asset, elements, title, md_file):
         if not value:
             continue
         if element == 'status':
-            print(f'''  <span class="status {str(value).lower()}">{str(value)}</span>''', file = md_file)
+            print(f'''<span class="status {str(value).lower()}">{str(value)}</span> &nbsp;&nbsp;&nbsp;&nbsp;''', file = md_file)
         else:
-            print(f"  {str(value)}", file = md_file)
-    print(f"</li>\n", file = md_file)
+            print(f"  {str(value)} &nbsp;&nbsp;&nbsp;&nbsp;", file = md_file)
+    print(f"</div>\n</a>", file = md_file)
+    return
     
 
 def write_section(title, items):
@@ -110,55 +113,18 @@ def write_section(title, items):
         os.remove(page)
     md_file = open(page,"w")
 
-    print('''<label>
-    <input type="checkbox" id="ukcore-checkbox" checked>
-    Show UKCore Items
-    </label>
-    <br>
-    <label>
-    <input type="checkbox" id="nhsengland-checkbox" checked>
-    Show NHSEngland Items
-    </label>
-
-    ''',file=md_file)
-    print('''<script>
-    const ukcoreCheckbox = document.getElementById('ukcore-checkbox');
-    const nhsenglandCheckbox = document.getElementById('nhsengland-checkbox');
-
-    ukcoreCheckbox.addEventListener('change', function() {
-        const ukcoreItems = document.querySelectorAll('.ukcore');
-        ukcoreItems.forEach(item => {
-        if (ukcoreCheckbox.checked) {
-            item.classList.remove('hidden');
-        } else {
-            item.classList.add('hidden');
-        }
-        });
-    });
-
-    nhsenglandCheckbox.addEventListener('change', function() {
-        const nhsenglandItems = document.querySelectorAll('.nhsengland');
-        nhsenglandItems.forEach(item => {
-        if (nhsenglandCheckbox.checked) {
-            item.classList.remove('hidden');
-        } else {
-            item.classList.add('hidden');
-        }
-        });
-    });
-    </script>
-
-    ''',file=md_file)
-
-    print(f'''## {title}s\n\n<div class="status-container">\n<ul>\n''', file=md_file)
+    print(f'''## {title}s\n\n''', file=md_file)
     profile_header = ''
     for asset, elements in items.items():
         if title == 'Profile' and elements['type'] != profile_header:
+            if profile_header:
+                print('</div>\n', file=md_file)
             profile_header = elements['type']
-            print(f'''### {profile_header}\n''', file=md_file)
+            print(f'''<a href="https://hl7.org/fhir/R4/{profile_header}" class="project-banner">{profile_header}</a>\n<div class="project-container">''', file=md_file)
         code_assets(asset, elements, title, md_file)
-    print(f"</ul></div><br><br>\n\n---\n\n",file=md_file)
+    print(f'''</div>\n\n---\n\n''',file=md_file)
     md_file.close()
+    return
 
 if __name__ == "__main__":
    
