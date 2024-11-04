@@ -50,6 +50,8 @@
 <span class="status active">active</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Appointment" class="project-banner">Appointment</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Appointment" class="child-title">
@@ -60,6 +62,8 @@
 <span class="status active">active</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/AuditEvent" class="project-banner">AuditEvent</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-AuditEvent" class="child-title">
@@ -78,6 +82,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/BodyStructure" class="project-banner">BodyStructure</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-BodyStructure" class="child-title">
@@ -88,6 +94,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Bundle" class="project-banner">Bundle</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Bundle" class="child-title">
@@ -98,6 +106,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/CarePlan" class="project-banner">CarePlan</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-CarePlan" class="child-title">
@@ -108,6 +118,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/CareTeam" class="project-banner">CareTeam</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-CareTeam" class="child-title">
@@ -118,6 +130,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Communication" class="project-banner">Communication</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Communication" class="child-title">
@@ -128,6 +142,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Composition" class="project-banner">Composition</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Composition" class="child-title">
@@ -138,6 +154,8 @@
 <span class="status active">active</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Condition" class="project-banner">Condition</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Condition" class="child-title">
@@ -156,6 +174,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Consent" class="project-banner">Consent</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Consent" class="child-title">
@@ -174,6 +194,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Device" class="project-banner">Device</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Device" class="child-title">
@@ -192,6 +214,8 @@
 <span class="status active">active</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/DiagnosticReport" class="project-banner">DiagnosticReport</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-DiagnosticReport" class="child-title">
@@ -218,6 +242,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/DocumentReference" class="project-banner">DocumentReference</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-DocumentReference" class="child-title">
@@ -228,6 +254,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Encounter" class="project-banner">Encounter</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Encounter" class="child-title">
@@ -238,6 +266,8 @@
 <span class="status active">active</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/EpisodeOfCare" class="project-banner">EpisodeOfCare</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-EpisodeOfCare" class="child-title">
@@ -248,6 +278,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/FamilyMemberHistory" class="project-banner">FamilyMemberHistory</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-FamilyMemberHistory" class="child-title">
@@ -258,6 +290,8 @@
 <span class="status active">active</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Flag" class="project-banner">Flag</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Flag" class="child-title">
@@ -284,6 +318,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/HealthcareService" class="project-banner">HealthcareService</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-HealthcareService" class="child-title">
@@ -294,6 +330,8 @@
 <span class="status active">active</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Identifier" class="project-banner">Identifier</a>
 <div class="project-container">
 <a href="https://simplifier.net/NHS-England-Programme-Implementation-Guides/England-Identifier-Accredited-System" class="child-title">
@@ -352,6 +390,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/ImagingStudy" class="project-banner">ImagingStudy</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-ImagingStudy" class="child-title">
@@ -362,6 +402,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Immunization" class="project-banner">Immunization</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Immunization" class="child-title">
@@ -372,6 +414,8 @@
 <span class="status active">active</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/List" class="project-banner">List</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-List" class="child-title">
@@ -382,6 +426,8 @@
 <span class="status active">active</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Location" class="project-banner">Location</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Location" class="child-title">
@@ -392,6 +438,8 @@
 <span class="status active">active</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Medication" class="project-banner">Medication</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Medication" class="child-title">
@@ -402,6 +450,8 @@
 <span class="status active">active</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/MedicationAdministration" class="project-banner">MedicationAdministration</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-MedicationAdministration" class="child-title">
@@ -412,6 +462,8 @@
 <span class="status active">active</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/MedicationDispense" class="project-banner">MedicationDispense</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-MedicationDispense" class="child-title">
@@ -422,6 +474,8 @@
 <span class="status active">active</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/MedicationRequest" class="project-banner">MedicationRequest</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-MedicationRequest" class="child-title">
@@ -432,6 +486,8 @@
 <span class="status active">active</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/MedicationStatement" class="project-banner">MedicationStatement</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-MedicationStatement" class="child-title">
@@ -442,6 +498,8 @@
 <span class="status active">active</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/MessageHeader" class="project-banner">MessageHeader</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-MessageHeader" class="child-title">
@@ -452,6 +510,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Observation" class="project-banner">Observation</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Observation" class="child-title">
@@ -646,6 +706,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/OperationOutcome" class="project-banner">OperationOutcome</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-OperationOutcome" class="child-title">
@@ -656,6 +718,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Organization" class="project-banner">Organization</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Organization" class="child-title">
@@ -682,6 +746,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/OrganizationAffiliation" class="project-banner">OrganizationAffiliation</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-OrganizationAffiliation" class="child-title">
@@ -700,6 +766,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Patient" class="project-banner">Patient</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Patient" class="child-title">
@@ -726,6 +794,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Practitioner" class="project-banner">Practitioner</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Practitioner" class="child-title">
@@ -744,6 +814,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/PractitionerRole" class="project-banner">PractitionerRole</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-PractitionerRole" class="child-title">
@@ -762,6 +834,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Procedure" class="project-banner">Procedure</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Procedure" class="child-title">
@@ -772,6 +846,8 @@
 <span class="status active">active</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Provenance" class="project-banner">Provenance</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Provenance" class="child-title">
@@ -790,6 +866,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Questionnaire" class="project-banner">Questionnaire</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Questionnaire" class="child-title">
@@ -800,6 +878,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/QuestionnaireResponse" class="project-banner">QuestionnaireResponse</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-QuestionnaireResponse" class="child-title">
@@ -810,6 +890,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Reference" class="project-banner">Reference</a>
 <div class="project-container">
 <a href="https://simplifier.net/NHS-England-Programme-Implementation-Guides/England-CodeableReference" class="child-title">
@@ -820,6 +902,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/RelatedPerson" class="project-banner">RelatedPerson</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-RelatedPerson" class="child-title">
@@ -846,6 +930,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/RequestGroup" class="project-banner">RequestGroup</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-RequestGroup" class="child-title">
@@ -856,6 +942,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Schedule" class="project-banner">Schedule</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Schedule" class="child-title">
@@ -866,6 +954,8 @@
 <span class="status active">active</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/ServiceRequest" class="project-banner">ServiceRequest</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-ServiceRequest" class="child-title">
@@ -892,6 +982,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Slot" class="project-banner">Slot</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Slot" class="child-title">
@@ -902,6 +994,8 @@
 <span class="status active">active</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Specimen" class="project-banner">Specimen</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Specimen" class="child-title">
@@ -920,6 +1014,8 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
+</div>
+
 <a href="https://hl7.org/fhir/R4/Task" class="project-banner">Task</a>
 <div class="project-container">
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-Task" class="child-title">
