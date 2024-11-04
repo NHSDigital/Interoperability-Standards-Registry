@@ -39,8 +39,6 @@
     
 ## Extensions
 
-<div class="status-container">
-
 
 <a href="https://simplifier.net/NHS-England-Programme-Implementation-Guides/Extension-England-FlagNotes" class="child-title">
 <div class="title">Extension-England-FlagNotes</div>

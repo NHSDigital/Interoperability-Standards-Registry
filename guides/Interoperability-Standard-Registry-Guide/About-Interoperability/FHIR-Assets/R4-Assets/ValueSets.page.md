@@ -39,8 +39,6 @@
     
 ## ValueSets
 
-<div class="status-container">
-
 
 <a href="https://simplifier.net/NHS-England-Programme-Implementation-Guides/ValueSet-England-BodyStructure" class="child-title">
 <div class="title">England-BodyStructure</div>

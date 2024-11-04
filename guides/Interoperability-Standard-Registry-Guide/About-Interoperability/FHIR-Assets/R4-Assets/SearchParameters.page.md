@@ -39,8 +39,6 @@
     
 ## SearchParameters
 
-<div class="status-container">
-
 
 <a href="https://simplifier.net/NHS-England-Programme-Implementation-Guides/England-Extension-OrganisationRole-ActiveRoleCode" class="child-title">
 <div class="title">England-Extension-OrganisationRole-ActiveRoleCode</div>

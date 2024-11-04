@@ -39,8 +39,6 @@
     
 ## ConceptMaps
 
-<div class="status-container">
-
 
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-AdministrativeGender" class="child-title">
 <div class="title">UKCore-AdministrativeGender</div>
