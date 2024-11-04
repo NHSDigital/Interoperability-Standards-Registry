@@ -157,6 +157,8 @@ def write_section(title, items):
     profile_header = ''
     for asset, elements in items.items():
         if title == 'Profile' and elements['type'] != profile_header:
+            if profile_header:
+                print('</div>\n')
             profile_header = elements['type']
             print(f'''<a href="https://hl7.org/fhir/R4/{profile_header}" class="project-banner">{profile_header}</a>\n<div class="project-container">''', file=md_file)
         code_assets(asset, elements, title, md_file)
