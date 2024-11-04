@@ -152,12 +152,12 @@ def write_section(title, items):
 
     ''',file=md_file)
 
-    print(f'''## {title}s\n\n<div class="status-container">\n\n''', file=md_file)
+    print(f'''## {title}s\n\n''', file=md_file)
     profile_header = ''
     for asset, elements in items.items():
         if title == 'Profile' and elements['type'] != profile_header:
             profile_header = elements['type']
-            print(f'''<a href="https://hl7.org/fhir/R4/{profile_header} class="project-banner">{profile_header}</a>\n<div class="project-container">''', file=md_file)
+            print(f'''<a href="https://hl7.org/fhir/R4/{profile_header}" class="project-banner">{profile_header}</a>\n<div class="project-container">''', file=md_file)
         code_assets(asset, elements, title, md_file)
     print(f"</div>\n\n---\n\n",file=md_file)
     md_file.close()
