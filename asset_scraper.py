@@ -104,6 +104,7 @@ def code_assets(asset, elements, title, md_file):
         else:
             print(f"  {str(value)} &nbsp;&nbsp;&nbsp;&nbsp;", file = md_file)
     print(f"</div>\n</a>", file = md_file)
+    return
     
 
 def write_section(title, items):
@@ -159,8 +160,10 @@ def write_section(title, items):
             profile_header = elements['type']
             print(f'''<a href="https://hl7.org/fhir/R4/{profile_header}" class="project-banner">{profile_header}</a>\n<div class="project-container">''', file=md_file)
         code_assets(asset, elements, title, md_file)
-    print(f"</div>\n\n---\n\n",file=md_file)
+        print(f'''</div>\n''')
+    print(f'''</div>\n\n---\n\n''',file=md_file)
     md_file.close()
+    return
 
 if __name__ == "__main__":
    
