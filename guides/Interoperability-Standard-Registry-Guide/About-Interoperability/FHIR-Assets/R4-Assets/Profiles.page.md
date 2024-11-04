@@ -938,7 +938,7 @@
 <span class="status draft">draft</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
-</div>
+</div><!--TEST2-->
 
 ---
 
