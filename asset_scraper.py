@@ -160,7 +160,6 @@ def write_section(title, items):
             profile_header = elements['type']
             print(f'''<a href="https://hl7.org/fhir/R4/{profile_header}" class="project-banner">{profile_header}</a>\n<div class="project-container">''', file=md_file)
         code_assets(asset, elements, title, md_file)
-        print(f'''</div>\n''', file=md_file)
     print(f'''</div>\n\n---\n\n''',file=md_file)
     md_file.close()
     return
