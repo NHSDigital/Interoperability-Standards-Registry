@@ -40,7 +40,7 @@
 ## Extensions
 
 <div class="status-container">
-<ul>
+
 
 <a href="https://simplifier.net/NHS-England-Programme-Implementation-Guides/Extension-England-FlagNotes" class="child-title">
 <div class="title">Extension-England-FlagNotes</div>

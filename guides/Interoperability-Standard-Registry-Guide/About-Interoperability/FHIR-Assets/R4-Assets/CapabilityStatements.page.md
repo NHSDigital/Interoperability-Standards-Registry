@@ -40,7 +40,7 @@
 ## CapabilityStatements
 
 <div class="status-container">
-<ul>
+
 
 <a href="https://simplifier.net/nhs-england-implementation-guide/apim-conformance" class="child-title">
 <div class="title">apim-conformance</div>

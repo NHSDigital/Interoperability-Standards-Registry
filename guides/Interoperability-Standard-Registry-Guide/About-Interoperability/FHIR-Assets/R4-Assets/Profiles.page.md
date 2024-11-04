@@ -40,7 +40,7 @@
 ## Profiles
 
 <div class="status-container">
-<ul>
+
 
 <a href="https://hl7.org/fhir/R4/AllergyIntolerance class="project-banner">AllergyIntolerance</a>
 <div class="project-container">
