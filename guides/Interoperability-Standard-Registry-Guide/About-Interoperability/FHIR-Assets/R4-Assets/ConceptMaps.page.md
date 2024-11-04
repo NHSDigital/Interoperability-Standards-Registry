@@ -42,25 +42,31 @@
 <div class="status-container">
 <ul>
 
-<li class="ukcore"><a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-AdministrativeGender">UKCore-AdministrativeGender</a>
-  2.0.0
-  2021-09-10
-  <span class="status retired">retired</span>
-</li>
-
-<li class="ukcore"><a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-ConditionEpisodicity">UKCore-ConditionEpisodicity</a>
-  2.0.0
-  2022-12-16
-  <span class="status retired">retired</span>
-</li>
-
-<li class="ukcore"><a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-MaritalStatus">UKCore-MaritalStatus</a>
-  2.0.0
-  2021-09-10
-  <span class="status retired">retired</span>
-</li>
-
-</ul></div><br><br>
+<a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-AdministrativeGender" class="child-title">
+<div class="title">UKCore-AdministrativeGender</div>
+<div class="description">
+  2.0.0 &nbsp;&nbsp;&nbsp;&nbsp;
+  2021-09-10 &nbsp;&nbsp;&nbsp;&nbsp;
+<span class="status retired">retired</span> &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+</a>
+<a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-ConditionEpisodicity" class="child-title">
+<div class="title">UKCore-ConditionEpisodicity</div>
+<div class="description">
+  2.0.0 &nbsp;&nbsp;&nbsp;&nbsp;
+  2022-12-16 &nbsp;&nbsp;&nbsp;&nbsp;
+<span class="status retired">retired</span> &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+</a>
+<a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-MaritalStatus" class="child-title">
+<div class="title">UKCore-MaritalStatus</div>
+<div class="description">
+  2.0.0 &nbsp;&nbsp;&nbsp;&nbsp;
+  2021-09-10 &nbsp;&nbsp;&nbsp;&nbsp;
+<span class="status retired">retired</span> &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+</a>
+</div>
 
 ---
 
