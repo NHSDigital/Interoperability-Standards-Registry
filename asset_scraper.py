@@ -152,7 +152,7 @@ def write_section(title, items):
 
     ''',file=md_file)
 
-    print(f'''## {title}s\n\n<div class="status-container">\n<ul>\n''', file=md_file)
+    print(f'''## {title}s\n\n<div class="status-container">\n\n''', file=md_file)
     profile_header = ''
     for asset, elements in items.items():
         if title == 'Profile' and elements['type'] != profile_header:
