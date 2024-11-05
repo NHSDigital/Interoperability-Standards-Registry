@@ -34,12 +34,7 @@ jobs:
         with:
           repository: NHSDigital/FHIR-R4-UKCORE-COMMUNITYASSETS
           path: FHIR-R4-UKCORE-COMMUNITYASSETS
-      
-      - uses: actions/checkout@v4
-        with:
-          repository: NHSDigital/Pathology-Standards-and-Implementation-FHIR-SNOMED
-          path: Pathology-Standards-and-Implementation-FHIR-SNOMED
-      
+            
       - uses: actions/checkout@v4
         with:
           repository: NHSDigital-FHIR-Medicines-ImplementationGuide
