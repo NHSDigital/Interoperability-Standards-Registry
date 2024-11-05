@@ -29,7 +29,42 @@ jobs:
         with:
           repository: NHSDigital/NHSEngland-FHIR-Programme-ImplementationGuide
           path: NHSEngland-FHIR-Programme-ImplementationGuide
+      
+      - uses: actions/checkout@v4
+        with:
+          repository: NHSDigital/FHIR-R4-UKCORE-COMMUNITYASSETS
+          path: FHIR-R4-UKCORE-COMMUNITYASSETS
+      
+      - uses: actions/checkout@v4
+        with:
+          repository: Pathology-Standards-and-Implementation-FHIR-SNOMED
+          path: Pathology-Standards-and-Implementation-FHIR-SNOMED
+      
+      - uses: actions/checkout@v4
+        with:
+          repository: NHSDigital-FHIR-Medicines-ImplementationGuide
+          path: NHSDigital-FHIR-Medicines-ImplementationGuide
+      
+      - uses: actions/checkout@v4
+        with:
+          repository: FHIR-R4-CLINICAL-OBSERVATIONS
+          path: FHIR-R4-CLINICAL-OBSERVATIONS
+      
+      - uses: actions/checkout@v4
+        with:
+          repository: NHSDigital-FHIR-BookingAndReferrals
+          path: NHSDigital-FHIR-BookingAndReferrals
+      
+      - uses: actions/checkout@v4
+        with:
+          repository: NHSDigital-FHIR-Genomics-ImplementationGuide
+          path: NHSDigital-FHIR-Genomics-ImplementationGuide
 
+      - uses: actions/checkout@v4
+        with:
+          repository: IOPS-Frameworks
+          path: IOPS-Frameworks
+          
       - name: Set up python
         uses: actions/setup-python@v5
         with:
