@@ -12,9 +12,6 @@
 <span class="status retired">retired</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
-<div class="project-container">
-
-
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-ConditionEpisodicity" class="child-title">
 <div class="title">UKCore-ConditionEpisodicity</div>
 <div class="description">
@@ -23,9 +20,6 @@
 <span class="status retired">retired</span> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 </a>
-<div class="project-container">
-
-
 <a href="https://simplifier.net/HL7FHIRUKCoreR4/UKCore-MaritalStatus" class="child-title">
 <div class="title">UKCore-MaritalStatus</div>
 <div class="description">
