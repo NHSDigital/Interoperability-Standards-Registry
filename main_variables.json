@@ -11,7 +11,7 @@
         "NHSEngland-FHIR-ImplementationGuide": "https://simplifier.net/nhs-england-implementation-guide",
         "NHSEngland-FHIR-Programme-ImplementationGuide": "https://simplifier.net/NHS-England-Programme-Implementation-Guides"
         "FHIR-R4-UKCORE-COMMUNITYASSETS": "https://simplifier.net/ukfhircommunityassets",
-        "Pathology-Standards-and-Implementation-FHIR-SNOMED": "https://simplifier.net/Pathology",
+        "": "https://simplifier.net/Pathology",
         "NHSDigital-FHIR-Medicines-ImplementationGuide": "https://simplifier.net/ukdigitalmedicine",
         "": "https://simplifier.net/summarycarerecord-plusCodedEntry",
         "FHIR-R4-CLINICAL-OBSERVATIONS": "https://simplifier.net/clinicalobservations",
@@ -19,7 +19,7 @@
         "": "https://simplifier.net/EPMAImplementationGuidanceforR4",
         "NHSDigital-FHIR-BookingAndReferrals": "https://simplifier.net/NHSBookingandReferrals",
         "NHSDigital-FHIR-Genomics-ImplementationGuide": "https://simplifier.net/NHS-Digital-FHIR-Genomics-Implementation-Guide",
-        "IOPS-Frameworks": "https://simplifier.net/Frameworks",
+        "": "https://simplifier.net/Frameworks",
         "": "https://simplifier.net/GP-Connect---Direct-Care-APIs---R4"
         
     }
