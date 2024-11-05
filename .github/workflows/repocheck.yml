@@ -37,7 +37,7 @@ jobs:
             
       - uses: actions/checkout@v4
         with:
-          repository: NHSDigital-FHIR-Medicines-ImplementationGuide
+          repository: NHSDigital/NHSDigital-FHIR-Medicines-ImplementationGuide
           path: NHSDigital-FHIR-Medicines-ImplementationGuide
       
       - uses: actions/checkout@v4
