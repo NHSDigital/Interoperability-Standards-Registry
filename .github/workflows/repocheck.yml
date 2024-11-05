@@ -37,7 +37,7 @@ jobs:
       
       - uses: actions/checkout@v4
         with:
-          repository: Pathology-Standards-and-Implementation-FHIR-SNOMED
+          repository: NHSDigital/Pathology-Standards-and-Implementation-FHIR-SNOMED
           path: Pathology-Standards-and-Implementation-FHIR-SNOMED
       
       - uses: actions/checkout@v4
@@ -47,22 +47,22 @@ jobs:
       
       - uses: actions/checkout@v4
         with:
-          repository: FHIR-R4-CLINICAL-OBSERVATIONS
+          repository: NHSDigital/FHIR-R4-CLINICAL-OBSERVATIONS
           path: FHIR-R4-CLINICAL-OBSERVATIONS
       
       - uses: actions/checkout@v4
         with:
-          repository: NHSDigital-FHIR-BookingAndReferrals
+          repository: NHSDigital/NHSDigital-FHIR-BookingAndReferrals
           path: NHSDigital-FHIR-BookingAndReferrals
       
       - uses: actions/checkout@v4
         with:
-          repository: NHSDigital-FHIR-Genomics-ImplementationGuide
+          repository: NHSDigital/NHSDigital-FHIR-Genomics-ImplementationGuide
           path: NHSDigital-FHIR-Genomics-ImplementationGuide
 
       - uses: actions/checkout@v4
         with:
-          repository: IOPS-Frameworks
+          repository: NHSDigital/IOPS-Frameworks
           path: IOPS-Frameworks
           
       - name: Set up python
