@@ -9,7 +9,7 @@
     "repo_to_url": {
         "FHIR-R4-UKCORE-STAGING-MAIN": "https://simplifier.net/HL7FHIRUKCoreR4",
         "NHSEngland-FHIR-ImplementationGuide": "https://simplifier.net/nhs-england-implementation-guide",
-        "NHSEngland-FHIR-Programme-ImplementationGuide": "https://simplifier.net/NHS-England-Programme-Implementation-Guides"
+        "NHSEngland-FHIR-Programme-ImplementationGuide": "https://simplifier.net/NHS-England-Programme-Implementation-Guides",
         "FHIR-R4-UKCORE-COMMUNITYASSETS": "https://simplifier.net/ukfhircommunityassets",
         "": "https://simplifier.net/Pathology",
         "NHSDigital-FHIR-Medicines-ImplementationGuide": "https://simplifier.net/ukdigitalmedicine",
