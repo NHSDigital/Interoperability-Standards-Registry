@@ -54,11 +54,6 @@ jobs:
         with:
           repository: NHSDigital/NHSDigital-FHIR-Genomics-ImplementationGuide
           path: NHSDigital-FHIR-Genomics-ImplementationGuide
-
-      - uses: actions/checkout@v4
-        with:
-          repository: NHSDigital/IOPS-Frameworks
-          path: IOPS-Frameworks
           
       - name: Set up python
         uses: actions/setup-python@v5
