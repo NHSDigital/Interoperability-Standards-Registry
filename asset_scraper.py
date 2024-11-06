@@ -86,7 +86,11 @@ def code_assets(asset, elements, title, md_file):
     if title == 'ValueSet' or title == 'CodeSystem':
         print(f'''<a href="{elements['repo_name']}/{title}-{elements['id']}" class="child-title">''',file=md_file)
     else:
-        print(f'''<a href="{elements['repo_name']}/{elements['id']}" class="child-title">''',file=md_file)
+        try:
+            print(f'''<a href="{elements['repo_name']}/{elements['id']}" class="child-title">''',file=md_file)
+        except Exception as e:
+            print(f"no id: {elements}")
+            return
     print(f'''<div class="title">{elements['id']}</div>
 <div class="description">''',file=md_file)
     elements.pop('url')
@@ -188,6 +192,7 @@ if __name__ == "__main__":
     profiles = {}
     extensions = {}
     searchparameters = {}
+    operationdefinition = {}
     for asset, elements in global_elements.items():
         for k,v in elements.items():
             if k=='url':
@@ -201,15 +206,21 @@ if __name__ == "__main__":
                     valuesets.update({asset:elements})
                 elif 'searchparameter' in v.lower():
                     searchparameters.update({asset:elements})
+                elif 'operationdefinition' in v.lower():
+                    operationdefinition.update({asset:elements})
                 elif 'type' in elements: #ensures that profiles are sorted from examples that contain url
                     #print(f"{k}: {elements['type']}")
                     profiles.update({asset:elements})
     #print(f"PROFILES: {profiles}")
     profiles_temp = profiles.copy()
     for asset, elements in profiles_temp.items():
-        if profiles_temp[asset]['type'].lower() == 'extension':
-            extensions.update({asset:elements})
-            profiles.pop(asset)
+        try:
+            if profiles_temp[asset]['type'].lower() == 'extension':
+                extensions.update({asset:elements})
+                profiles.pop(asset)
+        except Exception as e:
+                print(f"profiles_temp error: {asset} - {elements} - error: {e}")
+                continue
     #print(F"PROFILES: {profiles}")
     #print(F"EXTENSIONS: {extensions}")
             
@@ -235,6 +246,8 @@ if __name__ == "__main__":
     write_section("ConceptMap", conceptmaps)
     write_section("CapabilityStatement", capabilitystatements)
     write_section("SearchParameter", searchparameters)
+    write_section("OperationDefinition", operationdefinition)
+    
 
 
 
