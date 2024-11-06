@@ -89,7 +89,7 @@ def sort_ukcore(guides):
 #### Create webpage ####
 This creates the html for the page. Note: it is hard to read, Flask is potentially a better way '''
 
-path = './guides/Interoperability-Standard-Registry-Guide/About-Interoperability/FHIR-Guides/'
+path = './guides/Interoperability-Standard-Registry-Guide/Home/FHIR-Guides/'
 
 def guides_to_html(org, projects):
     page = str(path+'/'+org.text+'.page.md').replace(" ","-")
