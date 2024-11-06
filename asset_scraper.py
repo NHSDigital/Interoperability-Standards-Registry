@@ -90,7 +90,7 @@ def code_assets(asset, elements, title, md_file):
             print(f'''<a href="{elements['repo_name']}/{elements['id']}" class="child-title">''',file=md_file)
         except Exception as e:
             print(f"no id: {elements}")
-            continue
+            return
     print(f'''<div class="title">{elements['id']}</div>
 <div class="description">''',file=md_file)
     elements.pop('url')
