@@ -207,9 +207,13 @@ if __name__ == "__main__":
     #print(f"PROFILES: {profiles}")
     profiles_temp = profiles.copy()
     for asset, elements in profiles_temp.items():
-        if profiles_temp[asset]['type'].lower() == 'extension':
-            extensions.update({asset:elements})
-            profiles.pop(asset)
+        try:
+            if profiles_temp[asset]['type'].lower() == 'extension':
+                extensions.update({asset:elements})
+                profiles.pop(asset)
+        except as e:
+                print(f"profiles_temp error: {asset} - {elements} - error: {e}")
+                continue
     #print(F"PROFILES: {profiles}")
     #print(F"EXTENSIONS: {extensions}")
             
