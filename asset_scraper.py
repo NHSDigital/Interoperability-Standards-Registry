@@ -226,7 +226,7 @@ if __name__ == "__main__":
     capabilitystatements = dict(sorted(capabilitystatements.items()))
     searchparameters = dict(sorted(searchparameters.items()))
     
-    path = './guides/Interoperability-Standard-Registry-Guide/About-Interoperability/FHIR-Assets/R4-Assets/'
+    path = './guides/Interoperability-Standard-Registry-Guide/Home/FHIR-Assets/R4-Assets/'
     
     write_section("Profile", profiles)
     write_section("Extension", extensions)
