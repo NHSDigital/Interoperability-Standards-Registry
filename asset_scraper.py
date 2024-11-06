@@ -86,7 +86,11 @@ def code_assets(asset, elements, title, md_file):
     if title == 'ValueSet' or title == 'CodeSystem':
         print(f'''<a href="{elements['repo_name']}/{title}-{elements['id']}" class="child-title">''',file=md_file)
     else:
-        print(f'''<a href="{elements['repo_name']}/{elements['id']}" class="child-title">''',file=md_file)
+        try:
+            print(f'''<a href="{elements['repo_name']}/{elements['id']}" class="child-title">''',file=md_file)
+        except Exception as e:
+            print(f"no id: {elements}")
+            continue
     print(f'''<div class="title">{elements['id']}</div>
 <div class="description">''',file=md_file)
     elements.pop('url')
