@@ -211,7 +211,7 @@ if __name__ == "__main__":
             if profiles_temp[asset]['type'].lower() == 'extension':
                 extensions.update({asset:elements})
                 profiles.pop(asset)
-        except as e:
+        except Exception as e:
                 print(f"profiles_temp error: {asset} - {elements} - error: {e}")
                 continue
     #print(F"PROFILES: {profiles}")
