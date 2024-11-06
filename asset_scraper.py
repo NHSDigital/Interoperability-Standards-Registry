@@ -188,7 +188,7 @@ if __name__ == "__main__":
     profiles = {}
     extensions = {}
     searchparameters = {}
-    operationaldefinition = {}
+    operationdefinition = {}
     for asset, elements in global_elements.items():
         for k,v in elements.items():
             if k=='url':
@@ -202,8 +202,8 @@ if __name__ == "__main__":
                     valuesets.update({asset:elements})
                 elif 'searchparameter' in v.lower():
                     searchparameters.update({asset:elements})
-                elif 'operationaldefinition' in v.lower():
-                    operationaldefinition.update({asset:elements})
+                elif 'operationdefinition' in v.lower():
+                    operationdefinition.update({asset:elements})
                 elif 'type' in elements: #ensures that profiles are sorted from examples that contain url
                     #print(f"{k}: {elements['type']}")
                     profiles.update({asset:elements})
@@ -242,7 +242,7 @@ if __name__ == "__main__":
     write_section("ConceptMap", conceptmaps)
     write_section("CapabilityStatement", capabilitystatements)
     write_section("SearchParameter", searchparameters)
-    write_section("OperationalDefinition", operationaldefinition)
+    write_section("OperationDefinition", operationdefinition)
     
 
 
