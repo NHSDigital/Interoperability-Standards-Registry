@@ -186,12 +186,12 @@ if __name__ == "__main__":
         
     '''Sort assets into seperate dictionaries'''
     profile = {}
+    extension = {},
     asset_categories = { # move asset categories to main_variales.json
         'codesystem': {},
         'conceptmap': {},
         'capabilitystatement': {},
         'valueset': {},
-        'extension': {},
         'searchparameter': {},
         'operationdefinition': {},
     }
@@ -217,29 +217,22 @@ if __name__ == "__main__":
                 continue
 
             
-    codesystem = dict(sorted(codesystem.items()))
-    valueset = dict(sorted(valueset.items()))
-    #profile = dict(sorted(profile.items(), key=lambda item: (item[1]['type'], item[0], item[0].count('-'))))
+    asset_categories = {category: dict(sorted(asset.items())) for category, asset in asset_categories.items()}
     profile = dict(sorted(profile.items(), key=lambda item: (
         item[1]['type'],                   # 1. Sort by 'type'
         not item[0].startswith('UKCore'),  # 2. Give priority to 'UKCore' (False < True)
         item[0],                           # 3. Alphabetically by key
         item[0].count('-')                 # 4. By dash count in the key
     )))
-    conceptmap = dict(sorted(conceptmap.items()))
-    capabilitystatement = dict(sorted(capabilitystatement.items()))
-    searchparameter = dict(sorted(searchparameter.items()))
+    element = dict(sorted(element.items()))
     
     path = './guides/Interoperability-Standard-Registry-Guide/About-Interoperability/FHIR-Assets/R4-Assets/'
     
     write_section("Profile", profile)
     write_section("Extension", extension)
-    write_section("ValueSet", valueset)
-    write_section("CodeSystem", codesystem)
-    write_section("ConceptMap", conceptmap)
-    write_section("CapabilityStatement", capabilitystatement)
-    write_section("SearchParameter", searchparameter)
-    write_section("OperationDefinition", operationdefinition)
+    for category, asset in asset_categories.items():
+        write_section("category", asset)
+        
     
 
 
