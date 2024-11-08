@@ -97,7 +97,7 @@ def code_assets(asset, elements, title, md_file):
     elements.pop('repo_name')
     elements.pop('id')
     try:
-        elements.pop('type') #used previously for sorting profiles and extensions, now not needed
+        elements.pop('type') #used previously for sorting profile and extension, now not needed
     except KeyError:
         pass
     for element,value in elements.items():
@@ -185,67 +185,60 @@ if __name__ == "__main__":
         print(f"\t{f}")
         
     '''Sort assets into seperate dictionaries'''
-    codesystems = {}
-    conceptmaps = {}
-    capabilitystatements = {}
-    valuesets = {}
-    profiles = {}
-    extensions = {}
-    searchparameters = {}
-    operationdefinition = {}
+    profile = {}
+    asset_categories = { # move asset categories to main_variales.json
+        'codesystem': {},
+        'conceptmap': {},
+        'capabilitystatement': {},
+        'valueset': {},
+        'extension': {},
+        'searchparameter': {},
+        'operationdefinition': {},
+    }
+    ''' Sort assets into categories using the url to define the asset category. Issue with some examples containing StructureDefinition in url means needing to sort on 'type' for profile. 
+    Must be a better way of sorting via url as what happens if this does not contain the category, or examples with url does. This also needs to be put into a definition for ease of reading'''
     for asset, elements in global_elements.items():
-        for k,v in elements.items():
-            if k=='url':
-                if 'codesystem' in v.lower():
-                    codesystems.update({asset:elements})
-                elif 'conceptmap' in v.lower():
-                    conceptmaps.update({asset:elements})
-                elif 'capabilitystatement' in v.lower():
-                    capabilitystatements.update({asset:elements})
-                elif 'valueset' in v.lower():
-                    valuesets.update({asset:elements})
-                elif 'searchparameter' in v.lower():
-                    searchparameters.update({asset:elements})
-                elif 'operationdefinition' in v.lower():
-                    operationdefinition.update({asset:elements})
-                elif 'type' in elements: #ensures that profiles are sorted from examples that contain url
-                    #print(f"{k}: {elements['type']}")
-                    profiles.update({asset:elements})
-    #print(f"PROFILES: {profiles}")
-    profiles_temp = profiles.copy()
-    for asset, elements in profiles_temp.items():
+        for element,value in elements.items():
+            if element == 'url':
+                for category, asset_dict in asset_categories.items():
+                    if category in value.lower():
+                        asset_dict.update({asset:elements})
+                        break
+                if 'type' in elements: #ensures that profile are sorted from examples that contain url
+                    profile.update({asset:elements})
+    profile_temp = profile.copy()
+    for asset, elements in profile_temp.items():
         try:
-            if profiles_temp[asset]['type'].lower() == 'extension':
-                extensions.update({asset:elements})
-                profiles.pop(asset)
+            if profile_temp[asset]['type'].lower() == 'extension':
+                extension.update({asset:elements})
+                profile.pop(asset)
         except Exception as e:
-                print(f"profiles_temp error: {asset} - {elements} - error: {e}")
+                print(f"profile_temp error: {asset} - {elements} - error: {e}")
                 continue
-    #print(F"PROFILES: {profiles}")
-    #print(F"EXTENSIONS: {extensions}")
+
             
-    codesystems = dict(sorted(codesystems.items()))
-    valuesets = dict(sorted(valuesets.items()))
-    #profiles = dict(sorted(profiles.items(), key=lambda item: (item[1]['type'], item[0], item[0].count('-'))))
-    profiles = dict(sorted(profiles.items(), key=lambda item: (
+    codesystem = dict(sorted(codesystem.items()))
+    valueset = dict(sorted(valueset.items()))
+    #profile = dict(sorted(profile.items(), key=lambda item: (item[1]['type'], item[0], item[0].count('-'))))
+    profile = dict(sorted(profile.items(), key=lambda item: (
         item[1]['type'],                   # 1. Sort by 'type'
         not item[0].startswith('UKCore'),  # 2. Give priority to 'UKCore' (False < True)
         item[0],                           # 3. Alphabetically by key
         item[0].count('-')                 # 4. By dash count in the key
     )))
-    conceptmaps = dict(sorted(conceptmaps.items()))
-    capabilitystatements = dict(sorted(capabilitystatements.items()))
-    searchparameters = dict(sorted(searchparameters.items()))
+    conceptmap = dict(sorted(conceptmap.items()))
+    capabilitystatement = dict(sorted(capabilitystatement.items()))
+    searchparameter = dict(sorted(searchparameter.items()))
     
     path = './guides/Interoperability-Standard-Registry-Guide/About-Interoperability/FHIR-Assets/R4-Assets/'
     
-    write_section("Profile", profiles)
-    write_section("Extension", extensions)
-    write_section("ValueSet", valuesets)
-    write_section("CodeSystem", codesystems)
-    write_section("ConceptMap", conceptmaps)
-    write_section("CapabilityStatement", capabilitystatements)
-    write_section("SearchParameter", searchparameters)
+    write_section("Profile", profile)
+    write_section("Extension", extension)
+    write_section("ValueSet", valueset)
+    write_section("CodeSystem", codesystem)
+    write_section("ConceptMap", conceptmap)
+    write_section("CapabilityStatement", capabilitystatement)
+    write_section("SearchParameter", searchparameter)
     write_section("OperationDefinition", operationdefinition)
     
 
