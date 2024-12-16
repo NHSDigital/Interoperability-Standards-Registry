@@ -84,10 +84,10 @@ def code_assets(asset, elements, title, md_file):
     else:
         list_class = 'nhsengland'
     if title == 'ValueSet' or title == 'CodeSystem':
-        print(f'''<a href="{elements['repo_name']}/{title}-{elements['id']}" class="child-title">''',file=md_file)
+        print(f'''<a href="{elements['repo_name']}/{title}-{elements['id']} target="_blank"" class="child-title" target="_blank">''',file=md_file)
     else:
         try:
-            print(f'''<a href="{elements['repo_name']}/{elements['id']}" class="child-title">''',file=md_file)
+            print(f'''<a href="{elements['repo_name']}/{elements['id']}" class="child-title" target="_blank">''',file=md_file)
         except Exception as e:
             print(f"no id: {elements}")
             return
@@ -126,7 +126,7 @@ def write_section(title, items):
             if profile_header:
                 print('</div>\n', file=md_file)
             profile_header = elements['type']
-            print(f'''<a href="https://hl7.org/fhir/R4/{profile_header}" class="project-banner">{profile_header}</a>\n<div class="project-container">''', file=md_file)
+            print(f'''<a href="https://hl7.org/fhir/R4/{profile_header}" class="project-banner">{profile_header}</a>\n<div class="project-container" target="_blank">''', file=md_file)
         code_assets(asset, elements, title, md_file)
     print(f'''</div>\n\n---\n\n''',file=md_file)
     md_file.close()
