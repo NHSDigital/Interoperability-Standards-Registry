@@ -105,7 +105,7 @@ def guides_to_html(org, projects):
         for project_name, guides in project.items():
             print(f'''
 
-<a href="{guides[0]+'" class="project-banner">'+project_name}
+<a href="{guides[0]+'" class="project-banner" target="_blank">'+project_name}
 <span class="description">{guides[1]}</span>
 </a>
 
@@ -116,7 +116,7 @@ def guides_to_html(org, projects):
             
             for guide in guides[2]:
                 print(f'''
-<a href="{guide[1]}" class="child-title">
+<a href="{guide[1]}" class="child-title" target="_blank">
 <div class="title">{guide[0]}</div>
 <div class="description">{guide[2]}</div>
 </a>
